@@ -1,0 +1,9 @@
+validations:
+  - id: VAL-EXAMPLE
+    name: example_validation
+    status: placeholder
+    severity: error
+    applies_to: ENT-EXAMPLE
+    rationale: Replace with an ontology, GAS, or structural-test rule.
+    automated: false
+    test_query: null

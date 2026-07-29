@@ -1,0 +1,11 @@
+queries:
+  - id: QRY-EXAMPLE
+    business_question: Replace with a Master Test Bank question.
+    status: placeholder
+    category: unclassified
+    intent: unknown
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: []
+    peer_ontology_routing: undecided

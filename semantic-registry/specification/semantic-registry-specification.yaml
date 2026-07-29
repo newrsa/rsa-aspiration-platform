@@ -1,0 +1,22 @@
+registry:
+  id: RSA-SEMANTIC-REGISTRY
+  name: RSA Semantic Registry
+  version: 0.1.0
+  status: draft
+  canonical_semantic_source: ontology
+  catalogs:
+    - entity-catalog
+    - relationship-catalog
+    - property-catalog
+    - validation-catalog
+    - constraint-catalog
+    - index-catalog
+    - query-catalog
+    - business-rule-catalog
+    - enumeration-catalog
+    - source-authority-catalog
+  cross_catalog_rules:
+    - Entities may reference only registered properties and relationships.
+    - Relationships must reference registered source and target entities.
+    - Constraints and indexes must reference registered entity properties.
+    - Queries must identify traversal, acceptance criteria, and routing scope.

@@ -1,0 +1,10 @@
+relationships:
+  - id: REL-EXAMPLE
+    name: EXAMPLE_RELATIONSHIP
+    status: placeholder
+    source_entity_id: ENT-EXAMPLE
+    target_entity_id: ENT-EXAMPLE
+    cardinality: many_to_many
+    mandatory: false
+    semantic_meaning: Replace with an ontology-derived relationship.
+    validation_rule_ids: []

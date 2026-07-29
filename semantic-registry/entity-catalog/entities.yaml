@@ -1,0 +1,12 @@
+entities:
+  - id: ENT-EXAMPLE
+    name: ExampleEntity
+    status: placeholder
+    version: 0.1.0
+    owner: SCC
+    stability: reference
+    description: Replace with an ontology-derived entity definition.
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []

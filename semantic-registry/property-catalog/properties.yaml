@@ -1,0 +1,9 @@
+properties:
+  - id: PROP-EXAMPLE-CODE
+    name: example_code
+    status: placeholder
+    datatype: string
+    required: true
+    unique: true
+    indexed: true
+    description: Replace with a registered ontology property.
