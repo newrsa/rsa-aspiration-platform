@@ -4,7 +4,7 @@
 
 // Manual preparation:
 // 1. Start a local Neo4j database.
-// 2. Copy datasets/seed into Neo4j's import directory as rsa/seed.
+// 2. Copy datasets/seed into Neo4j's import directory as seed.
 // 3. Run each numbered section below in order.
 
 
@@ -12,8 +12,8 @@
 // 01 Parameters
 // -----------------------------------------------------------------------------
 
-// Update this parameter if you place the seed CSVs elsewhere in Neo4j's import directory.
-:param csv_base_url => 'file:///rsa/seed/';
+// Default expects datasets/seed copied into Neo4j's import directory as seed.
+:param csv_base_url => 'file:///seed/';
 
 
 // -----------------------------------------------------------------------------
@@ -544,8 +544,8 @@ FOR (n:Certification) ON EACH [n.name];
 // 06 Load Nodes
 // -----------------------------------------------------------------------------
 
-// Before running this section, copy datasets/seed into Neo4j's import directory as rsa/seed.
-// Expected example path inside Neo4j import directory: rsa/seed/nodes/faculty.csv
+// Before running this section, copy datasets/seed into Neo4j's import directory as seed.
+// Expected example path inside Neo4j import directory: seed/nodes/faculty.csv
 
 // Generated node loaders.
 // Set $csv_base_url to a Neo4j-readable URL such as 'file:///rsa/'.

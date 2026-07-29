@@ -12,8 +12,8 @@ NOTEBOOK = ROOT / "neo4j" / "notebooks" / "manual_seed_smoke_test.cypher"
 SECTIONS = [
     (
         "01 Parameters",
-        """// Update this parameter if you place the seed CSVs elsewhere in Neo4j's import directory.
-:param csv_base_url => 'file:///rsa/seed/';
+        """// Default expects datasets/seed copied into Neo4j's import directory as seed.
+:param csv_base_url => 'file:///seed/';
 """,
     ),
     ("02 Identity Constraints", (ROOT / "neo4j" / "constraints" / "01_node_identity_constraints.cypher").read_text(encoding="utf-8")),
@@ -29,8 +29,8 @@ SECTIONS = [
     ("05 Full-Text Indexes", (ROOT / "neo4j" / "indexes" / "02_fulltext_indexes.cypher").read_text(encoding="utf-8")),
     (
         "06 Load Nodes",
-        """// Before running this section, copy datasets/seed into Neo4j's import directory as rsa/seed.
-// Expected example path inside Neo4j import directory: rsa/seed/nodes/faculty.csv
+        """// Before running this section, copy datasets/seed into Neo4j's import directory as seed.
+// Expected example path inside Neo4j import directory: seed/nodes/faculty.csv
 
 """
         + (ROOT / "neo4j" / "loaders" / "01_load_nodes.cypher").read_text(encoding="utf-8"),
@@ -56,7 +56,7 @@ def main() -> None:
         "",
         "// Manual preparation:",
         "// 1. Start a local Neo4j database.",
-        "// 2. Copy datasets/seed into Neo4j's import directory as rsa/seed.",
+        "// 2. Copy datasets/seed into Neo4j's import directory as seed.",
         "// 3. Run each numbered section below in order.",
         "",
     ]

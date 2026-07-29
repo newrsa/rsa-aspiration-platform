@@ -13,7 +13,7 @@ python scripts\generate_neo4j_notebook.py
 Before running it:
 
 1. Start Neo4j.
-2. Copy `datasets/seed` into Neo4j's import directory as `rsa/seed`.
+2. Copy `datasets/seed` into Neo4j's import directory as `seed`.
 3. Open `manual_seed_smoke_test.cypher`.
 4. Run each numbered section in order.
 

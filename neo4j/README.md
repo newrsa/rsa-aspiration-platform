@@ -45,4 +45,4 @@ Run these sections in order:
 5. `queries/01_smoke_test.cypher`
 6. `validation/01_structural_integrity.cypher`
 
-Use `:param csv_base_url => 'file:///rsa/seed/';` when the contents of `datasets/seed` are available in Neo4j's import directory under `rsa/seed`.
+Use `:param csv_base_url => 'file:///seed/';` when the contents of `datasets/seed` are available in Neo4j's configured import directory under `seed`.

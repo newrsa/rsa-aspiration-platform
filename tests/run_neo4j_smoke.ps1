@@ -4,7 +4,7 @@ param(
     [string]$Password = $env:NEO4J_PASSWORD,
     [string]$CypherShell = $env:CYPHER_SHELL,
     [string]$ImportDir = $env:NEO4J_IMPORT_DIR,
-    [string]$CsvBaseUrl = $(if ($env:CSV_BASE_URL) { $env:CSV_BASE_URL } else { "file:///rsa/seed/" }),
+    [string]$CsvBaseUrl = $(if ($env:CSV_BASE_URL) { $env:CSV_BASE_URL } else { "file:///seed/" }),
     [switch]$SkipRequiredPropertyConstraints
 )
 
@@ -56,7 +56,7 @@ python scripts\generate_seed_csv.py
 python scripts\validate_registry.py --strict
 
 if ($ImportDir) {
-    $target = Join-Path $ImportDir "rsa\seed"
+    $target = Join-Path $ImportDir "seed"
     New-Item -ItemType Directory -Force -Path $target | Out-Null
     Copy-Item -Recurse -Force -Path "datasets\seed\nodes" -Destination $target
     Copy-Item -Recurse -Force -Path "datasets\seed\relationships" -Destination $target
