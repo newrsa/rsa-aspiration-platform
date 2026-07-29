@@ -1,3 +1,8 @@
 # Tests
 
-Future suites cover registry consistency, generated Neo4j schema, structural integrity requirements, and query acceptance tests derived from the Master Test Bank.
+This directory contains local validation checks for the RSA Knowledge Platform repository.
+
+## Local Checks
+
+- `test_registry.ps1` runs the strict registry validator.
+- `test_generation.ps1` regenerates the registry, Neo4j runtime artifacts, loader scaffolds, and seed CSV files, then checks expected seed file counts.

@@ -15,9 +15,15 @@ Place registry validation and artifact generators here. Scripts must be determin
 - structural validation Cypher
 - the physical graph model document
 
+`generate_neo4j_loaders.py` generates Neo4j `LOAD CSV` node and relationship loader scaffolds from the Semantic Registry.
+
+`generate_seed_csv.py` generates the minimal seed CSV dataset used to smoke test the generated schema and loaders.
+
 Run order:
 
 1. `python scripts/extract_ontology_registry.py`
 2. `python scripts/validate_registry.py --strict`
 3. `python scripts/generate_neo4j_schema.py`
-4. `python scripts/validate_registry.py --strict`
+4. `python scripts/generate_neo4j_loaders.py`
+5. `python scripts/generate_seed_csv.py`
+6. `python scripts/validate_registry.py --strict`

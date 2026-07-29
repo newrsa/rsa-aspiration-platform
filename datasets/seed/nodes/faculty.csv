@@ -1,0 +1,2 @@
+faculty_id,faculty_code,name,description,typical_entry_stage,typical_entry_age,entry_criteria_min_class_10_score_percent,entry_criteria_mandatory_subjects,entry_criteria_board_flexibility,typical_duration_years,related_domains,parent_faculties,exit_options,active_status,universe
+00000000-0000-4000-8000-000000000001,FAC-SCIENCE,Science,Science faculty seed record.,,,,,,,,,,true,Science

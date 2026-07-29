@@ -21,3 +21,18 @@ This directory contains generated Neo4j runtime artifacts derived from the Seman
 6. Run `validation/01_structural_integrity.cypher`.
 
 Regenerate these files with `python scripts/generate_neo4j_schema.py` after registry changes.
+
+## Seed Smoke Test
+
+Generate seed CSV files with `python scripts/generate_seed_csv.py`.
+
+Then run:
+
+1. `constraints/01_node_identity_constraints.cypher`
+2. `indexes/02_fulltext_indexes.cypher`
+3. `loaders/01_load_nodes.cypher`
+4. `loaders/02_load_relationships.cypher`
+5. `queries/01_smoke_test.cypher`
+6. `validation/01_structural_integrity.cypher`
+
+Use `:param csv_base_url => 'file:///rsa/seed/';` when the contents of `datasets/seed` are available in Neo4j's import directory under `rsa/seed`.

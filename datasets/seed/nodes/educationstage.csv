@@ -1,0 +1,2 @@
+stage_id,stage_code,name,stage_type,stage_order,typical_age_min,typical_age_max,typical_duration_months,is_terminal,prerequisite_stages
+00000000-0000-4000-8000-000000000004,STAGE-UG,Undergraduate,,,,,,,

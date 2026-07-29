@@ -1,0 +1,2 @@
+domain_id,domain_code,name,parent_faculty,industry_alignment,description,typical_streams_count,active_status
+00000000-0000-4000-8000-000000000002,DOM-ENGINEERING,Engineering,,,Engineering domain seed record.,,true
