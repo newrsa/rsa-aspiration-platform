@@ -45,6 +45,14 @@ def parse_pipe_row(line: str) -> list[str]:
     return [cell.strip() for cell in line.strip().strip("|").split("|")]
 
 
+def clean_property_name(value: str) -> str:
+    cleaned = value.strip().strip("*`")
+    cleaned = cleaned.replace("**", "")
+    cleaned = re.sub(r"[^A-Za-z0-9_]+", "_", cleaned)
+    cleaned = re.sub(r"_+", "_", cleaned).strip("_")
+    return cleaned.lower()
+
+
 def is_separator(cells: list[str]) -> bool:
     return all(re.fullmatch(r":?-{3,}:?", cell.replace(" ", "")) for cell in cells)
 
@@ -109,8 +117,9 @@ def parse_entities(text: str) -> tuple[list[dict[str, object]], list[dict[str, o
             }
         )
         for row in domain_rows:
-            number, property_name, raw_type, notes = row[0], row[1], row[2], row[3]
-            if not property_name or property_name == "Property":
+            number, raw_property_name, raw_type, notes = row[0], row[1], row[2], row[3]
+            property_name = clean_property_name(raw_property_name)
+            if not property_name or property_name == "property":
                 continue
             prop_id = f"PROP-{eid.removeprefix('ENT-')}-{property_name.replace('_', '-').upper()}"
             properties.append(
