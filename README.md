@@ -16,6 +16,10 @@ The RSA Knowledge Platform (RKP) is an ontology-driven, explainable career-intel
 
 Run `python bootstrap_rsa_repository.py` from the parent directory to create this scaffold. The bootstrap is idempotent: it does not overwrite existing files.
 
+## Validate the registry
+
+Run `python scripts/validate_registry.py` after changing a catalog. Use `--strict` once placeholders have been replaced by approved ontology-derived records.
+
 ## Principles
 
 1. Ontology is the canonical semantic source of truth.
