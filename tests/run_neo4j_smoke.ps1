@@ -2,7 +2,7 @@ param(
     [string]$Uri = $(if ($env:NEO4J_URI) { $env:NEO4J_URI } else { "bolt://localhost:7687" }),
     [string]$User = $(if ($env:NEO4J_USER) { $env:NEO4J_USER } else { "neo4j" }),
     [string]$Password = $env:NEO4J_PASSWORD,
-    [string]$CypherShell = $(if ($env:CYPHER_SHELL) { $env:CYPHER_SHELL } else { "cypher-shell" }),
+    [string]$CypherShell = $env:CYPHER_SHELL,
     [string]$ImportDir = $env:NEO4J_IMPORT_DIR,
     [string]$CsvBaseUrl = $(if ($env:CSV_BASE_URL) { $env:CSV_BASE_URL } else { "file:///rsa/seed/" }),
     [switch]$SkipRequiredPropertyConstraints
@@ -13,11 +13,40 @@ $ErrorActionPreference = "Stop"
 $root = Split-Path -Parent $PSScriptRoot
 Set-Location $root
 
+function Resolve-CypherShell {
+    if ($CypherShell -and (Test-Path $CypherShell -PathType Leaf)) {
+        return $CypherShell
+    }
+
+    $pathCommand = Get-Command "cypher-shell" -ErrorAction SilentlyContinue
+    if ($pathCommand) {
+        return $pathCommand.Source
+    }
+
+    $desktopCandidates = @(
+        "C:\Program Files\Neo4j Desktop 2\resources\offline\dbmss",
+        "C:\Program Files\Neo4j Desktop\resources\offline\dbmss"
+    )
+
+    foreach ($candidate in $desktopCandidates) {
+        if (Test-Path $candidate) {
+            $found = Get-ChildItem -Path $candidate -Recurse -Filter "cypher-shell.bat" -ErrorAction SilentlyContinue |
+                Select-Object -First 1
+            if ($found) {
+                return $found.FullName
+            }
+        }
+    }
+
+    return $null
+}
+
 if (-not $Password) {
     throw "Set NEO4J_PASSWORD or pass -Password before running the Neo4j smoke test."
 }
 
-if (-not (Get-Command $CypherShell -ErrorAction SilentlyContinue)) {
+$CypherShell = Resolve-CypherShell
+if (-not $CypherShell) {
     throw "cypher-shell was not found. Add it to PATH or set CYPHER_SHELL to its full path."
 }
 
