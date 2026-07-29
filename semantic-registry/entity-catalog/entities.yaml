@@ -1,12 +1,463 @@
 entities:
-  - id: ENT-EXAMPLE
-    name: ExampleEntity
-    status: placeholder
-    version: 0.1.0
-    owner: SCC
-    stability: reference
-    description: Replace with an ontology-derived entity definition.
+  - id: "ENT-FACULTY"
+    name: "Faculty"
+    display_name: "SCC Faculty"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined SCC Faculty entity."
+    reference_code_property: "faculty_code"
     mandatory_property_ids: []
     optional_property_ids: []
     relationship_ids: []
     validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:5141"
+  - id: "ENT-DOMAIN"
+    name: "Domain"
+    display_name: "Domain"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Domain entity."
+    reference_code_property: "domain_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:6696"
+  - id: "ENT-STREAM"
+    name: "Stream"
+    display_name: "Stream"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Stream entity."
+    reference_code_property: "stream_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:7749"
+  - id: "ENT-EDUCATION-STAGE"
+    name: "EducationStage"
+    display_name: "Education Stage"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Education Stage entity."
+    reference_code_property: "stage_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:11571"
+  - id: "ENT-SUBJECT"
+    name: "Subject"
+    display_name: "Subject"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Subject entity."
+    reference_code_property: "subject_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:12541"
+  - id: "ENT-SUBJECT-LEVEL"
+    name: "SubjectLevel"
+    display_name: "Subject Level"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Subject Level entity."
+    reference_code_property: "subject_level_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:13332"
+  - id: "ENT-SUBJECT-COMBINATION"
+    name: "SubjectCombination"
+    display_name: "Subject Combination"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Subject Combination entity."
+    reference_code_property: "combination_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:14190"
+  - id: "ENT-DECISION-POINT"
+    name: "DecisionPoint"
+    display_name: "Decision Point"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Decision Point entity."
+    reference_code_property: "decision_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:15458"
+  - id: "ENT-CRITERION"
+    name: "Criterion"
+    display_name: "Criterion"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Criterion entity."
+    reference_code_property: "criterion_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:16979"
+  - id: "ENT-ENTRANCE-EXAM"
+    name: "EntranceExam"
+    display_name: "Entrance Exam"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Entrance Exam entity."
+    reference_code_property: "exam_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:18373"
+  - id: "ENT-REGULATORY-BODY"
+    name: "RegulatoryBody"
+    display_name: "Regulatory Body"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Regulatory Body entity."
+    reference_code_property: "body_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:24381"
+  - id: "ENT-DEGREE"
+    name: "Degree"
+    display_name: "Degree"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Degree entity."
+    reference_code_property: "degree_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:25805"
+  - id: "ENT-INSTITUTION-TYPE"
+    name: "InstitutionType"
+    display_name: "Institution Type"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Institution Type entity."
+    reference_code_property: "type_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:27491"
+  - id: "ENT-INSTITUTION"
+    name: "Institution"
+    display_name: "Institution"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Institution entity."
+    reference_code_property: "institution_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:29186"
+  - id: "ENT-ADMISSION-PATHWAY"
+    name: "AdmissionPathway"
+    display_name: "Admission Pathway"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Admission Pathway entity."
+    reference_code_property: "pathway_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:32838"
+  - id: "ENT-SYLLABUS-TOPIC"
+    name: "SyllabusTopic"
+    display_name: "Syllabus Topic"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Syllabus Topic entity."
+    reference_code_property: "topic_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:34118"
+  - id: "ENT-SUBJECT-EQUIVALENCE-RULE"
+    name: "SubjectEquivalenceRule"
+    display_name: "Subject Equivalence Rule"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Subject Equivalence Rule entity."
+    reference_code_property: "rule_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:35082"
+  - id: "ENT-INTERNSHIP-TYPE"
+    name: "InternshipType"
+    display_name: "Internship Type"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Internship Type entity."
+    reference_code_property: "internship_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:35999"
+  - id: "ENT-CAREER-OUTCOME"
+    name: "CareerOutcome"
+    display_name: "Career Outcome"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Career Outcome entity."
+    reference_code_property: "outcome_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:37459"
+  - id: "ENT-SALARY-RANGE"
+    name: "SalaryRange"
+    display_name: "Salary Range"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Salary Range entity."
+    reference_code_property: "salary_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:43240"
+  - id: "ENT-CITY"
+    name: "City"
+    display_name: "City"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined City entity."
+    reference_code_property: "city_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:44258"
+  - id: "ENT-LICENCE"
+    name: "Licence"
+    display_name: "Licence"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Licence entity."
+    reference_code_property: "licence_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:46481"
+  - id: "ENT-SCHOLARSHIP"
+    name: "Scholarship"
+    display_name: "Scholarship"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Scholarship entity."
+    reference_code_property: "scholarship_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:48843"
+  - id: "ENT-EDUCATION-LOAN"
+    name: "EducationLoan"
+    display_name: "Education Loan"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Education Loan entity."
+    reference_code_property: "loan_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:52155"
+  - id: "ENT-INTEREST"
+    name: "Interest"
+    display_name: "Interest"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Interest entity."
+    reference_code_property: "interest_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:55649"
+  - id: "ENT-APTITUDE"
+    name: "Aptitude"
+    display_name: "Aptitude"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Aptitude entity."
+    reference_code_property: "aptitude_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:56497"
+  - id: "ENT-SKILL"
+    name: "Skill"
+    display_name: "Skill"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Skill entity."
+    reference_code_property: "skill_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:57614"
+  - id: "ENT-PERSONALITY-TRAIT"
+    name: "PersonalityTrait"
+    display_name: "Personality Trait"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Personality Trait entity."
+    reference_code_property: "trait_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:58929"
+  - id: "ENT-WORK-PREFERENCE"
+    name: "WorkPreference"
+    display_name: "Work Preference"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Work Preference entity."
+    reference_code_property: "preference_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:59973"
+  - id: "ENT-ACTIVITY"
+    name: "Activity"
+    display_name: "Activity"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Activity entity."
+    reference_code_property: "activity_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:61125"
+  - id: "ENT-PROJECT"
+    name: "Project"
+    display_name: "Project"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Project entity."
+    reference_code_property: "project_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:62375"
+  - id: "ENT-APPRENTICESHIP"
+    name: "Apprenticeship"
+    display_name: "Apprenticeship"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Apprenticeship entity."
+    reference_code_property: "apprenticeship_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:63649"
+  - id: "ENT-CERTIFICATION"
+    name: "Certification"
+    display_name: "Certification"
+    status: "draft"
+    version: "0.6.0"
+    owner: "SCC"
+    stability: "static"
+    description: "Ontology-defined Certification entity."
+    reference_code_property: "certification_code"
+    mandatory_property_ids: []
+    optional_property_ids: []
+    relationship_ids: []
+    validation_rule_ids: []
+    source_reference: "RSA_SCC_Science_Ontology_v0.6.md:65027"

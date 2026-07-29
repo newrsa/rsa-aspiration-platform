@@ -1,9 +1,39 @@
 validations:
-  - id: VAL-EXAMPLE
-    name: example_validation
-    status: placeholder
+  - id: VAL-CAREER-REACHABLE
+    name: career_reachability
+    status: blocked
     severity: error
-    applies_to: ENT-EXAMPLE
-    rationale: Replace with an ontology, GAS, or structural-test rule.
+    applies_to: ENT-CAREER-OUTCOME
+    rationale: Structural test T44 requires every Career Outcome to be reachable through Stream LEADS_TO or Licence UNLOCKS; UNLOCKS is not currently a canonical ontology relationship.
     automated: false
-    test_query: null
+    test_query: T44
+    source_reference: RSA_SCC_Structural_Integrity_Test_Set.md:T44
+    reconciliation_id: REC-001
+  - id: VAL-PREREQUISITE-ACYCLIC
+    name: prerequisite_acyclic
+    status: draft
+    severity: error
+    applies_to: ENT-SKILL
+    rationale: Structural test T45 and GAS v1.2 require cycle detection for PREREQUISITE_OF chains.
+    automated: true
+    test_query: T45
+    source_reference: RSA_SCC_Structural_Integrity_Test_Set.md:T45
+  - id: VAL-EXAM-REACHABLE
+    name: exam_reachability
+    status: blocked
+    severity: error
+    applies_to: ENT-ENTRANCE-EXAM
+    rationale: Structural test T48 requires every Entrance Exam to be referenced by Stream, Degree, or Career Outcome; REQUIRES_EXAM is absent from the canonical relationship inventory.
+    automated: false
+    test_query: T48
+    source_reference: RSA_SCC_Structural_Integrity_Test_Set.md:T48
+    reconciliation_id: REC-002
+  - id: VAL-SCHOLARSHIP-REACHABLE
+    name: scholarship_reachability
+    status: draft
+    severity: warning
+    applies_to: ENT-SCHOLARSHIP
+    rationale: Structural test T49 requires pipeline validation for Scholarships that match no test student profile.
+    automated: false
+    test_query: T49
+    source_reference: RSA_SCC_Structural_Integrity_Test_Set.md:T49

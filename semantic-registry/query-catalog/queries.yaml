@@ -1,11 +1,144 @@
 queries:
-  - id: QRY-EXAMPLE
-    business_question: Replace with a Master Test Bank question.
-    status: placeholder
-    category: unclassified
-    intent: unknown
+  - id: QRY-CAPABILITY-PATHWAY
+    business_question: Capability coverage for Path & Pathway questions.
+    status: draft
+    category: Path & Pathway
+    intent: pathway_discovery
     required_entity_ids: []
     required_relationship_ids: []
     traversal_pattern: []
-    acceptance_criteria: []
-    peer_ontology_routing: undecided
+    acceptance_criteria: ["Cover 140 Master Test Bank questions at category level."]
+    peer_ontology_routing: SCC
+    test_bank_reference: "Category 1"
+  - id: QRY-CAPABILITY-ELIGIBILITY
+    business_question: Capability coverage for Eligibility & Subject questions.
+    status: draft
+    category: Eligibility & Subject
+    intent: eligibility_evaluation
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 55 Master Test Bank questions at category level."]
+    peer_ontology_routing: SCC
+    test_bank_reference: "Category 2"
+  - id: QRY-CAPABILITY-ENTRANCE-EXAM
+    business_question: Capability coverage for Entrance Exam questions.
+    status: draft
+    category: Entrance Exam
+    intent: exam_discovery
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 90 Master Test Bank questions at category level."]
+    peer_ontology_routing: SCC
+    test_bank_reference: "Category 3"
+  - id: QRY-CAPABILITY-INSTITUTION
+    business_question: Capability coverage for College & Institution questions.
+    status: draft
+    category: College & Institution
+    intent: institution_discovery
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 55 Master Test Bank questions at category level."]
+    peer_ontology_routing: SCC
+    test_bank_reference: "Category 4"
+  - id: QRY-CAPABILITY-COST
+    business_question: Capability coverage for Cost & Duration questions.
+    status: draft
+    category: Cost & Duration
+    intent: cost_estimation
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 62 Master Test Bank questions at category level."]
+    peer_ontology_routing: SCC
+    test_bank_reference: "Category 5"
+  - id: QRY-CAPABILITY-CAREER
+    business_question: Capability coverage for Career & Salary questions.
+    status: draft
+    category: Career & Salary
+    intent: career_discovery
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 55 Master Test Bank questions at category level."]
+    peer_ontology_routing: mixed
+    test_bank_reference: "Category 6"
+  - id: QRY-CAPABILITY-ACCESSIBILITY
+    business_question: Capability coverage for Accessibility & Medical Fitness questions.
+    status: draft
+    category: Accessibility & Medical Fitness
+    intent: accessibility_evaluation
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 55 Master Test Bank questions at category level."]
+    peer_ontology_routing: SCC
+    test_bank_reference: "Category 7"
+  - id: QRY-CAPABILITY-DIGITAL-TWIN
+    business_question: Capability coverage for Digital Twin Matching questions.
+    status: draft
+    category: Digital Twin Matching
+    intent: compatibility_explanation
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 74 Master Test Bank questions at category level."]
+    peer_ontology_routing: DigitalTwin
+    test_bank_reference: "Category 8"
+  - id: QRY-CAPABILITY-DECISION
+    business_question: Capability coverage for Decision & Timing questions.
+    status: draft
+    category: Decision & Timing
+    intent: decision_support
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 55 Master Test Bank questions at category level."]
+    peer_ontology_routing: mixed
+    test_bank_reference: "Category 9"
+  - id: QRY-CAPABILITY-GEOGRAPHY
+    business_question: Capability coverage for Location & Geography questions.
+    status: draft
+    category: Location & Geography
+    intent: geography_filtering
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 45 Master Test Bank questions at category level."]
+    peer_ontology_routing: SCC
+    test_bank_reference: "Category 10"
+  - id: QRY-CAPABILITY-FINANCIAL-AID
+    business_question: Capability coverage for Financial Aid questions.
+    status: draft
+    category: Financial Aid
+    intent: financial_aid_discovery
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 58 Master Test Bank questions at category level."]
+    peer_ontology_routing: SCC
+    test_bank_reference: "Category 11"
+  - id: QRY-CAPABILITY-APPLICATION
+    business_question: Capability coverage for Application Logistics questions.
+    status: draft
+    category: Application Logistics
+    intent: application_planning
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 40 Master Test Bank questions at category level."]
+    peer_ontology_routing: mixed
+    test_bank_reference: "Category 12"
+  - id: QRY-CAPABILITY-NON-MEDICAL-ELIGIBILITY
+    business_question: Capability coverage for Non-medical Eligibility questions.
+    status: draft
+    category: Non-medical Eligibility
+    intent: eligibility_evaluation
+    required_entity_ids: []
+    required_relationship_ids: []
+    traversal_pattern: []
+    acceptance_criteria: ["Cover 45 Master Test Bank questions at category level."]
+    peer_ontology_routing: SCC
+    test_bank_reference: "Category 13"

@@ -1,0 +1,6 @@
+sources:
+  - id: SRC-SCC-ONTOLOGY-0-6
+    file: RSA_SCC_Science_Ontology_v0.6.md
+    version: 0.6.0
+    sha256: a7af7582c7aff666b99019aac36b57cab131f89df78132af9db31725541b61a9
+    role: canonical_semantic_source
