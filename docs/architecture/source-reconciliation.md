@@ -8,8 +8,8 @@ The initial ontology extraction generated 33 declared entity sections, 652 domai
 
 | ID | Sources | Finding | Impact | Required disposition |
 | --- | --- | --- | --- | --- |
-| REC-001 | Structural T42/T43/T44; ontology §10 | Tests refer to `(:Licence)-[:UNLOCKS]->(:CareerOutcome)`, but `UNLOCKS` is absent from the canonical relationship inventory. | Licence-based career reachability cannot be faithfully audited. | Add a governed `UNLOCKS` relationship pattern or amend the tests to use a declared relationship. |
-| REC-002 | Structural T48; ontology §10 | T48 refers to `(:Degree)-[:REQUIRES_EXAM]->(:EntranceExam)`, but `REQUIRES_EXAM` is absent from the canonical relationship inventory. | Orphan-exam validation is incomplete. | Add a governed `REQUIRES_EXAM` pattern or amend T48 to the approved model. |
+| REC-001 | Structural T42/T43/T44; ontology §10 | Tests refer to `(:Licence)-[:UNLOCKS]->(:CareerOutcome)`, but `UNLOCKS` is absent from the canonical relationship inventory. | Licence-based career reachability cannot be faithfully audited. | **Resolved by ADR-004:** proposed v0.6.1 `UNLOCKS` extension. |
+| REC-002 | Structural T48; ontology §10 | T48 refers to `(:Degree)-[:REQUIRES_EXAM]->(:EntranceExam)`, but `REQUIRES_EXAM` is absent from the canonical relationship inventory. | Orphan-exam validation is incomplete. | **Resolved by ADR-004:** proposed v0.6.1 `REQUIRES_EXAM` extension. |
 | REC-003 | Structural T46; GAS §11.6 | The structural test recommends weighted-average Digital Twin weights; GAS specifies primary-parent threshold precedence and additive requirement union. | No SCC schema change is implied, but Digital Twin ownership must remain explicit. | Treat GAS as the SCC contract; record any Digital Twin aggregation rule in its peer ontology. |
 
 ## Non-blocking interpretation

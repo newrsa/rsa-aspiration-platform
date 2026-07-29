@@ -172,6 +172,40 @@ def parse_relationships(text: str, entities: list[dict[str, object]]) -> list[di
     return relationships
 
 
+def test_required_relationship_extensions() -> list[dict[str, object]]:
+    """Return governed extensions required by structural acceptance tests.
+
+    They remain separate from the v0.6 source inventory in provenance, but are
+    emitted into the effective registry so downstream generators have one model.
+    """
+    return [
+        {
+            "id": "REL-UNLOCKS-LICENCE-CAREER-OUTCOME",
+            "name": "UNLOCKS",
+            "status": "proposed_v0_6_1",
+            "source_entity_id": "ENT-LICENCE",
+            "target_entity_id": "ENT-CAREER-OUTCOME",
+            "cardinality": "0..*",
+            "mandatory": False,
+            "semantic_meaning": "A Licence unlocks eligibility for a Career Outcome.",
+            "relationship_properties": "is_mandatory (Boolean), requirement_group (String)",
+            "source_reference": "RSA_SCC_Structural_Integrity_Test_Set.md:T42,T43,T44; REC-001",
+        },
+        {
+            "id": "REL-REQUIRES-EXAM-DEGREE-ENTRANCE-EXAM",
+            "name": "REQUIRES_EXAM",
+            "status": "proposed_v0_6_1",
+            "source_entity_id": "ENT-DEGREE",
+            "target_entity_id": "ENT-ENTRANCE-EXAM",
+            "cardinality": "0..*",
+            "mandatory": False,
+            "semantic_meaning": "A Degree requires an Entrance Exam for admission.",
+            "relationship_properties": "is_mandatory (Boolean), exam_purpose (String)",
+            "source_reference": "RSA_SCC_Structural_Integrity_Test_Set.md:T48; REC-002",
+        },
+    ]
+
+
 def write_records(path: Path, top_level: str, records: list[dict[str, object]]) -> None:
     lines = [f"{top_level}:"]
     for record in records:
@@ -193,7 +227,7 @@ def write_records(path: Path, top_level: str, records: list[dict[str, object]]) 
 def main() -> None:
     text = ONTOLOGY.read_text(encoding="utf-8")
     entities, properties = parse_entities(text)
-    relationships = parse_relationships(text, entities)
+    relationships = parse_relationships(text, entities) + test_required_relationship_extensions()
     write_records(ENTITY_OUTPUT, "entities", entities)
     write_records(PROPERTY_OUTPUT, "properties", properties)
     write_records(RELATIONSHIP_OUTPUT, "relationships", relationships)
