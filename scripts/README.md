@@ -19,6 +19,8 @@ Place registry validation and artifact generators here. Scripts must be determin
 
 `generate_seed_csv.py` generates the minimal seed CSV dataset used to smoke test the generated schema and loaders.
 
+`generate_neo4j_notebook.py` generates one Neo4j Browser-friendly manual notebook from the generated Cypher files.
+
 Run order:
 
 1. `python scripts/extract_ontology_registry.py`
@@ -26,4 +28,5 @@ Run order:
 3. `python scripts/generate_neo4j_schema.py`
 4. `python scripts/generate_neo4j_loaders.py`
 5. `python scripts/generate_seed_csv.py`
-6. `python scripts/validate_registry.py --strict`
+6. `python scripts/generate_neo4j_notebook.py`
+7. `python scripts/validate_registry.py --strict`

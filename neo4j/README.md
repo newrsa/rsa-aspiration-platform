@@ -26,7 +26,17 @@ Regenerate these files with `python scripts/generate_neo4j_schema.py` after regi
 
 Generate seed CSV files with `python scripts/generate_seed_csv.py`.
 
-Then run:
+For manual execution, generate and open the single notebook:
+
+```powershell
+python scripts\generate_neo4j_notebook.py
+```
+
+Notebook file:
+
+- `notebooks/manual_seed_smoke_test.cypher`
+
+Run these sections in order:
 
 1. `constraints/01_node_identity_constraints.cypher`
 2. `indexes/02_fulltext_indexes.cypher`
