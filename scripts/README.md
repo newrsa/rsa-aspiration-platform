@@ -21,6 +21,8 @@ Place registry validation and artifact generators here. Scripts must be determin
 
 `generate_neo4j_notebook.py` generates one Neo4j Browser-friendly manual notebook from the generated Cypher files.
 
+`generate_query_cookbook.py` generates representative query capability artifacts from the current SCC traversal patterns.
+
 Run order:
 
 1. `python scripts/extract_ontology_registry.py`
@@ -29,4 +31,5 @@ Run order:
 4. `python scripts/generate_neo4j_loaders.py`
 5. `python scripts/generate_seed_csv.py`
 6. `python scripts/generate_neo4j_notebook.py`
-7. `python scripts/validate_registry.py --strict`
+7. `python scripts/generate_query_cookbook.py`
+8. `python scripts/validate_registry.py --strict`
