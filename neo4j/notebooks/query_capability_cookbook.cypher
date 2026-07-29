@@ -83,15 +83,20 @@ RETURN licence.name AS licence, career.name AS unlocked_career;
 // -----------------------------------------------------------------------------
 // 06. QRY-INSTITUTION-001 - College & Institution
 // -----------------------------------------------------------------------------
-// Business question: Which institutions offer a stream?
-// Required entities: Institution, Stream
-// Required relationships: OFFERS or equivalent stream offering pattern
+// Business question: Which institutions offer scholarships for Science pathways?
+// Required entities: Institution, Scholarship, Stream
+// Required relationships: OFFERED_BY, APPLICABLE_TO
 // Peer routing: SCC
 
-// This query becomes active when Institution seed data is loaded.
-MATCH (institution:Institution)-[:OFFERS]->(s:Stream)
-RETURN institution.name AS institution, s.name AS stream
-ORDER BY institution.name;
+MATCH (scholarship:Scholarship)
+  -[:OFFERED_BY]->
+  (institution:Institution)
+MATCH (scholarship)-[:APPLICABLE_TO]->(s:Stream)
+RETURN
+  institution.name AS institution,
+  scholarship.name AS scholarship,
+  s.name AS applicable_stream
+ORDER BY institution.name, scholarship.name;
 
 
 // -----------------------------------------------------------------------------
@@ -102,7 +107,6 @@ ORDER BY institution.name;
 // Required relationships: LOCATED_IN
 // Peer routing: SCC
 
-// This query becomes active when Institution and City seed data are loaded.
 MATCH (institution:Institution)-[:LOCATED_IN]->(city:City)
 RETURN city.name AS city, collect(institution.name) AS institutions
 ORDER BY city.name;
@@ -116,7 +120,6 @@ ORDER BY city.name;
 // Required relationships: APPLICABLE_TO
 // Peer routing: SCC
 
-// This query becomes active when Scholarship seed data is loaded.
 MATCH (scholarship:Scholarship)-[:APPLICABLE_TO]->(s:Stream)
 RETURN s.name AS stream, collect(scholarship.name) AS scholarships
 ORDER BY s.name;

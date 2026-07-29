@@ -84,14 +84,19 @@ RETURN licence.name AS licence, career.name AS unlocked_career;""",
     {
         "id": "QRY-INSTITUTION-001",
         "category": "College & Institution",
-        "question": "Which institutions offer a stream?",
+        "question": "Which institutions offer scholarships for Science pathways?",
         "routing": "SCC",
-        "entities": "Institution, Stream",
-        "relationships": "OFFERS or equivalent stream offering pattern",
-        "cypher": """// This query becomes active when Institution seed data is loaded.
-MATCH (institution:Institution)-[:OFFERS]->(s:Stream)
-RETURN institution.name AS institution, s.name AS stream
-ORDER BY institution.name;""",
+        "entities": "Institution, Scholarship, Stream",
+        "relationships": "OFFERED_BY, APPLICABLE_TO",
+        "cypher": """MATCH (scholarship:Scholarship)
+  -[:OFFERED_BY]->
+  (institution:Institution)
+MATCH (scholarship)-[:APPLICABLE_TO]->(s:Stream)
+RETURN
+  institution.name AS institution,
+  scholarship.name AS scholarship,
+  s.name AS applicable_stream
+ORDER BY institution.name, scholarship.name;""",
     },
     {
         "id": "QRY-GEOGRAPHY-001",
@@ -100,8 +105,7 @@ ORDER BY institution.name;""",
         "routing": "SCC",
         "entities": "Institution, City",
         "relationships": "LOCATED_IN",
-        "cypher": """// This query becomes active when Institution and City seed data are loaded.
-MATCH (institution:Institution)-[:LOCATED_IN]->(city:City)
+        "cypher": """MATCH (institution:Institution)-[:LOCATED_IN]->(city:City)
 RETURN city.name AS city, collect(institution.name) AS institutions
 ORDER BY city.name;""",
     },
@@ -112,8 +116,7 @@ ORDER BY city.name;""",
         "routing": "SCC",
         "entities": "Scholarship, Stream",
         "relationships": "APPLICABLE_TO",
-        "cypher": """// This query becomes active when Scholarship seed data is loaded.
-MATCH (scholarship:Scholarship)-[:APPLICABLE_TO]->(s:Stream)
+        "cypher": """MATCH (scholarship:Scholarship)-[:APPLICABLE_TO]->(s:Stream)
 RETURN s.name AS stream, collect(scholarship.name) AS scholarships
 ORDER BY s.name;""",
     },

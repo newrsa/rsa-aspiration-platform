@@ -9,6 +9,7 @@ This directory holds versioned data fixtures and import-ready CSVs.
 It contains:
 
 - one small connected Science pathway sample
+- enough institution, city, scholarship, skill, and aptitude records to exercise the query cookbook
 - header-only CSV files for the remaining ontology entities and relationships
 - files matching the generated Neo4j loader expectations
 

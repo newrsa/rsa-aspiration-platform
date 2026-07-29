@@ -75,6 +75,33 @@ SAMPLE_NODES = {
         "licence_code": "LIC-DGCA-AMEL",
         "name": "DGCA Aircraft Maintenance Engineer Licence",
     },
+    "City": {
+        "city_id": "00000000-0000-4000-8000-000000000010",
+        "city_code": "CITY-BENGALURU",
+        "name": "Bengaluru",
+    },
+    "Institution": {
+        "institution_id": "00000000-0000-4000-8000-000000000011",
+        "institution_code": "INST-IISC",
+        "name": "Indian Institute of Science",
+    },
+    "Scholarship": {
+        "scholarship_id": "00000000-0000-4000-8000-000000000012",
+        "scholarship_code": "SCH-NATIONAL-SCIENCE-SEED",
+        "name": "National Science Scholarship",
+    },
+    "Skill": {
+        "skill_id": "00000000-0000-4000-8000-000000000013",
+        "skill_code": "SKILL-AERODYNAMICS",
+        "name": "Aerodynamics",
+        "description": "Applied aerodynamic analysis skill.",
+    },
+    "Aptitude": {
+        "aptitude_id": "00000000-0000-4000-8000-000000000014",
+        "aptitude_code": "APT-SPATIAL-REASONING",
+        "name": "Spatial Reasoning",
+        "description": "Ability to reason about three-dimensional forms and systems.",
+    },
 }
 
 SAMPLE_RELATIONSHIPS = {
@@ -89,6 +116,14 @@ SAMPLE_RELATIONSHIPS = {
     "REL-LEADS_TO-STREAM-CAREER-OUTCOME": [("STR-AEROSPACE-ENGINEERING", "CAREER-AEROSPACE-ENGINEER")],
     "REL-UNLOCKS-LICENCE-CAREER-OUTCOME": [("LIC-DGCA-AMEL", "CAREER-AEROSPACE-ENGINEER")],
     "REL-REQUIRES-EXAM-DEGREE-ENTRANCE-EXAM": [("DEG-BTECH-AERO", "EXAM-JEE-MAIN")],
+    "REL-LOCATED_IN-INSTITUTION-CITY": [("INST-IISC", "CITY-BENGALURU")],
+    "REL-HIRING_HUB_CITY-CAREER-OUTCOME-CITY": [("CAREER-AEROSPACE-ENGINEER", "CITY-BENGALURU")],
+    "REL-APPLICABLE_TO-SCHOLARSHIP-STREAM": [("SCH-NATIONAL-SCIENCE-SEED", "STR-AEROSPACE-ENGINEERING")],
+    "REL-OFFERED_BY-SCHOLARSHIP-INSTITUTION": [("SCH-NATIONAL-SCIENCE-SEED", "INST-IISC")],
+    "REL-REQUIRES_SKILL-CAREER-OUTCOME-SKILL": [("CAREER-AEROSPACE-ENGINEER", "SKILL-AERODYNAMICS")],
+    "REL-REQUIRES_APTITUDE-CAREER-OUTCOME-APTITUDE": [
+        ("CAREER-AEROSPACE-ENGINEER", "APT-SPATIAL-REASONING")
+    ],
 }
 
 
