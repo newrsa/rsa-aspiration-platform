@@ -1,0 +1,380 @@
+﻿domain_code,universe_code,name,description,governance_status,version,source_workbook
+DOM-COM-ACCOUNTING-AUDITI-6FD22,UNI-COMMERCE,Accounting & Auditing,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-ACTUARIAL-6ADF8,UNI-COMMERCE,Actuarial,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-ACTUARIAL-SCIENCE-60978,UNI-COMMERCE,Actuarial Science,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-ADVERTISING-BRAND-37769,UNI-COMMERCE,Advertising & Branding,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-BANKING-FINANCIAL-F594D,UNI-COMMERCE,Banking & Financial Services,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-BANKING-PATHWAY-EDA9F,UNI-COMMERCE,Banking Pathway,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-BUSINESS-ANALYTIC-DA68E,UNI-COMMERCE,Business Analytics,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-BUSINESS-ENTREPRE-946A9,UNI-COMMERCE,Business & Entrepreneurship,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-CA-PATHWAY-88207,UNI-COMMERCE,CA Pathway,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-CMA-PATHWAY-4FFE5,UNI-COMMERCE,CMA Pathway,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-CORPORATE-LAW-GOV-515F6,UNI-COMMERCE,Corporate Law & Governance,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-CS-PATHWAY-28DDE,UNI-COMMERCE,CS Pathway,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-DATA-ANALYTICS-01593,UNI-COMMERCE,Data Analytics,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-DATA-ANALYTICS-CO-0DF84,UNI-COMMERCE,Data Analytics (Commerce),,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-DIGITAL-MARKETING-55CFE,UNI-COMMERCE,Digital Marketing,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-E-COMMERCE-89DCD,UNI-COMMERCE,E-Commerce,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-E-COMMERCE-ADVANC-7DBD5,UNI-COMMERCE,E-Commerce Advanced,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-E-COMMERCE-DIGITA-AFEB4,UNI-COMMERCE,E-Commerce & Digital Business,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-ECONOMICS-PATHWAY-C0E7D,UNI-COMMERCE,Economics Pathway,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-ECONOMICS-RESEARC-7EBDA,UNI-COMMERCE,Economics & Research,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-FINANCE-INVESTMEN-32ADE,UNI-COMMERCE,Finance & Investment,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-FINANCIAL-MARKETS-5025B,UNI-COMMERCE,Financial Markets,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-FINTECH-7433A,UNI-COMMERCE,FinTech,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-FINTECH-ADVANCED-F6969,UNI-COMMERCE,FinTech Advanced,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-FINTECH-DIGITAL-F-73D6B,UNI-COMMERCE,FinTech & Digital Finance,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-GLOBAL-FREELANCE-495EF,UNI-COMMERCE,Global Freelance Careers,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-INDUSTRY-OPERATIO-DCF99,UNI-COMMERCE,Industry Operations,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-INSURANCE-RISK-MA-A244B,UNI-COMMERCE,Insurance & Risk Management,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-LOGISTICS-SUPPLY-FEAD2,UNI-COMMERCE,Logistics & Supply Chain,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-PUBLIC-SECTOR-GOV-58C70,UNI-COMMERCE,Public Sector & Govt Roles,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-SPECIALIZED-ACCOU-9FEDB,UNI-COMMERCE,Specialized Accounting,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-STOCK-MARKET-ADVA-26A90,UNI-COMMERCE,Stock Market Advanced,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-TAXATION-81DD4,UNI-COMMERCE,Taxation,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-COM-WEALTH-MGMT-7EB89,UNI-COMMERCE,Wealth Mgmt,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+DOM-HUM-AI-ERA-HUMANITIES-5D7A4,UNI-HUMANITIES,AI-Era Humanities Careers,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-CULTURAL-MUSEUM-H-15A96,UNI-HUMANITIES,"Cultural, Museum, Heritage & Portfolio Careers",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-DIGITAL-WRITING-M-12B26,UNI-HUMANITIES,Digital Writing & Media,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-EDUCATION-TEACHIN-F6148,UNI-HUMANITIES,"Education, Teaching & Academic Careers",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-ENGLISH-LANGUAGE-F3889,UNI-HUMANITIES,English / Language,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-FINE-PERFORMING-A-72EDF,UNI-HUMANITIES,Fine/Performing Arts,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-FOREIGN-LANGUAGES-A2E1D,UNI-HUMANITIES,"Foreign Languages, Translation & Localization",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-GEOGRAPHY-ECA56,UNI-HUMANITIES,Geography,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-GEOGRAPHY-ENVIRON-49E1C,UNI-HUMANITIES,"Geography, Environment & Human Ecology",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-HISTORY-B576C,UNI-HUMANITIES,History,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-HISTORY-HERITAGE-8BCC6,UNI-HUMANITIES,"History, Heritage & Archaeology",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-HUMAN-CENTRED-EME-EC587,UNI-HUMANITIES,Human-Centred Emerging Careers,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-HUMANITIES-AI-EE1A7,UNI-HUMANITIES,Humanities + AI,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-HUMANITIES-E0AAE,UNI-HUMANITIES,Humanities,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-HUMANITIES-TECHNO-838F3,UNI-HUMANITIES,Humanities_Technology,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-INDIC-KNOWLEDGE-C-0CB30,UNI-HUMANITIES,Indic Knowledge & Culture,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-JOURNALISM-MEDIA-0A08B,UNI-HUMANITIES,"Journalism, Media & Communication",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-LANGUAGES-LITERAT-85D79,UNI-HUMANITIES,"Languages, Literature & Linguistics",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-MEDIA-COMMUNICATI-834B4,UNI-HUMANITIES,Media & Communication,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-PERFORMING-ARTS-566E4,UNI-HUMANITIES,Performing Arts,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-PERFORMING-FINE-A-8422E,UNI-HUMANITIES,"Performing, Fine Arts & Creative Practice",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-PHILOSOPHY-B9D5A,UNI-HUMANITIES,Philosophy,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-PHILOSOPHY-ETHICS-DCD19,UNI-HUMANITIES,"Philosophy, Ethics & Religious Studies",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-POLITICAL-SCIENCE-1E5AB,UNI-HUMANITIES,"Political Science, Governance & Public Administration",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-POLITICAL-SCIENCE-F9E65,UNI-HUMANITIES,Political Science,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-PSYCHOLOGY-BEHAVI-C524E,UNI-HUMANITIES,Psychology & Behavioural Sciences,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-PSYCHOLOGY-E7233,UNI-HUMANITIES,Psychology,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-PUBLISHING-EDITOR-37FCF,UNI-HUMANITIES,"Publishing, Editorial & Knowledge Industry",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-PUBLISHING-WRITIN-53DF9,UNI-HUMANITIES,"Publishing, Writing & AI-era Content Careers",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-RESEARCH-METHODS-D3253,UNI-HUMANITIES,Research Methods,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-SOCIOLOGY-6DE4B,UNI-HUMANITIES,Sociology,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-SOCIOLOGY-SOCIAL-ACBF8,UNI-HUMANITIES,"Sociology, Social Work & Development Studies",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-TRANSLATION-STUDI-E6541,UNI-HUMANITIES,Translation Studies,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-HUM-VISUAL-ARTS-EC5B9,UNI-HUMANITIES,Visual Arts,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DOM-INTD-AGRI-TECHNOLOGY-4E700,UNI-INTERDISCIPLINARY,Agri + Technology,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-AGRICULTURE-SUST-D4F98,UNI-INTERDISCIPLINARY,Agriculture + Sustainability +,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-AI-GOVERNANCE-AA5A6,UNI-INTERDISCIPLINARY,AI Governance,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-BEHAVIOUR-POLICY-5074A,UNI-INTERDISCIPLINARY,Behaviour + Policy/Business,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-CLIMATE-FINANCE-B143E,UNI-INTERDISCIPLINARY,Climate + Finance,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-COMMERCE-ANALYTI-2D765,UNI-INTERDISCIPLINARY,Commerce + Analytics + Tech,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-COMMERCE-ANALYTI-7F730,UNI-INTERDISCIPLINARY,Commerce + Analytics + FinTech,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-COMMUNICATION-DE-E2111,UNI-INTERDISCIPLINARY,Communication + Development,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-COMMUNITY-TRIBAL-53926,UNI-INTERDISCIPLINARY,Community Tribal Inclusive,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-CULTURE-EXPERIEN-E64C5,UNI-INTERDISCIPLINARY,Culture + Experience,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-DESIGN-BUSINESS-87851,UNI-INTERDISCIPLINARY,Design + Business + Technology,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-DESIGN-HUMAN-BEH-99F22,UNI-INTERDISCIPLINARY,Design + Human Behaviour,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-EDTECH-LEARNING-662A6,UNI-INTERDISCIPLINARY,EdTech + Learning,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-EDUCATION-ANALYT-7DA9D,UNI-INTERDISCIPLINARY,Education + Analytics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-EMERGING-FRONTIE-E49FE,UNI-INTERDISCIPLINARY,Emerging Frontier Careers,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-ENVIRONMENT-GOVE-503AE,UNI-INTERDISCIPLINARY,Environment + Governance,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-FASHION-BUSINESS-6862A,UNI-INTERDISCIPLINARY,Fashion + Business,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-FINANCE-ANALYTIC-B718F,UNI-INTERDISCIPLINARY,Finance + Analytics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-FOOD-ENTERPRISE-2471B,UNI-INTERDISCIPLINARY,Food + Enterprise,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-GEOSPATIAL-DATA-B5F14,UNI-INTERDISCIPLINARY,Geospatial + Data,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-HEALTHCARE-ANALY-14C0C,UNI-INTERDISCIPLINARY,Healthcare + Analytics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-HEALTHCARE-PRODU-9EE1F,UNI-INTERDISCIPLINARY,Healthcare + Product,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-HUMAN-FACTORS-C62B4,UNI-INTERDISCIPLINARY,Human Factors,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-HUMANITIES-TECHN-8E12A,UNI-INTERDISCIPLINARY,Humanities + Technology,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-INTERDISCIPLINAR-8FD42,UNI-INTERDISCIPLINARY,Interdisciplinary Livelihood,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-LANGUAGE-AI-BE738,UNI-INTERDISCIPLINARY,Language + AI,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-LAW-ANALYTICS-3E609,UNI-INTERDISCIPLINARY,Law + Analytics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-LAW-DESIGN-663F0,UNI-INTERDISCIPLINARY,Law + Design,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-LAW-TECH-C84AB,UNI-INTERDISCIPLINARY,Law + Tech,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-LAW-TECHNOLOGY-G-C7210,UNI-INTERDISCIPLINARY,Law + Technology + Governance,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-LIFE-SCIENCES-DA-36B7A,UNI-INTERDISCIPLINARY,Life Sciences + Data,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-MEDIA-BUSINESS-A8960,UNI-INTERDISCIPLINARY,Media + Business,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-MEDIA-COMMUNICAT-2CA67,UNI-INTERDISCIPLINARY,Media + Communication + AI,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-MEDIA-DATA-C501B,UNI-INTERDISCIPLINARY,Media + Data,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-PHARMA-BUSINESS-FF814,UNI-INTERDISCIPLINARY,Pharma + Business,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-PSYCHOLOGY-BUSIN-12722,UNI-INTERDISCIPLINARY,Psychology + Business,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-PSYCHOLOGY-BUSIN-B8F2C,UNI-INTERDISCIPLINARY,Psychology + Business + AI,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-PUBLIC-POLICY-C51D1,UNI-INTERDISCIPLINARY,Public Policy,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-PUBLIC-POLICY-EC-CCDB1,UNI-INTERDISCIPLINARY,Public Policy + Economics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-RURAL-INNOVATION-762BF,UNI-INTERDISCIPLINARY,Rural + Innovation,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-SCIENCE-COMMUNIC-73E7A,UNI-INTERDISCIPLINARY,Science + Communication,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-SOCIAL-SCIENCE-D-53A04,UNI-INTERDISCIPLINARY,Social Science + Data,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-SOCIAL-SECTOR-AN-51438,UNI-INTERDISCIPLINARY,Social Sector + Analytics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-SPACE-POLICY-27B46,UNI-INTERDISCIPLINARY,Space + Policy,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-SPECIALIZED-RARE-07D0A,UNI-INTERDISCIPLINARY,Specialized Rare Domains,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-SPORTS-ANALYTICS-A31F2,UNI-INTERDISCIPLINARY,Sports + Analytics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-SUSTAINABILITY-E-5D9C9,UNI-INTERDISCIPLINARY,Sustainability + Enterprise,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-SUSTAINABILITY-M-27061,UNI-INTERDISCIPLINARY,Sustainability Management,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-INTD-URBAN-GOVERNANCE-5055C,UNI-INTERDISCIPLINARY,Urban + Governance,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DOM-LAW-ADJACENT-LEGAL-PR-2FAC5,UNI-LAW,Adjacent Legal Profession,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-ADR-LEGAL-TECH-F7FAE,UNI-LAW,ADR & Legal Tech,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-ADVISORY-RISK-DEA87,UNI-LAW,Advisory & Risk,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CIVIL-REGULATORY-212AA,UNI-LAW,Civil & Regulatory,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-COMPLIANCE-GOVERN-C4820,UNI-LAW,Compliance & Governance,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CORE-LEGAL-PRACTI-A73A3,UNI-LAW,Core Legal Practice,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CORPORATE-ECONOMI-DCC32,UNI-LAW,Corporate & Economic Regulation,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CORPORATE-FINANCE-1A26B,UNI-LAW,Corporate & Finance,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CORPORATE-GOVERNA-011BC,UNI-LAW,Corporate Governance,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CORPORATE-GOVERNA-3544C,UNI-LAW,Corporate Governance & Social Impact,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CORPORATE-INSTITU-CFBDC,UNI-LAW,Corporate & Institutional,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CORPORATE-PUBLIC-A1367,UNI-LAW,Corporate & Public Contracts,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CORPORATE-SOCIAL-67E66,UNI-LAW,Corporate & Social Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CREATIVE-ECONOMY-7656F,UNI-LAW,Creative Economy Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CRIMINAL-CORPORAT-EFE1F,UNI-LAW,Criminal & Corporate Enforcement,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CRIMINAL-JUSTICE-16F98,UNI-LAW,Criminal Justice & Government,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CRIMINAL-JUSTICE-F8242,UNI-LAW,Criminal Justice & Policy,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-CRIMINAL-JUSTICE-FB220,UNI-LAW,Criminal Justice & Forensics,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-DISPUTE-RESOLUTIO-75BD6,UNI-LAW,Dispute Resolution,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-ENTREPRENEURSHIP-3D28F,UNI-LAW,Entrepreneurship,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-FINANCE-LEGAL-SER-B2B09,UNI-LAW,Finance & Legal Services,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-FINANCIAL-CRIME-C-74719,UNI-LAW,Financial Crime Compliance,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-FLEXIBLE-LEGAL-LI-68ADA,UNI-LAW,Flexible Legal Livelihoods,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-FUTURISTIC-SECTOR-E912C,UNI-LAW,Futuristic Sectoral Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-GOVERNANCE-ETHICS-4F04E,UNI-LAW,Governance & Ethics,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-GOVERNMENT-DEFENC-0FAAD,UNI-LAW,Government & Defence Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-GOVERNMENT-POLICY-43AB4,UNI-LAW,Government & Policy,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-INSOLVENCY-RESTRU-27814,UNI-LAW,Insolvency & Restructuring,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-INTERNATIONAL-LAW-0B788,UNI-LAW,International Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-INTERNATIONAL-PEO-6AFD9,UNI-LAW,International & People Mobility,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-INTERNATIONAL-TRA-24631,UNI-LAW,International & Trade Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-INTERNATIONAL-TRA-50DAA,UNI-LAW,International & Transport Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-IP-INNOVATION-FBCAA,UNI-LAW,IP & Innovation,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-JUDICIARY-PUBLIC-62450,UNI-LAW,Judiciary & Public Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-KNOWLEDGE-PUBLIC-BDC0F,UNI-LAW,Knowledge & Public Records,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-AI-E2CE9,UNI-LAW,Law + AI,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-AI-ETHICS-ADE8C,UNI-LAW,Law + AI Ethics,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-AI-SYSTEMS-9ECD0,UNI-LAW,Law + AI Systems,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-ANALYTICS-18746,UNI-LAW,Law + Analytics,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-ART-7C899,UNI-LAW,Law + Art,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-AVIATION-365EB,UNI-LAW,Law + Aviation,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-BIOETHICS-4C8D6,UNI-LAW,Law + Bioethics,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-BLOCKCHAIN-B393E,UNI-LAW,Law + Blockchain,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-CHILD-PROTECT-CD8FA,UNI-LAW,Law + Child Protection,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-COUNSELLING-06417,UNI-LAW,Law + Counselling,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-CREATOR-ECONO-2F326,UNI-LAW,Law + Creator Economy,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-CYBER-9D536,UNI-LAW,Law + Cyber,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-DIGITAL-ECONO-7350B,UNI-LAW,Law + Digital Economy,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-DIGITAL-IDENT-D6F36,UNI-LAW,Law + Digital Identity,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-DIGITAL-IP-C8141,UNI-LAW,Law + Digital IP,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-DIGITAL-MEDIA-C0EB3,UNI-LAW,Law + Digital Media,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-EDTECH-47B26,UNI-LAW,Law + EdTech,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-EDUCATION-2C526,UNI-LAW,Law + Education,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-ELECTIONS-9216C,UNI-LAW,Law + Elections,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-ENVIRONMENT-A5A57,UNI-LAW,Law + Environment,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-GENERATIVE-AI-CE4FB,UNI-LAW,Law + Generative AI,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-GERONTOLOGY-E0229,UNI-LAW,Law + Gerontology,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-HEALTHCARE-40205,UNI-LAW,Law + Healthcare,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-HERITAGE-CDB24,UNI-LAW,Law + Heritage,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-LANGUAGE-A97C4,UNI-LAW,Law + Language,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-LOCAL-GOVERNA-9E0FC,UNI-LAW,Law + Local Governance,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-MEDIA-EC049,UNI-LAW,Law + Media,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-MOBILITY-TECH-A864D,UNI-LAW,Law + Mobility Tech,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-POLICY-AB660,UNI-LAW,Law + Policy,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-PUBLIC-POLICY-F889C,UNI-LAW,Law + Public Policy,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-PUBLISHING-9E522,UNI-LAW,Law + Publishing,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-RELIGIOUS-GOV-E8ECE,UNI-LAW,Law + Religious Governance,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-RELIGIOUS-INS-829E2,UNI-LAW,Law + Religious Institutions,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-RURAL-GOVERNA-8B7C1,UNI-LAW,Law + Rural Governance,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-SOCIOLOGY-B1068,UNI-LAW,Law + Sociology,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-VERNACULAR-CO-1A654,UNI-LAW,Law + Vernacular Content,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-VIRTUAL-WORLD-EE218,UNI-LAW,Law + Virtual Worlds,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LAW-VR-EDTECH-0911C,UNI-LAW,Law + VR/EdTech,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-ADMINISTRAT-F67D4,UNI-LAW,Legal Administration,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-ANALYTICS-15D7D,UNI-LAW,Legal Analytics,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-EDUCATION-R-6980B,UNI-LAW,Legal Education & Research,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-MICRO-ENTRE-85085,UNI-LAW,Legal Micro-Entrepreneurship,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-OPERATIONS-AB526,UNI-LAW,Legal Operations,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-SERVICES-7A230,UNI-LAW,Legal Services,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-SERVICES-IN-233DC,UNI-LAW,Legal Services Industry,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-SUPPORT-1D7EC,UNI-LAW,Legal Support,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-TECHNOLOGY-0BDA2,UNI-LAW,Legal Technology & AI,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-TECHNOLOGY-0D08E,UNI-LAW,Legal Technology,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-LEGAL-TECHNOLOGY-8C93C,UNI-LAW,Legal Technology & Design,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-PRIVATE-CLIENT-LA-C1EDF,UNI-LAW,Private Client Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-PROPERTY-INFRASTR-67EED,UNI-LAW,Property & Infrastructure,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-PUBLIC-INTEREST-A-D773A,UNI-LAW,Public Interest & Administration,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-PUBLIC-INTEREST-C-2DF8B,UNI-LAW,Public Interest & Corporate,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-PUBLIC-INTEREST-L-68294,UNI-LAW,Public Interest Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-SECTORAL-COMPLIAN-51297,UNI-LAW,Sectoral Compliance,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-SECTORAL-LAW-38E3C,UNI-LAW,Sectoral Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-SECTORAL-REGULATI-99A62,UNI-LAW,Sectoral Regulation,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-SOCIAL-SECTOR-LAW-0A294,UNI-LAW,Social Sector Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-TAX-FISCAL-LAW-DABEA,UNI-LAW,Tax & Fiscal Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-TECHNOLOGY-FINANC-EFA5A,UNI-LAW,Technology & Finance Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-TECHNOLOGY-GOVERN-E8240,UNI-LAW,Technology & Governance,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-TECHNOLOGY-LAW-B4020,UNI-LAW,Technology Law,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-TECHNOLOGY-LAW-FO-D9701,UNI-LAW,Technology Law & Forensics,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-LAW-TRIBUNAL-PRACTICE-CEE67,UNI-LAW,Tribunal Practice,,Validated,0.6.1a,5-Structured- Law.xlsx
+DOM-MGT-ADVENTURE-RISK-OP-AD88B,UNI-MANAGEMENT,Adventure / Risk Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AGRI-BUSINESS-COL-93186,UNI-MANAGEMENT,Agri-Business / Collective Enterprise,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AGRI-TECH-SAAS-MA-5D614,UNI-MANAGEMENT,Agri-Tech / SaaS Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AGRI-TECH-SERVICE-C3FC1,UNI-MANAGEMENT,Agri-Tech / Service Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AGRI-TOURISM-EXPE-B34AF,UNI-MANAGEMENT,Agri-Tourism / Experience Business,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AGRIBUSINESS-RURA-EF3F1,UNI-MANAGEMENT,"Agribusiness, rural management, development",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AI-ERA-MANAGEMENT-89200,UNI-MANAGEMENT,AI-Era Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AI-NATIVE-OPERATI-B206C,UNI-MANAGEMENT,AI-Native Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AI-RISK-COMPLIANC-8D9C4,UNI-MANAGEMENT,AI Risk / Compliance Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AI-TECH-LIVELIHOO-AB2EA,UNI-MANAGEMENT,AI/Tech Livelihood,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-ANALYTICS-CONSULT-DC598,UNI-MANAGEMENT,Analytics/Consulting,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-ANALYTICS-MANAGEM-54B46,UNI-MANAGEMENT,Analytics Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AQUACULTURE-LUXUR-D0DD1,UNI-MANAGEMENT,Aquaculture Luxury Product,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AQUACULTURE-RURAL-3CF88,UNI-MANAGEMENT,Aquaculture / Rural Enterprise,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-AVIATION-OPERATIO-54DFF,UNI-MANAGEMENT,"Aviation operations, airport management",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-BFSI-ENTERPRISE-3CDBF,UNI-MANAGEMENT,BFSI/Enterprise,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-BFSI-MANAGEMENT-3BDA8,UNI-MANAGEMENT,BFSI Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-BHARAT-CONSUMER-D-6A166,UNI-MANAGEMENT,Bharat Consumer / Digital Marketing,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-BHARAT-DIGITAL-CO-5394B,UNI-MANAGEMENT,Bharat Digital Commerce,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-BLUE-ECONOMY-FISH-9BB5E,UNI-MANAGEMENT,Blue Economy / Fisheries Enterprise,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-BROAD-CORPORATE-M-F303C,UNI-MANAGEMENT,Broad corporate management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-BUSINESS-ANALYST-10110,UNI-MANAGEMENT,"Business analyst, analytics, RevOps, product ops",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-BUSINESS-ANALYST-41B9B,UNI-MANAGEMENT,"Business analyst, BI, consulting, product ops",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CAMPAIGN-PUBLIC-C-83B69,UNI-MANAGEMENT,Campaign / Public Communication Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CAREER-ACCELERATI-4B185,UNI-MANAGEMENT,"Career acceleration, leadership",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CAREER-SERVICES-S-711D5,UNI-MANAGEMENT,Career Services / Shadow MBA,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CIRCULAR-ECONOMY-A08C3,UNI-MANAGEMENT,Circular Economy / Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CLIMATE-ESG-FINAN-0F88E,UNI-MANAGEMENT,Climate / ESG / Finance Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CLUSTER-BRANDING-CABBA,UNI-MANAGEMENT,Cluster Branding / Rural Marketing,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-COMMUNITY-BUSINES-B314E,UNI-MANAGEMENT,Community Business / Digital Economy,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CONSULTING-ANALYT-ECE90,UNI-MANAGEMENT,Consulting / Analytics,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CONSULTING-CBDED,UNI-MANAGEMENT,Consulting,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-COOPERATIVE-AGRO-4CB42,UNI-MANAGEMENT,Cooperative / Agro-Industry Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-COOPERATIVE-DAIRY-D06FE,UNI-MANAGEMENT,Cooperative / Dairy Enterprise,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CORE-MANAGEMENT-443C3,UNI-MANAGEMENT,Core Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CRAFT-CLUSTER-MAN-2F437,UNI-MANAGEMENT,Craft / Cluster Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CREATOR-ECONOMY-551D9,UNI-MANAGEMENT,Creator Economy,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-CREATOR-PERSONAL-94652,UNI-MANAGEMENT,Creator / Personal Brand Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-DEVELOPMENT-LIVEL-0C5BC,UNI-MANAGEMENT,Development / Livelihood Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-DIGITAL-MANAGEMEN-19464,UNI-MANAGEMENT,Digital Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-DIGITAL-MARKETING-4F910,UNI-MANAGEMENT,"Digital marketing, growth, ecommerce, creator economy",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-DIGITAL-PLATFORM-EE744,UNI-MANAGEMENT,Digital / Platform Business,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-E-COMMERCE-RETAIL-777FE,UNI-MANAGEMENT,E-commerce / Retail,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-ECO-TOURISM-RESPO-810FA,UNI-MANAGEMENT,Eco-Tourism / Responsible Business,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-EDTECH-KNOWLEDGE-D859F,UNI-MANAGEMENT,EdTech / Knowledge Business,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-EDUCATION-MANAGEM-42618,UNI-MANAGEMENT,Education Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-EMERGING-MANAGEME-E8511,UNI-MANAGEMENT,Emerging Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-ENTREPRENEURSHIP-413F1,UNI-MANAGEMENT,Entrepreneurship,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-ESG-CSR-SUSTAINAB-3FAC6,UNI-MANAGEMENT,"ESG, CSR, sustainability consulting",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-EVENT-HOSPITALITY-CCD79,UNI-MANAGEMENT,Event / Hospitality,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-EVENT-MEDIA-WEDDI-84C14,UNI-MANAGEMENT,"Event, media, wedding, corporate event careers",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-EVENT-PUBLIC-LOGI-72967,UNI-MANAGEMENT,Event / Public Logistics,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-EXPERIENCE-ECONOM-69C65,UNI-MANAGEMENT,Experience Economy / Tourism Product,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-EXPORT-SUPPLY-CHA-C0418,UNI-MANAGEMENT,Export / Supply Chain,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-FINANCE-BANKING-F-9A2D5,UNI-MANAGEMENT,"Finance, banking, fintech, wealth management",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-FINANCE-BFSI-WEAL-EC163,UNI-MANAGEMENT,"Finance, BFSI, wealth, risk",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-FINANCE-MANAGEMEN-DE651,UNI-MANAGEMENT,Finance Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-FOOD-BUSINESS-MSM-D7DA5,UNI-MANAGEMENT,Food Business / MSME Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-GENERAL-BUSINESS-4748B,UNI-MANAGEMENT,"General business roles, entrepreneurship",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-GENERAL-MANAGEMEN-15059,UNI-MANAGEMENT,"General management, sales, marketing, HR, entrepreneurship",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-GENERAL-TECH-MANA-C9489,UNI-MANAGEMENT,General/Tech Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HERITAGE-BRAND-IP-215A7,UNI-MANAGEMENT,Heritage Brand / IP-linked Marketing,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HOSPITAL-ADMINIST-D8ADB,UNI-MANAGEMENT,"Hospital administrator, health-tech manager",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HOSPITALITY-TOURI-C2217,UNI-MANAGEMENT,"Hospitality, tourism, event, luxury",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HR-EDUCATION-757E4,UNI-MANAGEMENT,HR/Education,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HR-LIVELIHOOD-50ED4,UNI-MANAGEMENT,HR & Livelihood,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HR-MANAGEMENT-DC8E9,UNI-MANAGEMENT,HR Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HR-PEOPLE-OPERATI-5A1E0,UNI-MANAGEMENT,HR / People Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HR-PEOPLE-OPS-L-D-1FAFD,UNI-MANAGEMENT,"HR, people ops, L&D",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HR-RECRUITMENT-L-D8409,UNI-MANAGEMENT,"HR, recruitment, L&D, people ops",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-HUMANITARIAN-LOGI-D55E0,UNI-MANAGEMENT,Humanitarian Logistics / Crisis Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-INTERDISCIPLINARY-2E3CF,UNI-MANAGEMENT,Interdisciplinary Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-IT-MANAGEMENT-DIG-B9DAB,UNI-MANAGEMENT,"IT management, digital transformation, product ops",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-LIVELIHOOD-MANAGE-57668,UNI-MANAGEMENT,Livelihood Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-LONGEVITY-CARE-EC-931E1,UNI-MANAGEMENT,Longevity / Care Economy,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-AI-GOV-C41A4,UNI-MANAGEMENT,Management + AI Governance,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-ARTS-H-B538F,UNI-MANAGEMENT,Management + Arts/Heritage,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-CLIMAT-72A3C,UNI-MANAGEMENT,Management + Climate/Data,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-COMMER-B229D,UNI-MANAGEMENT,Management + Commerce/Trade,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-CULTUR-52C50,UNI-MANAGEMENT,Management + Culture/Tourism,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-DIGITA-C45E1,UNI-MANAGEMENT,Management + Digital Risk,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-ECONOM-CDEC9,UNI-MANAGEMENT,Management + Economics/Psychology,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-EDUCAT-035BA,UNI-MANAGEMENT,Management + Education/ERP,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-HEALTH-A23CA,UNI-MANAGEMENT,Management + Healthcare/Public Health,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-LAW-C1AC4,UNI-MANAGEMENT,Management + Law,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-LEADER-AB6AF,UNI-MANAGEMENT,"Management leadership, consulting, corporate careers",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-MEDIA-A274B,UNI-MANAGEMENT,Management + Media,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-POLITI-E9951,UNI-MANAGEMENT,Management + Politics/Data,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-PSYCHO-6EBEB,UNI-MANAGEMENT,Management + Psychology,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-RELIGI-86E5A,UNI-MANAGEMENT,Management + Religious Tourism,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-RETAIL-6EEF9,UNI-MANAGEMENT,Management + Retail/Real Estate,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-RURAL-B0A17,UNI-MANAGEMENT,Management + Rural Economy/Tech,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-SUSTAI-10362,UNI-MANAGEMENT,Management + Sustainability,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MANAGEMENT-TRAINE-E6A5D,UNI-MANAGEMENT,"Management trainee, marketing, analytics, finance",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MARINE-BIO-ENTERP-758FE,UNI-MANAGEMENT,Marine Bio-enterprise,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MARKETING-62860,UNI-MANAGEMENT,Marketing,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MARKETING-BRAND-S-764FA,UNI-MANAGEMENT,"Marketing, brand, sales, growth",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MARKETING-COMMS-95BFB,UNI-MANAGEMENT,Marketing/Comms,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MARKETING-GROWTH-2E3EF,UNI-MANAGEMENT,Marketing / Growth,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MARKETING-MEDIA-0DA11,UNI-MANAGEMENT,Marketing/Media,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MEDIA-SPORTS-CREA-B4987,UNI-MANAGEMENT,Media/Sports/Creator,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MEDIA-SPORTS-EVEN-67242,UNI-MANAGEMENT,"Media, sports, event, talent management",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-MGMT-LIVELIHOOD-935FD,UNI-MANAGEMENT,Mgmt Livelihood,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-NATURAL-PRODUCTS-CF01E,UNI-MANAGEMENT,Natural Products / Rural Enterprise,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-NATURAL-RESOURCE-FCC38,UNI-MANAGEMENT,Natural Resource / Community Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-NICHE-MANAGEMENT-52274,UNI-MANAGEMENT,Niche Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-NICHE-PET-AQUACUL-4A6E9,UNI-MANAGEMENT,Niche Pet / Aquaculture Business,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-OPERATIONS-DC741,UNI-MANAGEMENT,Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-OPERATIONS-MSME-C-977FE,UNI-MANAGEMENT,Operations / MSME Consulting,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-OPERATIONS-SCM-1BE7B,UNI-MANAGEMENT,Operations & SCM,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-OPERATIONS-SCM-PR-6BF6D,UNI-MANAGEMENT,"Operations, SCM, procurement",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-OPERATIONS-STARTU-ADFBA,UNI-MANAGEMENT,Operations / Startup,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-ORGANIC-FARM-TO-M-80C00,UNI-MANAGEMENT,Organic / Farm-to-Market,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-PLANTATION-RURAL-99886,UNI-MANAGEMENT,Plantation / Rural Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-RESOURCE-BASED-CR-04C40,UNI-MANAGEMENT,Resource-Based Craft / Green Material Business,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-RETAIL-ECOMMERCE-DDBEC,UNI-MANAGEMENT,"Retail, ecommerce, luxury, merchandising",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-RETAIL-ENTREPRENE-55D41,UNI-MANAGEMENT,Retail / Entrepreneurship,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-RETAIL-FASHION-AE55C,UNI-MANAGEMENT,Retail/Fashion,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-RETAIL-MANAGEMENT-6DC6A,UNI-MANAGEMENT,Retail Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-RETAIL-TECH-MSME-8F111,UNI-MANAGEMENT,Retail Tech / MSME Digitization,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-RURAL-AGRI-BUSINE-54BC6,UNI-MANAGEMENT,Rural / Agri Business,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-RURAL-DIGITAL-SER-E23DE,UNI-MANAGEMENT,Rural Digital Services / Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SALES-GROWTH-E6083,UNI-MANAGEMENT,Sales & Growth,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SALES-MANAGEMENT-7B173,UNI-MANAGEMENT,Sales Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SCM-LOGISTICS-PRO-CD99F,UNI-MANAGEMENT,"SCM, logistics, procurement, ecommerce ops",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SECTOR-MANAGEMENT-8B183,UNI-MANAGEMENT,Sector Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SHADOW-CAREERS-MB-D2B20,UNI-MANAGEMENT,Shadow Careers MBA,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SPIRITUAL-TOURISM-C0B98,UNI-MANAGEMENT,Spiritual Tourism / Public Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SPORTS-COMMUNITY-9F079,UNI-MANAGEMENT,Sports / Community Business,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SPORTS-MANAGEMENT-0D4E9,UNI-MANAGEMENT,"Sports management, sports events, sports analytics support",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-STARTUP-COMMUNICA-BB2D3,UNI-MANAGEMENT,Startup / Communication,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-STARTUP-FINANCE-EE08F,UNI-MANAGEMENT,Startup/Finance,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-STARTUP-MSME-FAMI-44B9B,UNI-MANAGEMENT,"Startup, MSME, family business, franchise",,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SUSTAINABILITY-DE-B6D39,UNI-MANAGEMENT,Sustainability/Development,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-SUSTAINABLE-OPERA-40C07,UNI-MANAGEMENT,Sustainable Operations / Supply Chain,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-TECH-MANAGEMENT-6BB35,UNI-MANAGEMENT,Tech Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-TOURISM-DESTINATI-02BB0,UNI-MANAGEMENT,Tourism / Destination Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-TRIBAL-LIVELIHOOD-7EF51,UNI-MANAGEMENT,Tribal Livelihood / Social Enterprise,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-URBAN-MOBILITY-PL-A4A66,UNI-MANAGEMENT,Urban Mobility / Platform Operations,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-MGT-WELLNESS-TOURISM-B1E07,UNI-MANAGEMENT,Wellness Tourism / Hospitality,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DOM-SCI-AGRICULTURE-9B060,UNI-SCIENCE,Agriculture,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-AVIATION-B5882,UNI-SCIENCE,Aviation,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-AVIATION-REGULATO-04D0C,UNI-SCIENCE,Aviation / Regulatory,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-DATA-ANALYTICS-D14E3,UNI-SCIENCE,Data Analytics,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-DATA-MATH-2BD69,UNI-SCIENCE,Data/Math,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-DATA-SCIENCE-MATH-FC760,UNI-SCIENCE,Data Science / Math,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-DEFENCE-AVIATION-09EFD,UNI-SCIENCE,Defence / Aviation,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-DEFENCE-CCE35,UNI-SCIENCE,Defence,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-DEFENCE-SUPPORT-7E49B,UNI-SCIENCE,Defence Support,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-DEFENSE-1E1C6,UNI-SCIENCE,Defense,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-DESIGN-10B24,UNI-SCIENCE,Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-EARLY-PIPELINE-790F4,UNI-SCIENCE,Early Pipeline,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-ENGINEERING-AA712,UNI-SCIENCE,Engineering,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-ENGINEERING-DESIG-181A9,UNI-SCIENCE,Engineering/Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-ENGINEERING-MULTI-195AA,UNI-SCIENCE,Engineering / Multi,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-ENGINEERING-TECH-C757D,UNI-SCIENCE,Engineering / Tech,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-MEDICAL-D5060,UNI-SCIENCE,Medical,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-MEDICINE-563F6,UNI-SCIENCE,Medicine,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-PURE-SCIENCE-CB5E0,UNI-SCIENCE,Pure Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-PURE-SCIENCE-MULT-F9F45,UNI-SCIENCE,Pure Science / Multi,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-PURE-SCIENCES-78C4D,UNI-SCIENCE,Pure Sciences,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-VOCATIONAL-BCFEB,UNI-SCIENCE,Vocational,,Validated,0.6.1a,1-Structured-Science.xlsx
+DOM-SCI-VOCATIONAL-TECHNI-F3D40,UNI-SCIENCE,Vocational / Technical,,Validated,0.6.1a,1-Structured-Science.xlsx

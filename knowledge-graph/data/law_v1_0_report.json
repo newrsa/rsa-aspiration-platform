@@ -1,0 +1,13 @@
+{
+  "universe": "UNI-LAW",
+  "version": "1.0",
+  "source": "RSA_SCC_Ontology_v1.0_Law_Universe_Direct_Structure.md",
+  "expected_domain_count": 22,
+  "domain_count": 22,
+  "expected_stream_count": 90,
+  "stream_count": 90,
+  "career_outcome_count": 90,
+  "stream_career_link_count": 90,
+  "streams_without_domain": 0,
+  "unknown_domain_links": 0
+}

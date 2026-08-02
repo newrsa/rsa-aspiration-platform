@@ -1,0 +1,352 @@
+{
+  "generated": "2026-08-02",
+  "question_count": 300,
+  "csv_validation": "PASS",
+  "files": [
+    {
+      "path": "00_requirements_and_test_baseline.md",
+      "sha256": "cbdcf156efc6afe2a3af41b8d845ea65dac88c5d068d552c82bd7a140b536422",
+      "bytes": 6343
+    },
+    {
+      "path": "01_domain_analysis.md",
+      "sha256": "68db9f2667286ef1f171e6a685ca1f6e123c3cced8366ca2cdea80895a02bfa6",
+      "bytes": 8386
+    },
+    {
+      "path": "02_ontology_assessment_and_refinement.md",
+      "sha256": "9865adc060e37e615cc428297f1984387f0cf0ee1acce55c2356b5de805b44d9",
+      "bytes": 2698
+    },
+    {
+      "path": "03_schema_design.md",
+      "sha256": "0ed25b774586304ae085152f495da5e0a5f27fda1bbefb3bf3fa88fd0f84d61b",
+      "bytes": 6325
+    },
+    {
+      "path": "04_preimplementation_query_validation.md",
+      "sha256": "dfe8baddb1365a4709174c45c9ba164387db491f9423f12a9103156b3c4614ec",
+      "bytes": 58410
+    },
+    {
+      "path": "05_data_alignment.md",
+      "sha256": "971a09e90aa91c3592adbc5aa5e2134596555f4626583586759ddb3ba70c882c",
+      "bytes": 6830
+    },
+    {
+      "path": "06_cypher_guide.md",
+      "sha256": "31c8c87b49efaffe85aa246ea608034f6dcc994a396a005da0c05ecc3cde315f",
+      "bytes": 3647
+    },
+    {
+      "path": "07_final_review.md",
+      "sha256": "c989a7853b7b3360ce2d880e379f3125f7b94fdd5bf40e0e06d4b6372c62c870",
+      "bytes": 3404
+    },
+    {
+      "path": "08_interdisciplinary_v1_1_migration.md",
+      "sha256": "ea7f9e36f53a7cd5872728fa8414df4af8d47a82380d955643424706c722dad6",
+      "bytes": 1976
+    },
+    {
+      "path": "09_remaining_universe_migrations.md",
+      "sha256": "ca3629d52a8ebbd1b5641023d9bf045c234e14f74c67bf1f9c1cc09fc1e1d5f8",
+      "bytes": 1447
+    },
+    {
+      "path": "cypher/01_create_schema.cypher",
+      "sha256": "385d98f74ca8d1553a79f8af39c191893e5b1efc0baf135e5a1a6e08eb41fb24",
+      "bytes": 9592
+    },
+    {
+      "path": "cypher/02_seed_universes.cypher",
+      "sha256": "ed3c265e2112a3233d657d4568d52184fff41f0ba9badf94488185bcc84f7985",
+      "bytes": 1200
+    },
+    {
+      "path": "cypher/03_load_canonical_nodes.cypher",
+      "sha256": "3a6f6cdf4e0f5883bba6f213006614f71accca2016614af078cb1dcf119bd432",
+      "bytes": 5426
+    },
+    {
+      "path": "cypher/04_load_structural_relationships.cypher",
+      "sha256": "97b2a932045c8d774ffb91e97ad679e48df6aaeeb64d302a11438277a6d3b77c",
+      "bytes": 1849
+    },
+    {
+      "path": "cypher/05_load_provenance.cypher",
+      "sha256": "ecbf8d0077d44c591d7b289a42e3d0f82bddc828ca2ef93ea69ab229887ce1b8",
+      "bytes": 2389
+    },
+    {
+      "path": "cypher/06_migrate_interdisciplinary_v1_1_schema.cypher",
+      "sha256": "233bf13f8d6a522ab746e9129ee8805ae8504c725377d4de5584542117f9e19b",
+      "bytes": 2286
+    },
+    {
+      "path": "cypher/07_load_interdisciplinary_v1_1.cypher",
+      "sha256": "f057f127999fe41fb6aad35baab0e2316f10b4f3fe8b9fb8c23722175dcda66d",
+      "bytes": 5137
+    },
+    {
+      "path": "cypher/08_validate_interdisciplinary_v1_1.cypher",
+      "sha256": "2fefc63f80031f90ec89a5f74579232d230314085d79cba510e2341ea682899d",
+      "bytes": 2388
+    },
+    {
+      "path": "cypher/09_migrate_remaining_universe_schemas.cypher",
+      "sha256": "a74e4c32027b3a002677a5e1100fe8a3fb6bde77e910217d81821e55998d5424",
+      "bytes": 2000
+    },
+    {
+      "path": "cypher/10_load_remaining_universe_registries.cypher",
+      "sha256": "ec27c134af4163aa6b3b82da754a1146636cd81efba3353f7caf1eea4aa9d875",
+      "bytes": 10359
+    },
+    {
+      "path": "cypher/11_validate_remaining_universes.cypher",
+      "sha256": "0239095f5960b71ad748dcafcca83f806d4d86abbc5adfd67e4cf1b6ac829563",
+      "bytes": 2286
+    },
+    {
+      "path": "cypher/30_integrity_validation.cypher",
+      "sha256": "bfad271052c9a8df6d98e75cfa0090ea10894db4a3556b67a5681e4425e1dc20",
+      "bytes": 1594
+    },
+    {
+      "path": "cypher/40_question_bank_queries.cypher",
+      "sha256": "222548e83a02b21d8df526332700daf64c73dda9b9f2cd4f6ce23d24534d6475",
+      "bytes": 1791
+    },
+    {
+      "path": "cypher/41_demo_queries_no_parameters.cypher",
+      "sha256": "745862c7cd724231ed9890d4c66200124ec684ef644eab5fd55fada6b50b82bc",
+      "bytes": 2194
+    },
+    {
+      "path": "data/career_outcomes.csv",
+      "sha256": "8d1db864f0b4c629eec0f1eed3174e60cf86aaf4b4d76f4376e391865e1c9e2a",
+      "bytes": 121948
+    },
+    {
+      "path": "data/commerce_v0_7_career_outcomes.csv",
+      "sha256": "9dc4bca547ca65224a1a9a6150f625dcb4f6120653580e0125936f17d1389a67",
+      "bytes": 12749
+    },
+    {
+      "path": "data/commerce_v0_7_domains.csv",
+      "sha256": "2a60b9055f34da373b22fc7fa45784bf98d04e9c23ce94008d9c7685558d5b6c",
+      "bytes": 4542
+    },
+    {
+      "path": "data/commerce_v0_7_report.json",
+      "sha256": "2af522b559c0502a12c6c73000962e9a77c24c8e469df7b47e4c7d7af9be950c",
+      "bytes": 354
+    },
+    {
+      "path": "data/commerce_v0_7_stream_career_links.csv",
+      "sha256": "50d6097097c73c1970cacc7eb2d5f128919b1fa5389d8b629dca093f3dc840ca",
+      "bytes": 9556
+    },
+    {
+      "path": "data/commerce_v0_7_streams.csv",
+      "sha256": "47030dcf7f25af498cb65997928b7e8d7b5547eab806391bc9c93a823c727be0",
+      "bytes": 15654
+    },
+    {
+      "path": "data/csv_validation_report.json",
+      "sha256": "af1409ee689c0254140feb44ba70b6846d5cd8715e507c31e6201f74ad521d05",
+      "bytes": 2771
+    },
+    {
+      "path": "data/degrees.csv",
+      "sha256": "06eb694cd0199b25beca603e53738a6327842425a76b8246297315e7118ffd68",
+      "bytes": 16979
+    },
+    {
+      "path": "data/domains.csv",
+      "sha256": "120a67cf0b66b8c51a39c5bb9d3e8a7e5be610eb04d8e4e1f0e9c28e4eb55154",
+      "bytes": 44183
+    },
+    {
+      "path": "data/entity_source_relationships.csv",
+      "sha256": "f6d6c72f4fc91201362ae04881a9c5e338eff374e2996d119a45ef72288d31ac",
+      "bytes": 301457
+    },
+    {
+      "path": "data/entrance_exams.csv",
+      "sha256": "c17e0a496bea7225e736c8a8639136bcdcb5aeea4a35196c6a429729dce4b854",
+      "bytes": 16424
+    },
+    {
+      "path": "data/humanities_v0_8_career_outcomes.csv",
+      "sha256": "1988ca89dfdb0561c8c3c243d637c2d4349f9b42dc6b5e4eb75bb9a1ccf33912",
+      "bytes": 24820
+    },
+    {
+      "path": "data/humanities_v0_8_domains.csv",
+      "sha256": "e208520fe9cbe790c9ba488d3263659a07c82e407094777c31184dbb4faf9246",
+      "bytes": 5261
+    },
+    {
+      "path": "data/humanities_v0_8_report.json",
+      "sha256": "74226492b130d15e403550243be1d1202632e28e0037e41acadba545f0b5d857",
+      "bytes": 377
+    },
+    {
+      "path": "data/humanities_v0_8_stream_career_links.csv",
+      "sha256": "b28eda4c9acc2dbde43c43e8ba5ebe6cbd332ef96946cf94b67ce801c6bd0dcb",
+      "bytes": 20480
+    },
+    {
+      "path": "data/humanities_v0_8_streams.csv",
+      "sha256": "a2e4d446576f5fedf37aac6521714d7420769a13e7e9548f84ec7c328590350e",
+      "bytes": 32725
+    },
+    {
+      "path": "data/institutions.csv",
+      "sha256": "281c32f813cdd02611ee1f6acb044468c0b32ed1e4066d58b5af09ce7a9a4543",
+      "bytes": 3583
+    },
+    {
+      "path": "data/interdisciplinary_v1_1_domain_parent_links.csv",
+      "sha256": "8cee846baf609eb1090fb6ac63bda6e1a300091dae4b4b878a3199a455d39dea",
+      "bytes": 3479
+    },
+    {
+      "path": "data/interdisciplinary_v1_1_domains.csv",
+      "sha256": "7a35c178f9b33bb6263223463a1f4fa3f7febf309fc2f952d881bfe353059635",
+      "bytes": 5307
+    },
+    {
+      "path": "data/interdisciplinary_v1_1_parent_disciplines.csv",
+      "sha256": "c7a89e9c9a3c9323b3a2ee881bf4980f29201282547829e9b998ba01ed2f283b",
+      "bytes": 6942
+    },
+    {
+      "path": "data/interdisciplinary_v1_1_report.json",
+      "sha256": "f8b1648b97b84fd25c4450e6fe3c19ad5bedb268a803c8b1df8c38bfe50ac211",
+      "bytes": 260
+    },
+    {
+      "path": "data/interdisciplinary_v1_1_stream_parent_links.csv",
+      "sha256": "667957ecb7d4db5d418f214ac4f77d1c01fc59686cc74a50f82ad42dfd809dfb",
+      "bytes": 6603
+    },
+    {
+      "path": "data/interdisciplinary_v1_1_streams.csv",
+      "sha256": "6093b9c7d1e905f4c2c03da33a74c85b812db111a67f8df2c91fc562131195fc",
+      "bytes": 30120
+    },
+    {
+      "path": "data/law_v1_0_career_outcomes.csv",
+      "sha256": "594eda3a6ed14aec30be703d266f070cfe730034d2232c73e235ba112836cb00",
+      "bytes": 13446
+    },
+    {
+      "path": "data/law_v1_0_domains.csv",
+      "sha256": "4e0128e33f9feb97025b13ceaf8963f92a6940273f81853d12893a4228a19399",
+      "bytes": 6537
+    },
+    {
+      "path": "data/law_v1_0_report.json",
+      "sha256": "eb592a8b222bb19405181dde815a7d61899a156cbf2a6eea01f96a93697c9200",
+      "bytes": 359
+    },
+    {
+      "path": "data/law_v1_0_stream_career_links.csv",
+      "sha256": "b406a619cf6d8ac72fbc9e74523f22c481c3e1e0f5f529d804867d2123348325",
+      "bytes": 11302
+    },
+    {
+      "path": "data/law_v1_0_streams.csv",
+      "sha256": "746b8ed86e5ad46154af5945a0aa5badf1d7e4a846ce711bf860941b6bd484f1",
+      "bytes": 39320
+    },
+    {
+      "path": "data/management_v0_9_career_outcomes.csv",
+      "sha256": "e828fd66d32a46b5c0b31aa093fdcd79d1fd125e1b3fa4272ed998a8e6bcfde6",
+      "bytes": 10463
+    },
+    {
+      "path": "data/management_v0_9_domains.csv",
+      "sha256": "26b6dd2e303a04101488eb9dd3c5b9a75d45caf403a2ff6443a8bfb6186e4b5c",
+      "bytes": 6674
+    },
+    {
+      "path": "data/management_v0_9_report.json",
+      "sha256": "b2d3fdc3efae54c3161b4cb97cc4b2d76d225852482f2f09181b1ea79877b1e7",
+      "bytes": 373
+    },
+    {
+      "path": "data/management_v0_9_stream_career_links.csv",
+      "sha256": "940897b2198a978d32b62ca0ad8e62fea72de75f3243f2ccd172d3a49595dd8a",
+      "bytes": 8653
+    },
+    {
+      "path": "data/management_v0_9_streams.csv",
+      "sha256": "5a6d5814ba87684aaf4d296441e753aeac8ee263bd5d8e1128c8b7f17926850b",
+      "bytes": 25285
+    },
+    {
+      "path": "data/normalization_report.json",
+      "sha256": "ecac490a84faa43f2982ae03939b607124054eb2429a89ac63ebde2f73683e2a",
+      "bytes": 498
+    },
+    {
+      "path": "data/quarantine.csv",
+      "sha256": "1c08d8c4f2e01b172205582b36a2470e8ce0f1521a9d59b4c40ddbb46eca6997",
+      "bytes": 60
+    },
+    {
+      "path": "data/skills.csv",
+      "sha256": "e99682684b1f046ff87489f6f9c3adb5c1ea12ca919928820f390537c4317250",
+      "bytes": 79250
+    },
+    {
+      "path": "data/source_records.csv",
+      "sha256": "ca44f18e33a49e8068254761421e71971fe925f3096d35f1b47b58720632f479",
+      "bytes": 2122192
+    },
+    {
+      "path": "data/stream_career_relationships.csv",
+      "sha256": "66449b72c7f5fe0f9132d6163e16e48c0e332805cad337e4f5fcec752997cd96",
+      "bytes": 98646
+    },
+    {
+      "path": "data/streams.csv",
+      "sha256": "90b31ed27a1e015d1d4bea436442d9c27857745b2a5abe6d450b6f0143fde04c",
+      "bytes": 155869
+    },
+    {
+      "path": "README.md",
+      "sha256": "119036a7c82d0af37a411fb2698a3331868fb41874a2327607584c200230ca17",
+      "bytes": 1613
+    },
+    {
+      "path": "references/RSA_SCC_Ontology_v0.7_Commerce_Universe.md",
+      "sha256": "23b225a4326bfcf10f787c4ef192f743fca3afae853a3fb1ef311a3c4aa84405",
+      "bytes": 75598
+    },
+    {
+      "path": "references/RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md",
+      "sha256": "eef073369ddf750391d18db263d0ad8104a7214c19051addc07f352723268ea0",
+      "bytes": 67456
+    },
+    {
+      "path": "references/RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md",
+      "sha256": "da41721394b9457da7892e152a978a1604cdd25aa406b689ac0669b88fc9e7c8",
+      "bytes": 102226
+    },
+    {
+      "path": "references/RSA_SCC_Ontology_v1.0_Law_Universe_Direct_Structure.md",
+      "sha256": "d234c74c972aa38c6e7e32b3235270297698397307f4f660ffbda8642e403784",
+      "bytes": 101919
+    },
+    {
+      "path": "references/RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md",
+      "sha256": "5230b8baa9b18a03ce9533e76dc3bf492cede607a75900ed400191af76fcc51e",
+      "bytes": 91755
+    }
+  ]
+}

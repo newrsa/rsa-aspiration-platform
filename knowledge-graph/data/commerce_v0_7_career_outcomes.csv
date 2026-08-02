@@ -1,0 +1,112 @@
+﻿career_outcome_code,universe_code,name,governance_status,version,source_document
+CAR-COM-CA-01,UNI-COMMERCE,Chartered Accountant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CA-02,UNI-COMMERCE,Auditor,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CA-03,UNI-COMMERCE,Tax Consultant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CA-04,UNI-COMMERCE,CFO,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CMA-01,UNI-COMMERCE,Cost Accountant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CMA-02,UNI-COMMERCE,Financial Controller,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CMA-03,UNI-COMMERCE,Pricing Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FA-01,UNI-COMMERCE,Financial Accountant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FA-02,UNI-COMMERCE,Reporting Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FA-03,UNI-COMMERCE,Accounts Executive,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-AUD-01,UNI-COMMERCE,Auditor,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-AUD-02,UNI-COMMERCE,Internal Auditor,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-AUD-03,UNI-COMMERCE,Assurance Associate,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FORACC-01,UNI-COMMERCE,Forensic Accountant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FORACC-02,UNI-COMMERCE,Fraud Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-INSOLV-01,UNI-COMMERCE,Insolvency Professional,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-INSOLV-02,UNI-COMMERCE,Restructuring Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-DTAX-01,UNI-COMMERCE,Tax Consultant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-DTAX-02,UNI-COMMERCE,Direct Tax Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-IDTAX-01,UNI-COMMERCE,GST Consultant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-IDTAX-02,UNI-COMMERCE,Indirect Tax Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-INTTAX-01,UNI-COMMERCE,International Tax Consultant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-INTTAX-02,UNI-COMMERCE,Transfer Pricing Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CS-01,UNI-COMMERCE,Company Secretary,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CS-02,UNI-COMMERCE,Compliance Officer,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CS-03,UNI-COMMERCE,Legal Advisor,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-COMP-01,UNI-COMMERCE,Compliance Officer,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-COMP-02,UNI-COMMERCE,Governance Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BANK-01,UNI-COMMERCE,Bank PO,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BANK-02,UNI-COMMERCE,Branch Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BANK-03,UNI-COMMERCE,Banking Operations Officer,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CREDIT-01,UNI-COMMERCE,Credit Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CREDIT-02,UNI-COMMERCE,Lending Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CREDIT-03,UNI-COMMERCE,Underwriter,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-WM-01,UNI-COMMERCE,Wealth Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-WM-02,UNI-COMMERCE,Investment Advisor,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-WM-03,UNI-COMMERCE,Portfolio Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FP-01,UNI-COMMERCE,Financial Planner,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FP-02,UNI-COMMERCE,Personal Finance Advisor,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-INV-01,UNI-COMMERCE,Investment Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-INV-02,UNI-COMMERCE,Finance Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-EQRES-01,UNI-COMMERCE,Equity Research Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-TRD-01,UNI-COMMERCE,Derivatives Trader,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-TRD-02,UNI-COMMERCE,Market Trader,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PORT-01,UNI-COMMERCE,Portfolio Strategist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PORT-02,UNI-COMMERCE,Portfolio Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ALGO-01,UNI-COMMERCE,Algo Trading Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ALGO-02,UNI-COMMERCE,Quantitative Market Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ACT-01,UNI-COMMERCE,Actuary,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ACT-02,UNI-COMMERCE,Risk Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ACT-03,UNI-COMMERCE,Insurance Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-INSRISK-01,UNI-COMMERCE,Insurance Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-INSRISK-02,UNI-COMMERCE,Risk Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ECO-01,UNI-COMMERCE,Economist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ECO-02,UNI-COMMERCE,Policy Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ECO-03,UNI-COMMERCE,Data Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-POL-01,UNI-COMMERCE,Policy Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-POL-02,UNI-COMMERCE,Economic Researcher,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FDA-01,UNI-COMMERCE,Financial Data Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FDA-02,UNI-COMMERCE,Data Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FDA-03,UNI-COMMERCE,BI Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BA-01,UNI-COMMERCE,Business Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BA-02,UNI-COMMERCE,Revenue Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BA-03,UNI-COMMERCE,Pricing Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BA-04,UNI-COMMERCE,CRM Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BI-01,UNI-COMMERCE,BI Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BI-02,UNI-COMMERCE,MIS Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FT-01,UNI-COMMERCE,FinTech Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FT-02,UNI-COMMERCE,Product Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FT-03,UNI-COMMERCE,Digital Payments Specialist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PAY-01,UNI-COMMERCE,Payments Specialist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PAY-02,UNI-COMMERCE,Digital Payments Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-DLEND-01,UNI-COMMERCE,Digital Lending Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BCC-01,UNI-COMMERCE,Blockchain Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BCC-02,UNI-COMMERCE,Crypto Compliance Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-INST-01,UNI-COMMERCE,InsurTech Specialist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ECOM-01,UNI-COMMERCE,E-Commerce Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ECOM-02,UNI-COMMERCE,Marketplace Specialist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-MKTPL-01,UNI-COMMERCE,Marketplace Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-MKTPL-02,UNI-COMMERCE,Catalog Specialist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-D2C-01,UNI-COMMERCE,D2C Brand Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-D2C-02,UNI-COMMERCE,Dropshipping Entrepreneur,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-D2C-03,UNI-COMMERCE,Online Business Owner,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ESUP-01,UNI-COMMERCE,E-Commerce Supply Chain Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-DM-01,UNI-COMMERCE,Digital Marketing Specialist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-DM-02,UNI-COMMERCE,SEO Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-DM-03,UNI-COMMERCE,Social Media Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-DM-04,UNI-COMMERCE,Performance Marketer,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BRAND-01,UNI-COMMERCE,Brand Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BRAND-02,UNI-COMMERCE,Advertising Executive,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-BRAND-03,UNI-COMMERCE,Marketing Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-MEDIA-01,UNI-COMMERCE,Media Planner,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-MEDIA-02,UNI-COMMERCE,PR Specialist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-MEDIA-03,UNI-COMMERCE,Content Strategist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PROC-01,UNI-COMMERCE,Procurement Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PROC-02,UNI-COMMERCE,Vendor Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-LOG-01,UNI-COMMERCE,Inventory Controller,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-LOG-02,UNI-COMMERCE,Logistics Analyst,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-EXIM-01,UNI-COMMERCE,Export-Import Specialist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FREEL-01,UNI-COMMERCE,Remote Bookkeeper,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FREEL-02,UNI-COMMERCE,Freelance Financial Consultant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-FREEL-03,UNI-COMMERCE,Online Business Consultant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CREATOR-01,UNI-COMMERCE,Creator Economy Manager,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-CREATOR-02,UNI-COMMERCE,Affiliate Marketer,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ENT-01,UNI-COMMERCE,Entrepreneur,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ENT-02,UNI-COMMERCE,Business Owner,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-ENT-03,UNI-COMMERCE,Consultant,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PUBBANK-01,UNI-COMMERCE,Bank PO,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PUBBANK-02,UNI-COMMERCE,Public-Sector Banking Officer,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PUBPOL-01,UNI-COMMERCE,Government Economist,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md
+CAR-COM-PUBPOL-02,UNI-COMMERCE,Statistical/Economic Officer,Validated baseline,0.7,RSA_SCC_Ontology_v0.7_Commerce_Universe.md

@@ -1,0 +1,17 @@
+{
+  "counts": {
+    "domains": 379,
+    "streams": 916,
+    "career_outcomes": 916,
+    "entrance_exams": 109,
+    "skills": 604,
+    "degrees": 85,
+    "institutions": 20,
+    "source_records": 2410,
+    "stream_career_relationships": 916,
+    "entity_source_relationships": 4244,
+    "quarantine": 0
+  },
+  "method": "deterministic header- and sheet-aware normalization",
+  "warning": "Validated means structurally mapped from supplied workbook, not independently fact-checked."
+}

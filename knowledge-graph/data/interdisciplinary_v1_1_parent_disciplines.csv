@@ -1,0 +1,61 @@
+﻿parent_discipline_code,name,governance_status,version,source_document
+INT-PAR-AGRICULTURE,Agriculture,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-AI,AI,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-ARCHITECTURE,Architecture,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-BIOLOGY,Biology,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-BIOMEDICAL,Biomedical,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-BUSINESS,Business,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-CIVIL-ENVIRONMENTAL,Civil/Environmental Science,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-CODING,Coding,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-COMMERCE,Commerce,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-COMMUNICATION,Communication,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-COMPUTER-SCIENCE,Computer Science,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-CONTENT,Content,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-DATA,Data,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-DATA-ANALYTICS,Data Analytics,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-DATA-SCIENCE,Data Science,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-DESIGN,Design,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-DEVELOPMENT-STUDIES,Development Studies,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-DIGITAL-ARCHIVES,Digital Archives,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-DIGITAL-PLATFORMS,Digital Platforms,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-ECONOMICS,Economics,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-EDUCATION,Education,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-ENGINEERING,Engineering,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-ENVIRONMENT,Environment,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-FASHION-DESIGN,Fashion Design,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-FILM,Film,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-FINANCE,Finance,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-FOOD-SCIENCE,Food Science,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-GEOGRAPHY,Geography,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-GIS,GIS,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-GOVERNANCE,Governance,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-HEALTHCARE,Healthcare,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-HISTORY,History,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-JOURNALISM,Journalism,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-LAW,Law,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-LINGUISTICS,Linguistics,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-LITERATURE-HISTORY,Literature/History,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-MANAGEMENT,Management,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-MARKETING,Marketing,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-MEDIA,Media,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-NEUROSCIENCE,Neuroscience,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-PHARMACY,Pharmacy,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-PHILOSOPHY,Philosophy,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-POLICY,Policy,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-PSYCHOLOGY,Psychology,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-PUBLIC-POLICY,Public Policy,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-REGULATION,Regulation,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-REMOTE-SENSING,Remote Sensing,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-REPORTING,Reporting,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-RETAIL,Retail,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-RURAL-MANAGEMENT,Rural Management,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-SCIENCE,Science,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-SOCIOLOGY,Sociology,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-SOCIOLOGY-ECONOMICS,Sociology/Economics,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-SPACE-SCIENCE,Space Science,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-SPORTS,Sports,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-STATISTICS,Statistics,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-SUPPLY-CHAIN,Supply Chain,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-SUSTAINABILITY,Sustainability,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-TECHNOLOGY,Technology,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md
+INT-PAR-TOURISM,Tourism,Validated,1.1,RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md

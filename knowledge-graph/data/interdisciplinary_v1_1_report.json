@@ -1,0 +1,9 @@
+{
+  "ontology_version": "1.1",
+  "domain_count": 16,
+  "stream_count": 38,
+  "parent_discipline_count": 60,
+  "stream_parent_links": 118,
+  "domain_parent_links": 100,
+  "source": "RSA_SCC_Ontology_v1.1_Interdisciplinary_Universe_Direct_Structure.md"
+}

@@ -1,0 +1,86 @@
+﻿degree_code,universe_code,name,degree_level,duration,eligibility_snapshot,source_url,governance_status,version,source_workbook
+DEG-HUM-BA-MA-IKS-65F77,UNI-HUMANITIES,BA/MA IKS,,,12th Arts Preferred,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DEG-HUM-BA-MA-MUSEOLOGY-DBB55,UNI-HUMANITIES,BA/MA Museology,,,12th/Graduate,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DEG-HUM-BA-MA-SANSKRIT-D1308,UNI-HUMANITIES,BA/MA Sanskrit,,,12th Any Stream,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DEG-HUM-BA-MA-YOGA-STUDIE-7B495,UNI-HUMANITIES,BA/MA Yoga Studies,,,12th Any Stream,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DEG-HUM-CERTIFICATE-DIPLO-07FD4,UNI-HUMANITIES,Certificate/Diploma/MA,,,Open/12th,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DEG-HUM-DIPLOMA-CERTIFICA-B21F8,UNI-HUMANITIES,Diploma/Certificate,,,Open Eligibility,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DEG-HUM-MA-TRIBAL-STUDIES-3C902,UNI-HUMANITIES,MA Tribal Studies,,,Graduate Level,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+DEG-INTD-BA-MA-ECONOMICS-5C227,UNI-INTERDISCIPLINARY,BA/MA economics/behavioural science,,,Any stream with maths/economics helpful,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BA-MA-JOURNALISM-C8017,UNI-INTERDISCIPLINARY,BA/MA journalism + data analytics,,,Any stream,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BA-MA-PUBLIC-POL-122D5,UNI-INTERDISCIPLINARY,BA/MA Public Policy; MPP,,,Any stream/graduate,https://www.nls.ac.in/programme/master-of-public-policy/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BBA-BCOM-FINTECH-FE253,UNI-INTERDISCIPLINARY,BBA/BCom FinTech; MBA FinTech; BS data + finance,,,Commerce/PCM/any UG with maths useful,https://onlinedegree.iitm.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BBA-BDES-IT-STRU-E7D27,UNI-INTERDISCIPLINARY,BBA/BDes/IT + structured product/automation certification,,,Any graduate with tech aptitude,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BCOM-BBA-ANALYTI-0AEFA,UNI-INTERDISCIPLINARY,BCom/BBA + analytics; MBA analytics; MSc finance,,,Commerce/statistics/economics/engineering,https://study.iitm.ac.in/mg/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BCOM-LLB-MBA-PG-5002F,UNI-INTERDISCIPLINARY,BCom/LLB/MBA/PG compliance analytics,,,Commerce/law/data background,https://www.iift.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BDES-MDES-MBA-PR-53875,UNI-INTERDISCIPLINARY,BDes/MDes/MBA product/design,,,Design/engineering/business background,https://www.uceed.iitb.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BDES-MDES-SERVIC-486A9,UNI-INTERDISCIPLINARY,BDes/MDes service design; MBA design strategy,,,Any stream for UG design; graduation for PG,https://admissions.nid.edu/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BDES-MDES-UX-PSY-E341C,UNI-INTERDISCIPLINARY,BDes/MDes UX; psychology + UX PG,,,Any stream; psychology/design/engineering useful,https://www.uceed.iitb.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BIOTECH-LIFE-SCI-A572E,UNI-INTERDISCIPLINARY,Biotech/life science + MBA/entrepreneurship,,,Life science/biotech background,https://www.startupindia.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BPHARM-MPHARM-MB-DD35B,UNI-INTERDISCIPLINARY,BPharm/MPharm/MBA Pharma,,,Pharmacy/life sciences/economics,https://www.niper.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BSC-AGRI-AGRI-EN-FC225,UNI-INTERDISCIPLINARY,BSc Agri/Agri engineering; GIS/IoT certificate,,,PCB/PCM/agri background,https://www.manage.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BSC-AGRI-MBA-AGR-10130,UNI-INTERDISCIPLINARY,BSc Agri; MBA AgriBusiness; analytics,,,BSc agri/commerce/science/management,https://www.manage.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-BTECH-FOOD-TECH-B7E06,UNI-INTERDISCIPLINARY,BTech food tech/MBA supply chain,,,PCM/PCB; graduate for MBA,https://www.startupindia.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-DATA-SCIENCE-POL-C56C8,UNI-INTERDISCIPLINARY,Data science + policy/administration,,,Any graduate; quantitative skills required,https://onlinedegree.iitm.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-ENVIRONMENTAL-PL-EBD96,UNI-INTERDISCIPLINARY,Environmental planning/climate policy,,,Science/geography/policy,https://www.ugc.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-FILM-MEDIA-DEGRE-099C1,UNI-INTERDISCIPLINARY,Film/media degree + structured AI/media certification,,,Any graduate; media background,https://www.ftii.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-FINTECH-REGTECH-2F33F,UNI-INTERDISCIPLINARY,FinTech/RegTech PG; law/commerce + blockchain certification,,,Commerce/law/IT,https://www.startupindia.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-GEOINFORMATICS-R-3EAD4,UNI-INTERDISCIPLINARY,Geoinformatics/remote sensing + AI,,,Geography/PCM/civil/CS,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-HCI-COGNITIVE-SC-BADAA,UNI-INTERDISCIPLINARY,HCI/cognitive science/design programmes,,,Design/psychology/CS,https://www.ceed.iitb.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-LLB-DESIGN-THINK-5CECE,UNI-INTERDISCIPLINARY,LLB + design thinking/communication design,,,Law/design background,https://admissions.nid.edu/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-LLB-LLM-CYBER-LA-3CDD0,UNI-INTERDISCIPLINARY,LLB/LLM Cyber Law; PG cyber law diploma,,,Law graduate preferred; IT background useful,https://www.nls.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-LLB-LLM-TECH-LAW-F4A7C,UNI-INTERDISCIPLINARY,LLB/LLM Tech Law; PG diploma data protection; CS + compliance,,,Law/IT/management graduate; privacy specialization,https://www.nls.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-LLB-PRODUCT-UX-C-D5D43,UNI-INTERDISCIPLINARY,LLB + product/UX certification; MBA/PG tech management,,,Law graduate with tech aptitude,https://admissions.nid.edu/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-M-E-CERTIFICATE-26D25,UNI-INTERDISCIPLINARY,M&E certificate + MA development/policy,,,Any graduate,https://www.irma.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MA-DEVELOPMENT-C-14403,UNI-INTERDISCIPLINARY,MA Development Communication,,,Any graduate,https://admissions.tiss.ac.in/view/10/admissions/ma-admissions/ma-in-public-policy-and-governance/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MA-DEVELOPMENT-S-4A1D6,UNI-INTERDISCIPLINARY,MA Development Studies; rural management,,,Any graduate,https://admissions.tiss.ac.in/view/10/admissions/ma-admissions/ma-in-public-policy-and-governance/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MA-DIGITAL-HUMAN-7560A,UNI-INTERDISCIPLINARY,MA Digital Humanities; archival studies; text analytics,,,BA humanities; data skills preferred,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MA-HERITAGE-MUSE-A6312,UNI-INTERDISCIPLINARY,MA Heritage/Museology; tourism/design programmes,,,Any graduate; history/design/tourism preferred,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MA-MSC-COMPUTATI-9D85F,UNI-INTERDISCIPLINARY,MA/MSc Computational Linguistics/NLP,,,BA languages/linguistics/CS,https://indiaai.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MA-SOCIOLOGY-MED-3FC4A,UNI-INTERDISCIPLINARY,MA Sociology/Media with analytics; data certification,,,Social science graduate,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MBA-FINANCE-SUST-F493B,UNI-INTERDISCIPLINARY,MBA finance/sustainability; environmental economics,,,Commerce/economics/environment graduate,https://www.ugc.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MBA-HEALTH-MEDTE-9A87D,UNI-INTERDISCIPLINARY,MBA health/MedTech; public health + product,,,Health/IT/business graduate,https://abdm.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MBA-HOSPITAL-HEA-DF337,UNI-INTERDISCIPLINARY,MBA Hospital & Health Management + analytics,,,Any bachelor with 50% often required; institute-specific,https://iihmr.edu.in/program/mba-hospital-and-health-management,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MBA-HR-ANALYTICS-B99FF,UNI-INTERDISCIPLINARY,MBA HR analytics; psychology + analytics,,,Any graduate; HR/psych/stats useful,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MBA-MSC-SUSTAINA-F2976,UNI-INTERDISCIPLINARY,MBA/MSc sustainability/circular economy,,,Any graduate,https://www.startupindia.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MDES-HCI-MSC-COG-13C9F,UNI-INTERDISCIPLINARY,MDes HCI; MSc cognitive science; AI/UX programmes,,,Psychology/design/CS/engineering,https://www.ceed.iitb.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MEDIA-MANAGEMENT-B524F,UNI-INTERDISCIPLINARY,Media management/MBA digital business,,,Any graduate,https://www.startupindia.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MLIS-MA-DIGITAL-34526,UNI-INTERDISCIPLINARY,MLIS/MA digital knowledge management; AI literacy,,,Any graduate; humanities/library science useful,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MPH-MSC-EPIDEMIO-D4C1C,UNI-INTERDISCIPLINARY,MPH/MSc Epidemiology/Data,,,Science/health/social science,https://iiphg.edu.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MPLAN-MA-URBAN-S-86BDC,UNI-INTERDISCIPLINARY,MPlan/MA Urban Studies/MPP,,,Any graduate; geography/architecture helpful,https://www.ugc.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MPP-LLM-PG-AI-ET-6548E,UNI-INTERDISCIPLINARY,MPP/LLM/PG AI ethics/governance,,,Any graduate; law/policy/CS useful,https://indiaai.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MSC-MBA-FINANCE-952A5,UNI-INTERDISCIPLINARY,MSc/MBA finance analytics; FRM-supporting degree,,,Quantitative UG helpful,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MSC-MBA-HEALTH-I-2D6FE,UNI-INTERDISCIPLINARY,MSc/MBA health informatics/MPH,,,Health/science/IT/any grad,https://iihmr.edu.in/program/mba-hospital-and-health-management,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MSC-MTECH-WATER-E1F61,UNI-INTERDISCIPLINARY,MSc/MTech water/environment/GIS,,,Science/geography/civil background,https://www.ugc.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MSC-PSYCHOLOGY-N-453DF,UNI-INTERDISCIPLINARY,MSc psychology/neuroscience; MBA marketing,,,Psychology/life sciences/management,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-MSC-SCIENCE-COMM-DD1C9,UNI-INTERDISCIPLINARY,MSc Science Communication; journalism,,,Science UG preferred,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-NIFT-BFTECH-MFM-24F91,UNI-INTERDISCIPLINARY,NIFT BFTech/MFM; retail tech,,,Any stream / PCM for some tech programmes,https://www.nift.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-PUBLIC-POLICY-DA-D9D93,UNI-INTERDISCIPLINARY,Public policy/data science/technology programmes,,,Any graduate with data/policy aptitude,https://www.digitalindia.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-INTD-PUBLIC-POLICY-SP-CC4E3,UNI-INTERDISCIPLINARY,Public policy/space science/engineering/law,,,Science/engineering/law/policy background,https://www.startupindia.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+DEG-MGT-BBA-09974,UNI-MANAGEMENT,BBA,UG,3 years; 4-year honours possible under NEP structures,10+2 from recognized board; criteria vary by institute,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-BSC-IN-HOSPIT-BC34E,UNI-MANAGEMENT,BBA/BSc in Hospitality or BHM,UG,3-4 years,10+2; NCHM route for hotel management institutes,https://exams.nta.ac.in/NCHM/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-AVIATION-A-09307,UNI-MANAGEMENT,BBA in Aviation/Airport Management,UG,3 years,10+2; criteria vary,https://www.aicte-india.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-BUSINESS-A-F5D04,UNI-MANAGEMENT,BBA in Business Analytics,UG,3 years,10+2; math/statistics helpful,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-DIGITAL-MA-4A159,UNI-MANAGEMENT,BBA in Digital Marketing,UG,3 years,10+2,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-ENTREPRENE-AFABE,UNI-MANAGEMENT,BBA in Entrepreneurship / Family Business,UG,3 years,10+2,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-EVENT-MANA-DEA7D,UNI-MANAGEMENT,BBA in Event Management,UG,3 years,10+2,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-FINANCE-FI-B5609,UNI-MANAGEMENT,BBA in Finance / FinTech,UG,3 years,10+2; commerce/math useful,https://www.nism.ac.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-HR-PEOPLE-4A488,UNI-MANAGEMENT,BBA in HR / People Management,UG,3 years,10+2,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-LOGISTICS-8F543,UNI-MANAGEMENT,BBA in Logistics & Supply Chain,UG,3 years,10+2,https://www.aicte-india.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-RETAIL-MAN-CF06C,UNI-MANAGEMENT,BBA in Retail Management,UG,3 years,10+2,https://www.nsdcindia.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBA-IN-SPORTS-MAN-110F2,UNI-MANAGEMENT,BBA in Sports Management,UG,3 years,10+2,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BBM-BBS-7AEFC,UNI-MANAGEMENT,BBM/BBS,UG,3 years,10+2; institute-specific,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-BMS-AE8D9,UNI-MANAGEMENT,BMS,UG,3 years; 4-year honours possible,10+2; often merit/CUET/state routes,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-EXECUTIVE-MBA-PGD-B0F1B,UNI-MANAGEMENT,Executive MBA/PGDM,PG/Executive,1-2 years,Graduation + work experience; institute criteria vary,https://www.aicte-india.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-INTEGRATED-MBA-IP-53A8C,UNI-MANAGEMENT,Integrated MBA / IPM,Integrated UG+PG,5 years,10+2; strong aptitude profile,https://www.iimidr.ac.in/academic-programmes/five-year-integrated-programme-in-management-ipm/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-AGRIBUSINESS-399C7,UNI-MANAGEMENT,MBA Agribusiness/Rural Management,PG,2 years,Graduation; agri/rural exposure useful,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-BUSINESS-ANAL-38C60,UNI-MANAGEMENT,MBA Business Analytics,PG,2 years,Graduation; quantitative comfort helpful,https://www.aicte-india.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-FINANCE-C6E32,UNI-MANAGEMENT,MBA Finance,PG,2 years,Graduation; commerce/math helpful,https://www.nism.ac.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-HEALTHCARE-MH-F598E,UNI-MANAGEMENT,MBA Healthcare / MHA,PG,2 years mostly,Graduation; life science/medical/any UG depending institute,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-HR-E434B,UNI-MANAGEMENT,MBA HR,PG,2 years,Graduation,https://www.tiss.edu/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-IT-SYSTEMS-EF6A0,UNI-MANAGEMENT,MBA IT / Systems,PG,2 years,Graduation,https://www.aicte-india.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-MARKETING-DAE8F,UNI-MANAGEMENT,MBA Marketing,PG,2 years,Graduation,https://www.aicte-india.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-MEDIA-ENTERTA-84AEC,UNI-MANAGEMENT,MBA Media/Entertainment/Event/Sports,PG,1-2 years,Graduation,https://www.ugc.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-OPERATIONS-SC-D516B,UNI-MANAGEMENT,MBA Operations / SCM,PG,2 years,Graduation; engineering helpful but not mandatory,https://www.aicte-india.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-PGDM-GENERAL-FF1DD,UNI-MANAGEMENT,MBA / PGDM General Management,PG,2 years full-time typically,Bachelor's degree; marks and criteria vary,https://iimcat.ac.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+DEG-MGT-MBA-SUSTAINABILIT-D146C,UNI-MANAGEMENT,MBA Sustainability / ESG,PG,2 years / certifications vary,Graduation,https://www.nism.ac.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx

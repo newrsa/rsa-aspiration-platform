@@ -1,0 +1,917 @@
+﻿career_outcome_code,universe_code,name,description,governance_status,version,source_workbook
+CAR-COM-ACTUARIAL-SCIENCE-60978,UNI-COMMERCE,Actuarial Science,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-ADVERTISING-BRAND-37769,UNI-COMMERCE,Advertising & Branding,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-BANKING-CAREERS-D0CED,UNI-COMMERCE,Banking Careers,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-BUSINESS-ANALYTIC-DA68E,UNI-COMMERCE,Business Analytics,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-CHARTERED-ACCOUNT-994BF,UNI-COMMERCE,Chartered Accountant,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-COMPANY-SECRETARY-C940B,UNI-COMMERCE,Company Secretary,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-COST-ACCOUNTANT-D0B3B,UNI-COMMERCE,Cost Accountant,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-DIGITAL-BUSINESS-ED6E8,UNI-COMMERCE,Digital Business,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-DIGITAL-MARKETING-55CFE,UNI-COMMERCE,Digital Marketing,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-E-COMMERCE-ADVANC-7DBD5,UNI-COMMERCE,E-Commerce Advanced,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-ECONOMIST-E7A1B,UNI-COMMERCE,Economist,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-FINANCIAL-DATA-AN-0EA90,UNI-COMMERCE,Financial Data Analyst,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-FINTECH-ADVANCED-F6969,UNI-COMMERCE,FinTech Advanced,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-FINTECH-SPECIALIS-EC519,UNI-COMMERCE,FinTech Specialist,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-GLOBAL-FREELANCE-495EF,UNI-COMMERCE,Global Freelance Careers,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-INDUSTRY-OPERATIO-DCF99,UNI-COMMERCE,Industry Operations,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-SPECIALIZED-ACCOU-9FEDB,UNI-COMMERCE,Specialized Accounting,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-STOCK-MARKET-ADVA-26A90,UNI-COMMERCE,Stock Market Advanced,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-COM-WEALTH-MANAGER-1932D,UNI-COMMERCE,Wealth Manager,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+CAR-HUM-ACADEMIC-EDITOR-8FE3E,UNI-HUMANITIES,Academic Editor,"Improve research papers, theses and academic manuscripts",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ACQUISITION-EDITO-E5900,UNI-HUMANITIES,Acquisition Editor,"Identify manuscripts, authors and publishing opportunities",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ADVERTISING-COPYW-AB760,UNI-HUMANITIES,Advertising Copywriter,"Write slogans, campaigns and brand narratives",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-AI-ASSISTED-EDITO-A6525,UNI-HUMANITIES,AI-Assisted Editor,Use AI tools while applying human editorial judgement and quality control,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-AI-DATASET-LANGUA-64E98,UNI-HUMANITIES,AI Dataset Language Annotator,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-AI-ETHICS-RESEARC-B2E92,UNI-HUMANITIES,AI Ethics Researcher,"Policy, AI Governance",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-AI-TRAINING-CONTE-0533F,UNI-HUMANITIES,AI Training Content Reviewer,"Review training data and AI outputs for accuracy, tone, bias and usefulness",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ANTHOLOGY-CURATOR-818CA,UNI-HUMANITIES,Anthology Curator,"Select and organise writings around themes, regions or communities",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ARCHAEOLOGIST-61BB2,UNI-HUMANITIES,Archaeologist,Excavation and study of material remains,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ARCHIVE-EDITOR-EB0FD,UNI-HUMANITIES,Archive Editor,"Edit historical, archival or manuscript material for publication",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ARCHIVIST-7B3C2,UNI-HUMANITIES,Archivist,"Preserve records, manuscripts and documents",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ART-GALLERY-COORD-D5C46,UNI-HUMANITIES,Art Gallery Coordinator,"Coordinate exhibitions, artists and gallery operations",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ART-TEACHER-VISUA-751D0,UNI-HUMANITIES,Art Teacher / Visual Arts Educator,"Teach drawing, painting and art appreciation",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ART-THERAPIST-ASS-95302,UNI-HUMANITIES,Art Therapist Assistant / Expressive Arts Facilitator,Use art activities in wellbeing/education under proper scope,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-AUDIOBOOK-SCRIPT-ABA83,UNI-HUMANITIES,Audiobook Script Editor,"Edit manuscripts for audio narration, pacing and listener clarity",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-BEHAVIOURAL-SCIEN-BE382,UNI-HUMANITIES,Behavioural Science Researcher,"Study decision-making for policy, health or education",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-BIOETHICS-MEDICAL-20FED,UNI-HUMANITIES,Bioethics / Medical Humanities Associate,"Study ethical issues in health, medicine and society",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-BLOG-WRITER-E519C,UNI-HUMANITIES,Blog Writer,"Independent Writing, Media",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-BOOK-EDITOR-AAD54,UNI-HUMANITIES,Book Editor,Edit manuscripts for clarity and style,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-BOOK-METADATA-SPE-F0513,UNI-HUMANITIES,Book Metadata Specialist,"Create keywords, categories and descriptions that improve book discoverability",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-BOOK-REVIEWER-8F54D,UNI-HUMANITIES,Book Reviewer,"Review books for media, publishers, blogs and digital platforms",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-BROADCAST-JOURNAL-88D68,UNI-HUMANITIES,Broadcast Journalist / News Anchor,Present and report news for TV/digital video,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CAREER-COUNSELLOR-9BED9,UNI-HUMANITIES,Career Counsellor - Humanities Route,Guide students on education and career pathways,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CHILDREN-S-LITERA-C5E5A,UNI-HUMANITIES,Children’s Literature Specialist,"Create, edit or evaluate children’s books and learning material",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CIVIL-SERVICES-IA-4F46C,UNI-HUMANITIES,Civil Services - IAS/IPS/IFS/IRS via UPSC CSE,"Policy implementation, administration and public service",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CLASSICAL-MUSIC-P-F4940,UNI-HUMANITIES,Classical Music Performer,"Perform, teach and research classical music",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CLINICAL-PSYCHOLO-69C83,UNI-HUMANITIES,Clinical Psychologist,"Assessment, diagnosis support and therapy under proper qualification",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-COLLEGE-PROFESSOR-E76DF,UNI-HUMANITIES,College Professor - Humanities,Teach and research at college/university level,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-COMMISSIONING-EDI-D8627,UNI-HUMANITIES,Commissioning Editor,Plan book lists and commission authors for specific markets,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-COMMUNITY-MANAGER-597D7,UNI-HUMANITIES,Community Manager,"Brands, Online Communities",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CONSERVATION-DOCU-E3E61,UNI-HUMANITIES,Conservation Documentation Assistant,Document objects/buildings for conservation teams,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CONTENT-CURATOR-E34F9,UNI-HUMANITIES,Content Curator,"Select, organise and present knowledge/content for audiences",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CONTENT-MODERATOR-F65E1,UNI-HUMANITIES,Content Moderator - Language & Culture,Review user content for policy and cultural context,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CONVERSATIONAL-AI-15989,UNI-HUMANITIES,Conversational AI Trainer,AI Industry,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-COPY-EDITOR-107AE,UNI-HUMANITIES,Copy Editor,"Correct grammar, style, consistency and factual presentation",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-COUNSELLING-PSYCH-4CCBB,UNI-HUMANITIES,Counselling Psychologist,"Counselling for education, career, family and emotional concerns",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CREATIVE-WRITER-A-FC761,UNI-HUMANITIES,Creative Writer / Author,"Write fiction, poetry, essays and nonfiction",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CSR-SOCIAL-IMPACT-2A279,UNI-HUMANITIES,CSR Social Impact Associate,Support CSR projects and impact reporting,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CULTURAL-AI-CONSU-D0D38,UNI-HUMANITIES,Cultural AI Consultant,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CULTURAL-DOCUMENT-A72E9,UNI-HUMANITIES,Cultural Documentation Publisher,"Document and publish folk stories, oral histories, crafts and local culture",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CULTURAL-ENTREPRE-40603,UNI-HUMANITIES,Cultural Entrepreneur,"Build ventures around culture, arts, heritage or learning",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CULTURAL-PROGRAMM-E1870,UNI-HUMANITIES,Cultural Programme Coordinator,Plan cultural events and public programmes,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-CURRICULUM-DEVELO-B86E5,UNI-HUMANITIES,Curriculum Developer - Humanities,"Design syllabi, lessons and learning resources",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-DANCE-PERFORMER-C-BCB11,UNI-HUMANITIES,Dance Performer / Choreographer,Perform and choreograph dance,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-DEVELOPMENT-SECTO-C20C8,UNI-HUMANITIES,Development Sector Professional,Implement and monitor development projects,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-DIGITAL-ARCHIVE-S-710AF,UNI-HUMANITIES,Digital Archive Specialist,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-DIGITAL-HUMANITIE-6B782,UNI-HUMANITIES,Digital Humanities Researcher,"Academia, Archives",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-DIGITAL-MAGAZINE-5E9CE,UNI-HUMANITIES,Digital Magazine Creator,"Create niche online magazines for culture, literature, education or society",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-DISASTER-MANAGEME-89B79,UNI-HUMANITIES,Disaster Management Professional - Social Side,Community preparedness and relief coordination,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-DOCUMENTARY-RESEA-33884,UNI-HUMANITIES,Documentary Researcher,"Research topics, archives and field stories",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-EBOOK-FORMATTER-7276A,UNI-HUMANITIES,Ebook Formatter,"Prepare manuscripts for EPUB, Kindle and digital reading formats",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-EDITORIAL-ASSISTA-DF50D,UNI-HUMANITIES,Editorial Assistant,"Support editors with reading, correspondence, proofreading and production tasks",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-EDITORIAL-PROMPT-BEFA5,UNI-HUMANITIES,Editorial Prompt Specialist,"Design prompts and workflows for editorial tasks, summaries and content quality",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-EDUCATIONAL-CONTE-CACCC,UNI-HUMANITIES,Educational Content Writer - Arts Subjects,Prepare study material and question banks,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-EDUCATIONAL-NOTES-2EC14,UNI-HUMANITIES,Educational Notes Publisher,"Create notes, guides and exam-preparation material",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ENGLISH-LANGUAGE-2CCF9,UNI-HUMANITIES,English Language Trainer,Teach English communication and language skills,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ENGLISH-LITERATUR-3CDBE,UNI-HUMANITIES,English Literature Academic / Professor,"Reading, literary criticism, teaching and research",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ENVIRONMENTAL-HUM-4329C,UNI-HUMANITIES,Environmental Humanities Researcher,"Study society, culture and environmental change",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-EPIGRAPHIST-NUMIS-B093F,UNI-HUMANITIES,Epigraphist / Numismatist,"Study inscriptions, coins and ancient scripts",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-EPIGRAPHY-ASSISTA-C0732,UNI-HUMANITIES,Epigraphy Assistant,"Archaeology, Research",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ETHICS-AI-POLICY-3AA9F,UNI-HUMANITIES,Ethics & AI Policy Analyst,Analyze ethical risks in technology and governance,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-FACT-CHECKER-VERI-2F899,UNI-HUMANITIES,Fact-checker / Verification Specialist,"Verify claims, images and public information",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-FESTIVAL-CURATOR-20E01,UNI-HUMANITIES,Festival Curator,"Curate themes, artists, films and talks",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-FINE-ARTIST-A5B58,UNI-HUMANITIES,Fine Artist,Create artworks for exhibitions and commissions,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-FLUTE-ARTIST-ECAB1,UNI-HUMANITIES,Flute Artist,"Concerts, Teaching, Fusion Bands",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-FOLK-CULTURE-RESE-95DCB,UNI-HUMANITIES,Folk Culture Researcher,"Documentation, Cultural Preservation",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-FOREIGN-LANGUAGE-F731C,UNI-HUMANITIES,Foreign Language Expert,"Language teaching, translation and cultural communication",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-FORENSIC-PSYCHOLO-D1B41,UNI-HUMANITIES,Forensic Psychology Assistant / Researcher,Apply psychology to criminal behaviour and correctional research,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-GENDER-STUDIES-RE-E95C7,UNI-HUMANITIES,Gender Studies Researcher,Research and advocacy on gender and society,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-GEOGRAPHER-GEOGRA-57928,UNI-HUMANITIES,Geographer / Geography Professor,Teach/research physical and human geography,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-GHOST-WRITER-5F02D,UNI-HUMANITIES,Ghost Writer,"Publishing, Personal Branding",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-GIS-ANALYST-HUMAN-5533B,UNI-HUMANITIES,GIS Analyst - Humanities Route,Create and interpret spatial data,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-GUITARIST-795AF,UNI-HUMANITIES,Guitarist,"Performance, Studio Sessions, Teaching",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-HANDICRAFT-ENTREP-D4203,UNI-HUMANITIES,Handicraft Entrepreneur,"Own Brand, Craft Business",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-HERITAGE-WALK-CUL-46349,UNI-HUMANITIES,Heritage Walk / Cultural Tourism Professional,Design and conduct heritage tours,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-HINDI-LANGUAGE-LI-3B2BD,UNI-HUMANITIES,Hindi Language & Literature Career,"Hindi teaching, content, translation, publishing",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-HISTORIAN-HISTORY-2E808,UNI-HUMANITIES,Historian / History Professor,Teach and research historical periods and methods,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-HUMAN-CONTENT-REV-2463F,UNI-HUMANITIES,Human Content Reviewer,"Review AI-generated or user-generated content for quality, bias and appropriateness",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-HUMANITIES-COURSE-BD7E2,UNI-HUMANITIES,Humanities Course Publisher,"Create and publish Humanities course material, workbooks or online modules",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-IKS-RESEARCHER-065BB,UNI-HUMANITIES,IKS Researcher,"Research, Academia, Policy",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ILLUSTRATOR-CULTU-CF691,UNI-HUMANITIES,Illustrator - Cultural/Educational Content,Create illustrations for books and education,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-INDEPENDENT-PUBLI-C0013,UNI-HUMANITIES,Independent Publisher,Start and run a small publishing imprint,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-INDEPENDENT-RESEA-809C9,UNI-HUMANITIES,Independent Researcher / Public Humanities Creator,Create public-facing humanities content,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-INTERNATIONAL-REL-71733,UNI-HUMANITIES,International Relations Specialist,"Study diplomacy, geopolitics and global institutions",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-INTERPRETER-D578C,UNI-HUMANITIES,Interpreter,"Diplomacy, Conferences",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-JAPANESE-KOREAN-L-EB0AA,UNI-HUMANITIES,Japanese/Korean Language + Culture Specialist,"Language and culture support for media, firms, tourism",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-JOURNAL-EDITOR-6F4E8,UNI-HUMANITIES,Journal Editor,"Manage scholarly journal submissions, peer review and publication workflow",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-JOURNALIST-PRINT-ACA27,UNI-HUMANITIES,Journalist - Print/Digital,"Report, verify and write news stories",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-KINDLE-PUBLISHER-2F0E8,UNI-HUMANITIES,Kindle Publisher,Publish ebooks independently through digital platforms,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-KIRTANKAR-F39BF,UNI-HUMANITIES,Kirtankar,"Religious Programmes, Social Awareness",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-KNOWLEDGE-CURATOR-8D4EB,UNI-HUMANITIES,Knowledge Curator,"Organise knowledge resources, reading pathways and topic databases",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-KNOWLEDGE-MANAGER-7DBAE,UNI-HUMANITIES,Knowledge Manager / Research Curator,Organize and curate knowledge resources,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LIFE-SKILLS-TRAIN-4E6C6,UNI-HUMANITIES,Life Skills Trainer,"Schools, NGOs, Corporate",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LINGUIST-LANGUAGE-177E7,UNI-HUMANITIES,Linguist / Language Scientist,"Study phonetics, syntax, semantics and language change",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LITERARY-AGENT-PU-342EA,UNI-HUMANITIES,Literary Agent / Publishing Coordinator,"Coordinate manuscripts, rights and authors",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LITERARY-CRITIC-EBE76,UNI-HUMANITIES,Literary Critic,"Interpret and evaluate literature, culture and texts",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LITERARY-MAGAZINE-02B5C,UNI-HUMANITIES,Literary Magazine Founder,"Build literary magazine around poetry, criticism, translation or culture",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LITERARY-SCOUT-E314B,UNI-HUMANITIES,Literary Scout,"Identify promising manuscripts, authors and market trends",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LITERARY-TRANSLAT-C66B9,UNI-HUMANITIES,Literary Translator,"Book Translation, Publishing",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LOCALIZATION-QUAL-96A6A,UNI-HUMANITIES,Localization Quality Analyst,Check translated content for linguistic/cultural accuracy,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LOCALIZATION-SPEC-90FC8,UNI-HUMANITIES,Localization Specialist,"Apps, Websites, Gaming",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-LONG-FORM-ESSAYIS-D16B8,UNI-HUMANITIES,Long-form Essayist,"Publishing, Independent Platforms",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-MADHUBANI-ARTIST-2F6C0,UNI-HUMANITIES,Madhubani Artist,"Art Sales, Cultural Industry",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-MANAGING-EDITOR-13BE1,UNI-HUMANITIES,Managing Editor,"Oversee editorial schedules, quality and team coordination",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-MANUSCRIPT-EVALUA-905BE,UNI-HUMANITIES,Manuscript Evaluator,"Assess manuscript quality, marketability and revision needs",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-MANUSCRIPTOLOGIST-75964,UNI-HUMANITIES,Manuscriptologist,"Archival Work, Research",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-MARATHI-REGIONAL-3DC77,UNI-HUMANITIES,Marathi / Regional Language Scholar,"Language teaching, literary research, cultural documentation",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-MULTILINGUAL-DATA-E6FBF,UNI-HUMANITIES,Multilingual Dataset Editor,Edit and validate multilingual text datasets for AI and publishing platforms,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-MUSEUM-CURATOR-E7B8D,UNI-HUMANITIES,Museum Curator,Manage collections and design exhibitions,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-MUSEUM-EDUCATOR-92C20,UNI-HUMANITIES,Museum Educator,"Museum Programmes, Education",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-NARRATIVE-UX-WRIT-F7028,UNI-HUMANITIES,Narrative UX Writer,"Apps, Digital Platforms",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-NEWSLETTER-PUBLIS-EDCCE,UNI-HUMANITIES,Newsletter Publisher,Publish independent newsletters on specialised themes,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-OPINION-COLUMNIST-34529,UNI-HUMANITIES,Opinion Columnist,"Newspapers, Digital Media",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ORAL-HISTORY-DOCU-A4571,UNI-HUMANITIES,Oral History Documenter,"Record memories, community histories and life narratives",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ORAL-TRADITION-AR-74D04,UNI-HUMANITIES,Oral Tradition Archivist,"Archives, Cultural Institutions",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-ORGANIZATIONAL-PS-8D423,UNI-HUMANITIES,Organizational Psychologist,Use psychology for workplace behaviour and assessment,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PHILOSOPHY-PROFES-6D46A,UNI-HUMANITIES,Philosophy Professor / Researcher,"Teach/research ethics, logic and philosophy",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-POD-PUBLISHING-CO-4CC04,UNI-HUMANITIES,POD Publishing Consultant,Help authors publish books using print-on-demand platforms,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PODCAST-CREATOR-A2726,UNI-HUMANITIES,Podcast Creator,"Independent Media, Sponsorships",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PODCAST-PRODUCER-54220,UNI-HUMANITIES,Podcast Producer / Audio Storyteller,"Plan, script, record and edit audio shows",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PODCAST-STORYTELL-09871,UNI-HUMANITIES,Podcast Storyteller,"Podcasting, Media Platforms",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-POLITICAL-ANALYST-B725F,UNI-HUMANITIES,Political Analyst,"Analyze elections, public opinion and policy trends",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-POWADA-SHAHIRI-AR-14ADB,UNI-HUMANITIES,Powada/Shahiri Artist,"Stage Performance, Cultural Events",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PROMPT-DESIGNER-5A3AD,UNI-HUMANITIES,Prompt Designer,"AI Companies, Freelance",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PROMPT-WRITER-AI-A77BA,UNI-HUMANITIES,Prompt Writer / AI Content Evaluator - Humanities,"Evaluate AI outputs, write prompts and improve quality",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PROOFREADER-2F3F1,UNI-HUMANITIES,Proofreader,"Final checking of books, journals and digital text before publication",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PSYCHOMETRIC-TEST-0EF56,UNI-HUMANITIES,Psychometric Test Developer,"Design, validate and interpret psychological tests",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PUBLIC-ADMINISTRA-E4C3D,UNI-HUMANITIES,Public Administration Academic / Researcher,Teach/research administrative theory,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PUBLIC-ENGAGEMENT-7ED09,UNI-HUMANITIES,Public Engagement Specialist,"Government, NGOs, Museums",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PUBLIC-POLICY-RES-97B94,UNI-HUMANITIES,Public Policy Researcher,Research policy problems and propose solutions,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PUBLIC-RELATIONS-88FD4,UNI-HUMANITIES,Public Relations Content Specialist,Create press notes and media communication,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PUBLISHING-COORDI-9C887,UNI-HUMANITIES,Publishing Coordinator,"Coordinate manuscripts, authors, designers, printers and deadlines",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-PUBLISHING-PLATFO-87F9E,UNI-HUMANITIES,Publishing Platform Manager,Manage publishing workflows on digital platforms and author-service portals,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-REGIONAL-LANGUAGE-D3629,UNI-HUMANITIES,Regional Language Publisher,Publish books and digital content in Indian languages,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-RELIGIOUS-STUDIES-F278A,UNI-HUMANITIES,Religious Studies / Comparative Religion Scholar,"Academic study of religions, texts and society",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-RESEARCH-DIGEST-C-EF386,UNI-HUMANITIES,Research Digest Creator,"Summarise research, policy reports and books for wider audiences",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-RURAL-DEVELOPMENT-4F741,UNI-HUMANITIES,Rural Development Professional,"Rural livelihood, governance and community projects",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SANSKRIT-STUDIES-F1792,UNI-HUMANITIES,Sanskrit Studies & Indology,"Classical texts, manuscripts, Indian knowledge systems",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SCHOOL-PSYCHOLOGI-76A23,UNI-HUMANITIES,School Psychologist / School Counsellor,"Support students, teachers and parents",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SCHOOL-TEACHER-AR-EB20C,UNI-HUMANITIES,School Teacher - Arts Subjects,"Teach History, Political Science, English, Geography etc.",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SCRIPT-WRITER-A45D8,UNI-HUMANITIES,Script Writer,"Film, OTT, Theatre",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SCRIPTWRITER-FILM-4EED0,UNI-HUMANITIES,Scriptwriter - Film/OTT/Theatre,"Write scripts, dialogues and story bibles",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SENSITIVITY-READE-45521,UNI-HUMANITIES,Sensitivity Reader,"Review manuscripts for cultural, social and ethical representation",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SOCIAL-MEDIA-CONT-7CB12,UNI-HUMANITIES,Social Media Content Strategist - Arts Route,Plan content calendars and audience communication,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SOCIAL-WORKER-MSW-4A0DA,UNI-HUMANITIES,Social Worker / MSW Professional,Work with communities and vulnerable groups,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SOCIOLOGIST-SOCIO-6B5A2,UNI-HUMANITIES,Sociologist / Sociology Professor,Research social institutions and change,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SPECIAL-EDUCATOR-3054A,UNI-HUMANITIES,Special Educator - Non-medical Route,Support learners with special needs,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SPORTS-PSYCHOLOGI-B758A,UNI-HUMANITIES,Sports Psychologist,Mental training and performance support for athletes,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-STATE-CIVIL-SERVI-83788,UNI-HUMANITIES,State Civil Services / MPSC-type Careers,"State administration, revenue, police, development",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-STUDENT-SUCCESS-M-E872F,UNI-HUMANITIES,Student Success Mentor,Education Sector,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SUBTITLING-DUBBIN-30B67,UNI-HUMANITIES,Subtitling & Dubbing Script Specialist,Create subtitles and culturally adapted dubbing scripts,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-SUBTITLING-SPECIA-2B0F8,UNI-HUMANITIES,Subtitling Specialist,"OTT Platforms, Film",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-TECHNICAL-DOCUMEN-E7C30,UNI-HUMANITIES,Technical / Documentation Writer,"Prepare guides, FAQs and knowledge-base content",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-TEMPLE-HERITAGE-I-372D4,UNI-HUMANITIES,Temple Heritage Interpreter,"Tourism, Heritage Walks",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-THEATRE-ARTIST-AC-F7BD6,UNI-HUMANITIES,Theatre Artist / Actor,"Acting, stage performance and theatre production",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-TRANSLATOR-7E127,UNI-HUMANITIES,Translator,"Publishing, Government, OTT",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-TRANSLATOR-INTERP-64E53,UNI-HUMANITIES,Translator / Interpreter,Translate documents and interpret speech,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-URBAN-STUDIES-RES-1455B,UNI-HUMANITIES,Urban Studies Researcher,"Research urbanisation, migration, housing and services",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-UX-WRITER-CONTENT-4A999,UNI-HUMANITIES,UX Writer / Content Designer,Write interface text and product communication,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-VEDIC-STUDIES-SCH-EA4A8,UNI-HUMANITIES,Vedic Studies Scholar,"Teaching, Research, Cultural Consultancy",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-WARLI-ART-SPECIAL-5FA3B,UNI-HUMANITIES,Warli Art Specialist,"Workshops, Exhibitions, Merchandise",Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-HUM-YOUTUBE-EDUCATOR-688EF,UNI-HUMANITIES,YouTube Educator,Educational Content Business,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+CAR-INTD-ACCESSIBILITY-IN-22CE1,UNI-INTERDISCIPLINARY,Accessibility & Inclusive Design,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ADIVASI-LITERATU-2D551,UNI-INTERDISCIPLINARY,"Adivasi Literature, Oral Traditions & Cultural Archiving",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-AGRI-MARKET-INTE-30CC5,UNI-INTERDISCIPLINARY,Agri-Market Intelligence Services,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-AGRI-TECH-BUSINE-B007A,UNI-INTERDISCIPLINARY,Agri-Tech Business Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-AI-ASSISTED-MEDI-444EE,UNI-INTERDISCIPLINARY,AI-assisted Media Producer,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-AI-CONTENT-KNOWL-06A6C,UNI-INTERDISCIPLINARY,AI Content & Knowledge Systems Curator,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-AI-ETHICS-GOVERN-9CCAD,UNI-INTERDISCIPLINARY,AI Ethics & Governance Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-AI-GOVERNANCE-AN-E6D78,UNI-INTERDISCIPLINARY,AI Governance Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ARCHAEOLOGY-DIGI-1672A,UNI-INTERDISCIPLINARY,Archaeology + Digital Documentation,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ARCHIVAL-STUDIES-438E7,UNI-INTERDISCIPLINARY,Archival Studies / Archive Management,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-AREA-STUDIES-REG-63AA9,UNI-INTERDISCIPLINARY,Area Studies / Regional Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ASSISTIVE-TECHNO-40101,UNI-INTERDISCIPLINARY,Assistive Technology & Accessible Design,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-BAMBOO-LAC-MINOR-EF20E,UNI-INTERDISCIPLINARY,"Bamboo, Lac & Minor Forest Enterprise Management",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-BEHAVIOURAL-ECON-E9131,UNI-INTERDISCIPLINARY,Behavioural Economist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-BIOENTREPRENEURS-DF891,UNI-INTERDISCIPLINARY,Bioentrepreneurship Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-BIOETHICS-47F40,UNI-INTERDISCIPLINARY,Bioethics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-BIOINFORMATICS-S-7F57D,UNI-INTERDISCIPLINARY,Bioinformatics Specialist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-BLOCKCHAIN-COMPL-20BC0,UNI-INTERDISCIPLINARY,Blockchain Compliance Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-BORDERLAND-STUDI-27EA5,UNI-INTERDISCIPLINARY,Borderland Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-BUDDHIST-STUDIES-27600,UNI-INTERDISCIPLINARY,Buddhist Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-CIRCULAR-ECONOMY-D8DEF,UNI-INTERDISCIPLINARY,Circular Economy Consultant,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-CLIMATE-ADAPTATI-C32E2,UNI-INTERDISCIPLINARY,Climate Adaptation Planner,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-CLIMATE-FINANCE-6D2EB,UNI-INTERDISCIPLINARY,Climate Finance Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-CLIMATE-HUMANITI-4364A,UNI-INTERDISCIPLINARY,Climate Humanities,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COGNITIVE-SCIENC-681E2,UNI-INTERDISCIPLINARY,Cognitive Science,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMMUNITY-BIO-CU-7252E,UNI-INTERDISCIPLINARY,Community Bio-Cultural Documentation & Ethics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMMUNITY-CLIMAT-15EB9,UNI-INTERDISCIPLINARY,Community Climate Adaptation & Disaster Resilience,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMMUNITY-DATA-I-11BFC,UNI-INTERDISCIPLINARY,"Community Data, Impact Evaluation & Social Analytics",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMMUNITY-HEALTH-FE968,UNI-INTERDISCIPLINARY,Community Health & Tribal Public Health,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMMUNITY-MEDIA-76254,UNI-INTERDISCIPLINARY,"Community Media, Folk Media & Development Communication",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMMUNITY-MENTAL-46923,UNI-INTERDISCIPLINARY,Community Mental Health & Social Work,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMMUNITY-NUTRIT-8C1C0,UNI-INTERDISCIPLINARY,Community Nutrition & Food Systems,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMPARATIVE-RELI-2EAE0,UNI-INTERDISCIPLINARY,Comparative Religion / Religious Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMPUTATIONAL-LI-5769A,UNI-INTERDISCIPLINARY,Computational Linguistics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMPUTATIONAL-LI-75E92,UNI-INTERDISCIPLINARY,Computational Linguist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMPUTATIONAL-LI-EEE1E,UNI-INTERDISCIPLINARY,Computational Linguist / NLP Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-COMPUTATIONAL-SO-043A8,UNI-INTERDISCIPLINARY,Computational Social Scientist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-CREATOR-ECONOMY-53EB9,UNI-INTERDISCIPLINARY,Creator Economy Strategist (Structured),,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-CULTURAL-ANALYTI-274FB,UNI-INTERDISCIPLINARY,Cultural Analytics Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-CULTURAL-ANALYTI-E1877,UNI-INTERDISCIPLINARY,Cultural Analytics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-CYBER-LAW-SPECIA-18356,UNI-INTERDISCIPLINARY,Cyber Law Specialist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-CYBER-POLICY-DIG-5D80B,UNI-INTERDISCIPLINARY,Cyber Policy & Digital Rights Professional,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DATA-FOR-GOVERNA-F0336,UNI-INTERDISCIPLINARY,Data for Governance Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DATA-JOURNALISM-824A5,UNI-INTERDISCIPLINARY,Data Journalism Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DATA-JOURNALIST-2F2DD,UNI-INTERDISCIPLINARY,Data Journalist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DATA-PRIVACY-COM-68261,UNI-INTERDISCIPLINARY,Data Privacy Compliance Advisory,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DATA-PRIVACY-OFF-E8FA0,UNI-INTERDISCIPLINARY,Data Privacy Officer / Consultant,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DEVELOPMENT-COMM-1D561,UNI-INTERDISCIPLINARY,Development Communication Specialist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DEVELOPMENT-PROG-E60A1,UNI-INTERDISCIPLINARY,Development Programme Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DEVELOPMENT-STUD-A9172,UNI-INTERDISCIPLINARY,Development Studies at IIT / Tech-Development Interface,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DIGITAL-ANTHROPO-E5DC4,UNI-INTERDISCIPLINARY,Digital Anthropology,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DIGITAL-ARCHIVE-77A96,UNI-INTERDISCIPLINARY,Digital Archive Services,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DIGITAL-HEALTH-P-9884D,UNI-INTERDISCIPLINARY,Digital Health Product Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DIGITAL-HUMANITI-6697C,UNI-INTERDISCIPLINARY,Digital Humanities Researcher,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DIGITAL-HUMANITI-DD036,UNI-INTERDISCIPLINARY,Digital Humanities,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DIGITAL-PUBLIC-I-240E1,UNI-INTERDISCIPLINARY,Digital Public Infrastructure Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DISABILITY-STUDI-B315F,UNI-INTERDISCIPLINARY,Disability Studies & Rehabilitation Ecosystems,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-DISABILITY-STUDI-F41BD,UNI-INTERDISCIPLINARY,Disability Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ECOLOGICAL-ECONO-0699D,UNI-INTERDISCIPLINARY,Ecological Economics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-EDUCATION-TECHNO-C89A9,UNI-INTERDISCIPLINARY,Education Technology / Learning Sciences,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-EDUCATIONAL-DATA-515AC,UNI-INTERDISCIPLINARY,Educational Data Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-EDUCATIONAL-TECH-16758,UNI-INTERDISCIPLINARY,Educational Technology Specialist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-EDUCATIONAL-TECH-86929,UNI-INTERDISCIPLINARY,Educational Technology Design Studio,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ENVIRONMENTAL-JU-D0B69,UNI-INTERDISCIPLINARY,Environmental Justice & Marginalized Communities,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ESG-SUSTAINABILI-97845,UNI-INTERDISCIPLINARY,ESG & Sustainability Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ESG-SUSTAINABILI-DD113,UNI-INTERDISCIPLINARY,ESG / Sustainability Reporting Support,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ETHICS-PUBLIC-LI-7D6A9,UNI-INTERDISCIPLINARY,Ethics & Public Life,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-ETHNOBOTANY-INDI-92169,UNI-INTERDISCIPLINARY,Ethnobotany & Indigenous Medicinal Knowledge,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FASHION-BUSINESS-1DBAE,UNI-INTERDISCIPLINARY,Fashion Business Technologist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FASHION-TECHNOLO-74732,UNI-INTERDISCIPLINARY,Fashion Technology & Business Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FILM-MEDIA-BUSIN-B3F98,UNI-INTERDISCIPLINARY,Film & Media Business Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FILM-STUDIES-CIN-8302E,UNI-INTERDISCIPLINARY,Film Studies / Cinema Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FINANCIAL-ANALYT-54A38,UNI-INTERDISCIPLINARY,Financial Analytics Freelance Studio,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FINANCIAL-ANALYT-E6977,UNI-INTERDISCIPLINARY,Financial Analytics Professional,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FINTECH-PRODUCT-64486,UNI-INTERDISCIPLINARY,FinTech Product Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FOLK-CULTURE-STU-77AF5,UNI-INTERDISCIPLINARY,Folk Culture Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FOOD-STUDIES-FOO-0278B,UNI-INTERDISCIPLINARY,Food Studies / Food Culture & Society,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FOOD-SUPPLY-CHAI-D0CF6,UNI-INTERDISCIPLINARY,Food Supply Chain Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FOOD-TECHNOLOGY-02816,UNI-INTERDISCIPLINARY,Food Technology Entrepreneur,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FOREST-PRODUCE-N-0966A,UNI-INTERDISCIPLINARY,Forest Produce & NTFP Value Chain Management,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-FOREST-RIGHTS-CO-BBFA5,UNI-INTERDISCIPLINARY,Forest Rights & Community Resource Governance,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-GAME-STUDIES-INT-7B52E,UNI-INTERDISCIPLINARY,Game Studies / Interactive Media Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-GENDER-SEXUALITY-6976F,UNI-INTERDISCIPLINARY,Gender & Sexuality / Queer Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-GENDER-STUDIES-CA8F8,UNI-INTERDISCIPLINARY,Gender Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-GENDER-TRIBAL-WO-A5BD7,UNI-INTERDISCIPLINARY,"Gender, Tribal Women & Development Practice",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-GEOAI-ANALYST-642FA,UNI-INTERDISCIPLINARY,GeoAI Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-GEOAI-GEOSPATIAL-70952,UNI-INTERDISCIPLINARY,GeoAI / Geospatial Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-GONDWANA-REGION-515D7,UNI-INTERDISCIPLINARY,Gondwana Region Studies & Local Resource Development,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HANDLOOM-HANDICR-0D035,UNI-INTERDISCIPLINARY,"Handloom, Handicraft & GI Product Ecosystem",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HEALTH-DATA-DASH-4E7E3,UNI-INTERDISCIPLINARY,Health Data Dashboard Services,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HEALTH-INFORMATI-0F866,UNI-INTERDISCIPLINARY,Health Informatics Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HERITAGE-EXPERIE-3CF45,UNI-INTERDISCIPLINARY,Heritage Experience Enterprise,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HERITAGE-EXPERIE-EE13D,UNI-INTERDISCIPLINARY,Heritage Experience Designer,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HERITAGE-STUDIES-F5EBD,UNI-INTERDISCIPLINARY,Heritage Studies / Heritage Management,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HIMALAYAN-STUDIE-F78FB,UNI-INTERDISCIPLINARY,Himalayan Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HOSPITAL-ANALYTI-C441F,UNI-INTERDISCIPLINARY,Hospital Analytics Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HUMAN-AI-COLLABO-59B2A,UNI-INTERDISCIPLINARY,Human-AI Collaboration Designer,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HUMAN-AI-INTERAC-22708,UNI-INTERDISCIPLINARY,Human-AI Interaction Researcher,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HUMAN-COMPUTER-I-BC1E8,UNI-INTERDISCIPLINARY,Human-Computer Interaction (HCI),,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HUMAN-FACTORS-ER-DA92F,UNI-INTERDISCIPLINARY,Human Factors / Ergonomics Specialist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-HUMAN-RIGHTS-STU-DA7C2,UNI-INTERDISCIPLINARY,Human Rights Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-INCLUSIVE-EDUCAT-64D6B,UNI-INTERDISCIPLINARY,Inclusive Education for Tribal & Marginalized Learners,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-INCLUSIVE-URBAN-8E057,UNI-INTERDISCIPLINARY,Inclusive Urban Marginality & Slum Development,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-INDIC-KNOWLEDGE-47EC6,UNI-INTERDISCIPLINARY,Indic Knowledge Systems / Indian Knowledge Systems,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-INDIGENOUS-AGRIC-076CB,UNI-INTERDISCIPLINARY,Indigenous Agriculture & Millets Enterprise,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-INDIGENOUS-FOOD-2336B,UNI-INTERDISCIPLINARY,"Indigenous Food, Culinary Heritage & Nutrition Enterprise",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-INDIGENOUS-KNOWL-63C06,UNI-INTERDISCIPLINARY,Indigenous Knowledge IPR & Benefit-Sharing,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-KNOWLEDGE-CULTUR-17CAA,UNI-INTERDISCIPLINARY,"Knowledge, Culture & Innovation Studies",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-LEGAL-ANTHROPOLO-F2162,UNI-INTERDISCIPLINARY,Legal Anthropology,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-LEGAL-DATA-ANALY-3375F,UNI-INTERDISCIPLINARY,Legal Data Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-LEGAL-DESIGN-CON-95FDF,UNI-INTERDISCIPLINARY,Legal Design Consultant,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-LEGAL-TECH-PRODU-90ECB,UNI-INTERDISCIPLINARY,Legal Tech Product Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-LIBRARY-INFORMAT-3B3B2,UNI-INTERDISCIPLINARY,Library & Information Science + Data Curation,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-LIVELIHOOD-MISSI-C28BC,UNI-INTERDISCIPLINARY,Livelihood Mission & SHG Enterprise Management,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MARITIME-STUDIES-3F83E,UNI-INTERDISCIPLINARY,Maritime Studies / Blue Humanities,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MASCULINITY-STUD-9E4F5,UNI-INTERDISCIPLINARY,Masculinity Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MEDIA-CULTURAL-S-24523,UNI-INTERDISCIPLINARY,Media & Cultural Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MEDICAL-HUMANITI-608E4,UNI-INTERDISCIPLINARY,Medical Humanities,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MEDTECH-OPERATIO-E268B,UNI-INTERDISCIPLINARY,MedTech Operations Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MICROFINANCE-FIN-6A34B,UNI-INTERDISCIPLINARY,Microfinance & Financial Inclusion,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MIGRATION-DIASPO-095AB,UNI-INTERDISCIPLINARY,Migration & Diaspora Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MIGRATION-LABOUR-877D6,UNI-INTERDISCIPLINARY,"Migration, Labour & Informal Economy Studies",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MUSEUM-HERITAGE-17A28,UNI-INTERDISCIPLINARY,Museum & Heritage Experience Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-MUSEUM-STUDIES-M-EC1A0,UNI-INTERDISCIPLINARY,Museum Studies / Museology,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-NEUROMARKETING-A-841A7,UNI-INTERDISCIPLINARY,NeuroMarketing Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-NEUROMARKETING-R-A4A26,UNI-INTERDISCIPLINARY,NeuroMarketing Research Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-NO-CODE-BUSINESS-5EE59,UNI-INTERDISCIPLINARY,No-code Business Systems Designer,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PARTICIPATORY-RU-A7478,UNI-INTERDISCIPLINARY,Participatory Rural Appraisal & Development Research,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PEACE-CONFLICT-S-3FECB,UNI-INTERDISCIPLINARY,Peace & Conflict Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PEOPLE-ANALYTICS-6FABB,UNI-INTERDISCIPLINARY,People Analytics Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PERFORMANCE-STUD-32D77,UNI-INTERDISCIPLINARY,Performance Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PESA-PANCHAYAT-L-01E5E,UNI-INTERDISCIPLINARY,"PESA, Panchayat & Local Governance Studies",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PHARMA-MANAGEMEN-7B4D9,UNI-INTERDISCIPLINARY,Pharma Management Professional,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PHARMA-MARKET-AC-7E865,UNI-INTERDISCIPLINARY,Pharma Market Access Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PHILOSOPHY-POLIT-8B9DF,UNI-INTERDISCIPLINARY,"Philosophy, Politics & Economics (PPE)",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-POLICY-ANALYST-F471F,UNI-INTERDISCIPLINARY,Policy Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-POLICY-RESEARCH-9347F,UNI-INTERDISCIPLINARY,Policy Research Micro-Consultancy,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PRECISION-FARMIN-28EB3,UNI-INTERDISCIPLINARY,Precision Farming Operations Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PRODUCT-EXPERIEN-B30E0,UNI-INTERDISCIPLINARY,Product Experience Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PUBLIC-HEALTH-DA-21BC7,UNI-INTERDISCIPLINARY,Public Health Data Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-PUBLIC-POLICY-AN-042DD,UNI-INTERDISCIPLINARY,Public Policy Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-REGTECH-ANALYST-BCF9F,UNI-INTERDISCIPLINARY,RegTech Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-RISK-ANALYTICS-A-17718,UNI-INTERDISCIPLINARY,Risk Analytics Associate,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-RURAL-DIGITAL-IN-DD1DA,UNI-INTERDISCIPLINARY,Rural Digital Inclusion & Vernacular Technology,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-RURAL-INNOVATION-68A97,UNI-INTERDISCIPLINARY,Rural Innovation Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-RURAL-INNOVATION-A97E1,UNI-INTERDISCIPLINARY,Rural Innovation Consultancy,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-RURAL-WATER-SANI-0E758,UNI-INTERDISCIPLINARY,"Rural Water, Sanitation & Community Infrastructure",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SANSKRIT-COMPUTA-61220,UNI-INTERDISCIPLINARY,Sanskrit Computational Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SCIENCE-COMMUNIC-42381,UNI-INTERDISCIPLINARY,Science Communication Studio,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SCIENCE-COMMUNIC-52D95,UNI-INTERDISCIPLINARY,Science Communication Specialist,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SCIENCE-TECHNOLO-7ACCC,UNI-INTERDISCIPLINARY,"Science, Technology & Society (STS)",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SERVICE-DESIGNER-109A6,UNI-INTERDISCIPLINARY,Service Designer,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SOCIAL-EXCLUSION-343B4,UNI-INTERDISCIPLINARY,Social Exclusion & Inclusive Policy Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SOCIAL-EXCLUSION-74ACF,UNI-INTERDISCIPLINARY,Social Exclusion & Inclusive Policy,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SOCIAL-IMPACT-ME-016F6,UNI-INTERDISCIPLINARY,Social Impact Measurement Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SPACE-POLICY-BUS-F391A,UNI-INTERDISCIPLINARY,Space Policy & Business Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SPACE-POLICY-SPA-1BFF3,UNI-INTERDISCIPLINARY,Space Policy / Space Governance,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-SPORTS-ANALYTICS-7CADD,UNI-INTERDISCIPLINARY,Sports Analytics Manager,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRANSLATION-STUD-C3CE2,UNI-INTERDISCIPLINARY,Translation Studies & Language Technology,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRIBAL-ART-PERFO-77909,UNI-INTERDISCIPLINARY,"Tribal Art, Performance & Creative Enterprise",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRIBAL-ENTREPREN-F39B2,UNI-INTERDISCIPLINARY,Tribal Entrepreneurship & Community Enterprise Development,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRIBAL-HIGHER-ED-A5CA0,UNI-INTERDISCIPLINARY,Tribal Higher Education & Academic Outreach Management,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRIBAL-LANGUAGE-5ECAB,UNI-INTERDISCIPLINARY,Tribal Language Documentation & Revitalization,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRIBAL-LEGAL-AID-ACB70,UNI-INTERDISCIPLINARY,Tribal Legal Aid & Community Justice Systems,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRIBAL-MUSEUM-HE-05233,UNI-INTERDISCIPLINARY,Tribal Museum & Heritage Management,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRIBAL-STUDIES-I-9C9C3,UNI-INTERDISCIPLINARY,Tribal Studies / Indigenous Knowledge Systems,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRIBAL-STUDIES-I-C6E5A,UNI-INTERDISCIPLINARY,Tribal Studies & Indigenous Governance,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-TRIBAL-TOURISM-E-D9633,UNI-INTERDISCIPLINARY,"Tribal Tourism, Eco-Culture & Community Hospitality",,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-URBAN-GOVERNANCE-0F88C,UNI-INTERDISCIPLINARY,Urban Governance Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-URBAN-PLANNER-SM-A0182,UNI-INTERDISCIPLINARY,Urban Planner / Smart City Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-URBAN-STUDIES-UR-F56A7,UNI-INTERDISCIPLINARY,Urban Studies / Urban Informatics,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-UX-RESEARCH-CONS-A898E,UNI-INTERDISCIPLINARY,UX Research Consultancy,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-UX-RESEARCHER-E5F06,UNI-INTERDISCIPLINARY,UX Researcher,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-VISUAL-CULTURE-S-348F2,UNI-INTERDISCIPLINARY,Visual Culture Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-WATER-POLICY-WAT-53B29,UNI-INTERDISCIPLINARY,Water Policy / Water Governance,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-WATER-RESOURCE-M-890AF,UNI-INTERDISCIPLINARY,Water Resource Management Analyst,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-WATER-RESOURCE-M-B7C26,UNI-INTERDISCIPLINARY,Water Resource Management Professional,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-INTD-WOMEN-S-STUDIES-3EE8B,UNI-INTERDISCIPLINARY,Women’s Studies,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+CAR-LAW-ADVOCATE-LITIGATO-551E4,UNI-LAW,Advocate / Litigator,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-AI-COURTROOM-INTE-8B93B,UNI-LAW,AI Courtroom Interface Trainer,Training legal professionals on AI systems,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-AI-ETHICS-AUDITOR-4A84F,UNI-LAW,AI Ethics Auditor,AI compliance and ethics review,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-AI-GOVERNANCE-AI-EA39D,UNI-LAW,AI Governance / AI Policy Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-AI-GOVERNANCE-DOC-D1D81,UNI-LAW,AI Governance Documentation Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ALGORITHM-ACCOUNT-9B0EF,UNI-LAW,Algorithm Accountability Researcher,AI fairness and accountability analysis,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ALTERNATIVE-LEGAL-CDDD2,UNI-LAW,Alternative Legal Services Provider Manager,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ARBITRATION-COUNS-E82ED,UNI-LAW,Arbitration Counsel,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ART-ANTIQUITIES-D-728F2,UNI-LAW,Art & Antiquities Documentation Advisor,Ownership and export documentation,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-AUTONOMOUS-VEHICL-3812E,UNI-LAW,Autonomous Vehicle Liability Analyst,Liability systems for autonomous mobility,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-AVIATION-LAWYER-89304,UNI-LAW,Aviation Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-BANKING-FINANCE-L-C649D,UNI-LAW,Banking & Finance Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-BIOETHICS-MEDICAL-5659B,UNI-LAW,Bioethics & Medical Law Coordinator,Healthcare ethics and compliance,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CHILD-ONLINE-SAFE-FA490,UNI-LAW,Child Online Safety Consultant,Online child safety frameworks,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CHILD-RIGHTS-SUPP-B906E,UNI-LAW,Child Rights Support Professional,Legal and emotional support systems,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CIVIL-SERVICES-WI-D47F7,UNI-LAW,Civil Services with Law Background,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CLAT-MENTOR-CCC87,UNI-LAW,CLAT Mentor,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-COMMUNITY-LEGAL-L-7C4EE,UNI-LAW,Community Legal Literacy Trainer,Legal awareness programs,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-COMPANY-SECRETARY-FDAF4,UNI-LAW,Company Secretary with Law Specialization,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-COMPETITION-LAW-L-0F0F0,UNI-LAW,Competition Law Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-COMPLIANCE-FILING-1689B,UNI-LAW,Compliance Filing Service,"GST, labor, and legal filings",Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-COMPLIANCE-OFFICE-E49D4,UNI-LAW,Compliance Officer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CONSTITUTIONAL-LI-EDB55,UNI-LAW,Constitutional Literacy Educator,Constitution awareness programs,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CONSUMER-PROTECTI-9E20C,UNI-LAW,Consumer Protection Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CONTRACT-LIFECYCL-F4712,UNI-LAW,Contract Lifecycle Management Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CORPORATE-LAWYER-078AA,UNI-LAW,Corporate Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-COURT-REPORTER-LE-B7FAA,UNI-LAW,Court Reporter / Legal Transcription Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-COURT-TRIBUNAL-AD-C35B7,UNI-LAW,Court / Tribunal Administrator,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CRIMINOLOGIST-CRI-0CEA4,UNI-LAW,Criminologist / Criminal Justice Researcher,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CROSS-BORDER-DIGI-35D31,UNI-LAW,Cross-Border Digital Identity Advisor,Identity and compliance systems,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CSR-IMPACT-COMPLI-27E4A,UNI-LAW,CSR & Impact Compliance Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CULTURAL-RIGHTS-R-4BC15,UNI-LAW,Cultural Rights Researcher,Indigenous and cultural rights research,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-CYBER-LAW-SPECIAL-259C4,UNI-LAW,Cyber Law Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-DATA-PROTECTION-O-8F420,UNI-LAW,Data Protection Officer / Privacy Counsel,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-DEFENCE-SERVICES-D4D08,UNI-LAW,Defence Services Legal Officer / JAG,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-DIGITAL-EVIDENCE-10BB7,UNI-LAW,Digital Evidence Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-DIGITAL-EVIDENCE-EAFA0,UNI-LAW,Digital Evidence Preservation Specialist,Digital evidence documentation,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-DIGITAL-PRIVACY-C-B6C58,UNI-LAW,Digital Privacy Consultant,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-DIGITAL-PUBLIC-IN-C20C3,UNI-LAW,Digital Public Infrastructure Law Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-DIVORCE-TRANSITIO-C7FEA,UNI-LAW,Divorce Transition Facilitator,Settlement and transition support,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-DRONE-REGULATION-FF835,UNI-LAW,Drone Regulation Consultant,Drone compliance and permissions,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-E-DISCOVERY-DOCUM-E88C3,UNI-LAW,E-Discovery / Document Review Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-EDUCATION-LAW-SPE-E7C79,UNI-LAW,Education Law Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ELDER-RIGHTS-ADVI-851B9,UNI-LAW,Elder Rights Advisor,Rights and succession advisory,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ELECTION-PROCESS-2C1B2,UNI-LAW,Election Process Documentation Specialist,Election process and observer documentation,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ENERGY-LAWYER-04A2C,UNI-LAW,Energy Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ENVIRONMENTAL-IMP-65A48,UNI-LAW,Environmental Impact Documentation Specialist,EIA and sustainability documentation,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ENVIRONMENTAL-LAW-FBFB1,UNI-LAW,Environmental Lawyer / ESG Counsel,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-FAMILY-LAWYER-79B77,UNI-LAW,Family Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-FAMILY-MEDIATION-5C18F,UNI-LAW,Family Mediation Facilitator,Dispute resolution and settlements,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-FINTECH-PAYMENTS-95746,UNI-LAW,FinTech / Payments Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-FOOD-LAW-FSSAI-CO-640BE,UNI-LAW,Food Law / FSSAI Compliance Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-FORENSIC-LEGAL-CO-0A05F,UNI-LAW,Forensic Legal Consultant,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-FOREST-RIGHTS-FAC-BDE87,UNI-LAW,Forest Rights Facilitation Consultant,Forest rights claims and tribal facilitation,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-HEALTHCARE-LAWYER-62E0E,UNI-LAW,Healthcare Lawyer / Medical Law Consultant,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-HERITAGE-LAW-CONS-CE1D6,UNI-LAW,Heritage Law Consultant,Heritage property and monument compliance,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-HOSPITAL-CONSENT-3CA72,UNI-LAW,Hospital Consent Documentation Specialist,Medical consent and legal documentation,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-HUMAN-RIGHTS-LAWY-F4B2E,UNI-LAW,Human Rights Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-IMMIGRATION-LAWYE-CB851,UNI-LAW,Immigration Lawyer / Global Mobility Advisor,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-IN-HOUSE-LEGAL-CO-1DCEF,UNI-LAW,In-house Legal Counsel,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-INFLUENCER-COMPLI-1C87A,UNI-LAW,Influencer Compliance Strategist,Creator contracts and disclosures,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-INFLUENCER-CONTRA-547D6,UNI-LAW,Influencer Contract Advisor,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-INFRASTRUCTURE-PR-02E01,UNI-LAW,Infrastructure / Projects Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-INSOLVENCY-PROFES-B5C48,UNI-LAW,Insolvency Professional,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-INSURANCE-LAWYER-D242F,UNI-LAW,Insurance Lawyer / Claims Counsel,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-INTELLECTUAL-PROP-1F807,UNI-LAW,Intellectual Property Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-INTERNATIONAL-ORG-232DA,UNI-LAW,International Organization Legal Officer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-INTERNATIONAL-TRA-22A86,UNI-LAW,International Trade Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-INVESTMENT-FUNDS-31403,UNI-LAW,Investment Funds Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-JUDICIAL-OFFICER-C02AC,UNI-LAW,Judicial Officer / Civil Judge,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-JUDICIARY-EXAM-TR-ED944,UNI-LAW,Judiciary Exam Trainer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LABOUR-EMPLOYMENT-EF16D,UNI-LAW,Labour & Employment Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LAW-CLERK-JUDICIA-FFD4F,UNI-LAW,Law Clerk / Judicial Clerk,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LAW-FIRM-KNOWLEDG-F93D6,UNI-LAW,Law Firm Knowledge Management Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-ACADEMIC-LA-DD514,UNI-LAW,Legal Academic / Law Professor,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-AI-PROMPT-E-BCFE8,UNI-LAW,Legal AI Prompt Engineer / Workflow Designer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-AID-COORDIN-0E2E9,UNI-LAW,Legal Aid Coordinator,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-ARCHIVIST-C-E400B,UNI-LAW,Legal Archivist / Court Records & Law Library Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-AUDIOBOOK-P-FF6AC,UNI-LAW,Legal Audiobook Producer,Audio-based legal learning,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-CONTENT-CRE-85698,UNI-LAW,Legal Content Creator,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-CONTENT-WRI-FE412,UNI-LAW,Legal Content Writer / Editor,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-CURRICULUM-DC217,UNI-LAW,Legal Curriculum Designer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-DATA-ANALYS-47626,UNI-LAW,Legal Data Analyst,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-DATA-VISUAL-02713,UNI-LAW,Legal Data Visualization Specialist,Visual legal analytics and reporting,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-DESIGN-LEGA-2EE84,UNI-LAW,Legal Design / Legal UX Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-DOCUMENTATI-FC27B,UNI-LAW,Legal Documentation Studio,Drafting and filing services,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-DRAFTING-CO-A501D,UNI-LAW,Legal Drafting Consultant,"Contracts, notices, agreements drafting",Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-EDUCATION-C-99B36,UNI-LAW,Legal Education Channel,YouTube/course-based legal teaching,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-ENTREPRENEU-4064C,UNI-LAW,Legal Entrepreneur / Legal Services Startup Founder,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-ETHICS-PROF-02814,UNI-LAW,Legal Ethics & Professional Responsibility Officer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-GAMIFICATIO-13C20,UNI-LAW,Legal Gamification Designer,Legal learning simulations and games,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-JOURNALIST-4E371,UNI-LAW,Legal Journalist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-KNOWLEDGE-E-5B93D,UNI-LAW,Legal Knowledge Engineer,Legal data structuring and ontology,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-METAVERSE-P-0B08C,UNI-LAW,Legal Metaverse Policy Consultant,Governance for virtual ecosystems,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-METROLOGY-P-9FF81,UNI-LAW,Legal Metrology / Product Compliance Consultant,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-OPERATIONS-C01D5,UNI-LAW,Legal Operations Manager,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-PROCESS-OUT-9F0E1,UNI-LAW,Legal Process Outsourcing Analyst,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-PROMPT-DESI-2B370,UNI-LAW,Legal Prompt Designer,Prompt systems for legal AI workflows,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-PUBLISHER-L-8EFB8,UNI-LAW,Legal Publisher / Law Book Editor,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-RECRUITER-T-859FA,UNI-LAW,Legal Recruiter / Talent Specialist for Law Firms,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-RESEARCHER-928E3,UNI-LAW,Legal Researcher / Research Associate,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-RISK-CONSUL-E9CAE,UNI-LAW,Legal Risk Consultant,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-TECH-ONBOAR-FA090,UNI-LAW,Legal Tech Onboarding Consultant,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-TECH-PRODUC-B19A2,UNI-LAW,Legal Tech Product Manager,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-TRANSLATION-9F755,UNI-LAW,Legal Translation / Multilingual Legal Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGAL-TRANSLATOR-B6DC5,UNI-LAW,Legal Translator,Translation of legal documents,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGISLATIVE-ASSIS-8790E,UNI-LAW,Legislative Assistant / Policy Drafter,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LEGISLATIVE-LANGU-A7A4D,UNI-LAW,Legislative Language Simplification Specialist,Simplifying legal language,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LITIGATION-FINANC-1BD9E,UNI-LAW,Litigation Finance Analyst,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-LOCAL-GOVERNANCE-4BFA0,UNI-LAW,Local Governance Advisory,Advisory for societies and local bodies,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-MARITIME-SHIPPING-F3F16,UNI-LAW,Maritime / Shipping Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-MEDIA-ENTERTAINME-76673,UNI-LAW,Media & Entertainment Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-MEDIATOR-CONCILIA-B4DF9,UNI-LAW,Mediator / Conciliator,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-MEME-IP-RIGHTS-AN-C25D1,UNI-LAW,Meme/IP Rights Analyst,Copyright and derivative work analysis,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-MOCK-TRIAL-PROGRA-8C378,UNI-LAW,Mock Trial Program Designer,Designing legal simulation programs,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-MULTILINGUAL-LEGA-F6218,UNI-LAW,Multilingual Legal Services,Regional legal drafting and translation,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-NCLT-NCLAT-PRACTI-160CD,UNI-LAW,NCLT / NCLAT Practitioner,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-NGO-LEGAL-COMPLIA-81FFE,UNI-LAW,NGO Legal & Compliance Officer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-NOTARY-F92FC,UNI-LAW,Notary,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-OATH-COMMISSIONER-B241B,UNI-LAW,Oath Commissioner / Commissioner for Affidavits,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ONLINE-DISPUTE-RE-3B4AF,UNI-LAW,Online Dispute Resolution Platform Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ONLINE-LEGAL-TEMP-D4244,UNI-LAW,Online Legal Template Store,Selling legal templates online,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-ONLINE-LEGAL-TUTO-61B7A,UNI-LAW,Online Legal Tutor,Teaching CLAT/Judiciary/Law subjects,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-OTT-MEDIA-COMPLIA-4E2AD,UNI-LAW,OTT & Media Compliance Analyst,Content compliance and censorship review,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-PANCHAYAT-GOVERNA-167C8,UNI-LAW,Panchayat Governance Consultant,Village governance advisory,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-PARALEGAL-6C0F7,UNI-LAW,Paralegal,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-PATENT-AGENT-4C402,UNI-LAW,Patent Agent,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-PHARMA-REGULATORY-1877B,UNI-LAW,Pharma Regulatory & Legal Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-PODCAST-YOUTUBE-L-3BED7,UNI-LAW,Podcast / YouTube Legal Consultant,Advisory for creators and channels,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-POLICE-LEGAL-ADVI-21B8E,UNI-LAW,Police Legal Advisor / Investigation Law Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-POSH-AWARENESS-TR-BF737,UNI-LAW,POSH Awareness Trainer,Training organizations on POSH compliance,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-PUBLIC-POLICY-DRA-CDEE9,UNI-LAW,Public Policy Drafting Associate,Drafting governance and policy documents,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-PUBLIC-PROSECUTOR-EEB1E,UNI-LAW,Public Prosecutor / Assistant Public Prosecutor,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-REAL-ESTATE-LAWYE-B402D,UNI-LAW,Real Estate Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-REGIONAL-LANGUAGE-9898A,UNI-LAW,Regional Language Compliance Writer,Regional legal content drafting,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-REGULATORY-AFFAIR-CFC00,UNI-LAW,Regulatory Affairs Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-RESOLUTION-PROFES-53CB7,UNI-LAW,Resolution Professional Support Analyst,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-RTI-CONSULTANT-7B7F5,UNI-LAW,RTI Consultant,RTI filing and advisory,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-SANCTIONS-AML-COM-5D8EF,UNI-LAW,Sanctions / AML Compliance Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-SECURITIES-LAWYER-7BA13,UNI-LAW,Securities Lawyer / Capital Markets Counsel,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-SMART-CONTRACT-BL-71F10,UNI-LAW,Smart Contract / Blockchain Legal Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-SMART-CONTRACT-DO-ABEBF,UNI-LAW,Smart Contract Documentation Consultant,Blockchain agreement interpretation,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-SPACE-LAW-SATELLI-C6ECE,UNI-LAW,Space Law & Satellite Policy Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-SPORTS-LAWYER-F3ED4,UNI-LAW,Sports Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-STARTUP-LEGAL-CON-A5C73,UNI-LAW,Startup Legal Consultant,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-TAX-LAWYER-2CDFC,UNI-LAW,Tax Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-TEMPLE-TRUST-GOVE-0BC6E,UNI-LAW,Temple/Trust Governance Advisor,Trust governance and compliance,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-TRADEMARK-ATTORNE-49DC4,UNI-LAW,Trademark Attorney / Brand Protection Specialist,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-VIRTUAL-LEGAL-ASS-CAA4A,UNI-LAW,Virtual Legal Assistant,Remote legal process support,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-VIRTUAL-REALITY-L-07DD5,UNI-LAW,Virtual Reality Legal Simulation Designer,Immersive legal simulations,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-WAQF-RELIGIOUS-EN-3DF90,UNI-LAW,Waqf / Religious Endowment Documentation Specialist,Religious endowment documentation,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-WATER-GOVERNANCE-7F0B7,UNI-LAW,Water Governance Advisor,Water governance and policy advisory,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-WHITE-COLLAR-CRIM-ED310,UNI-LAW,White Collar Crime Lawyer,,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-LAW-WORKPLACE-CONFLIC-AFBD2,UNI-LAW,Workplace Conflict Resolution Advisor,Employee conflict management,Validated,0.6.1a,5-Structured- Law.xlsx
+CAR-MGT-ADVENTURE-TOURISM-27F39,UNI-MANAGEMENT,Adventure Tourism Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-AGRI-DRONE-BUSINE-8B65A,UNI-MANAGEMENT,Agri Drone Business Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-AGRI-SAAS-CUSTOME-7C721,UNI-MANAGEMENT,Agri-SaaS Customer Success Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-AGRIBUSINESS-MANA-E5786,UNI-MANAGEMENT,Agribusiness Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-AI-GOVERNANCE-OPE-DD97D,UNI-MANAGEMENT,AI Governance Operations Coordinator,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-AI-STRATEGY-ASSOC-2F844,UNI-MANAGEMENT,AI Strategy Associate,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-AI-WORKFLOW-OPERA-6FB26,UNI-MANAGEMENT,AI Workflow Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-AQUACULTURE-ENTER-0828C,UNI-MANAGEMENT,Aquaculture Enterprise Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-AVIATION-OPERATIO-CDF62,UNI-MANAGEMENT,Aviation Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BAMBOO-CANE-ENTER-F15B7,UNI-MANAGEMENT,Bamboo / Cane Enterprise Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BANKING-OPERATION-0AD48,UNI-MANAGEMENT,Banking Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BEHAVIORAL-ECONOM-AC841,UNI-MANAGEMENT,Behavioral Economics Consultant,"Designs nudges for products, policy, HR or finance",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BRAND-PARTNERSHIP-A9F9A,UNI-MANAGEMENT,Brand Partnership Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BUSINESS-ANALYST-2CDD6,UNI-MANAGEMENT,Business Analyst,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BUSINESS-CONTENT-78C6E,UNI-MANAGEMENT,Business Content Creator / Management Educator,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BUSINESS-DEVELOPM-83F00,UNI-MANAGEMENT,Business Development Executive/Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BUSINESS-PLAN-COM-7A69E,UNI-MANAGEMENT,Business Plan Competition Organizer,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BUSINESS-RESEARCH-30F74,UNI-MANAGEMENT,Business Research & Competitor Intelligence Freelancer,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BUSINESS-RESEARCH-9C4B3,UNI-MANAGEMENT,Business Research Analyst,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BUSINESS-RESEARCH-FAE35,UNI-MANAGEMENT,Business Research Freelancing,"Prepares market research, competitor analysis, reports",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-BUSINESS-WRITING-DF807,UNI-MANAGEMENT,Business Writing Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CARBON-MARKET-OPE-5FE43,UNI-MANAGEMENT,Carbon Market Operations Associate,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CASE-COMPETITION-ED431,UNI-MANAGEMENT,Case Competition Mentor,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CIRCULAR-ECONOMY-311D7,UNI-MANAGEMENT,Circular Economy Business Consultant,"Helps firms design reuse, recycling and waste-to-value models",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CLIMATE-BUSINESS-B20D7,UNI-MANAGEMENT,Climate Business Analyst,Analyzes business risks/opportunities from climate transition,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-COASTAL-TOURISM-O-467CB,UNI-MANAGEMENT,Coastal Tourism Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-COLLEGE-INSTITUTI-8D9B1,UNI-MANAGEMENT,College/Institution Administrator,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-COMMUNITY-MANAGEM-AAA7C,UNI-MANAGEMENT,Community Management Service,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-COMMUNITY-MANAGER-5EE4E,UNI-MANAGEMENT,Community Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-COMMUNITY-MONETIZ-7F563,UNI-MANAGEMENT,Community Monetization Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-COMPLIANCE-MANAGE-FBD21,UNI-MANAGEMENT,Compliance Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CORPORATE-COMMUNI-566A7,UNI-MANAGEMENT,Corporate Communications Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CORPORATE-RESUME-8B8D5,UNI-MANAGEMENT,Corporate Resume & LinkedIn Strategist,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CORPORATE-TRAINER-5850D,UNI-MANAGEMENT,Corporate Trainer / Soft Skills Facilitator,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CORPORATE-TRAININ-A9848,UNI-MANAGEMENT,Corporate Training / Soft Skills Service,Runs training workshops and employability sessions,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-COURSE-LAUNCH-MAN-D0D75,UNI-MANAGEMENT,Course Launch Management,"Coordinates online course launch, landing page, webinar, student support",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-COURSE-LAUNCH-WEB-7A45F,UNI-MANAGEMENT,Course Launch / Webinar Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CREATOR-BUSINESS-94AD8,UNI-MANAGEMENT,Creator Business Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CREATOR-ECONOMY-B-C700B,UNI-MANAGEMENT,Creator Economy Business Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CREATOR-ECONOMY-M-FF116,UNI-MANAGEMENT,Creator Economy Monetization Strategist,"Designs revenue streams for creators: courses, sponsors, communities",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CREATOR-INFLUENCE-2BFE9,UNI-MANAGEMENT,Creator / Influencer Management,"Handles deals, schedules, reporting and monetization",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CREATOR-OPERATION-0C158,UNI-MANAGEMENT,Creator Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CRM-SETUP-SALES-F-6C3EC,UNI-MANAGEMENT,CRM Setup & Sales Funnel Service,"Sets up customer tracking, lead stages, follow-up systems",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CSR-MANAGER-58D10,UNI-MANAGEMENT,CSR Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CULTURAL-ENTERPRI-C4EE8,UNI-MANAGEMENT,Cultural Enterprise Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-CUSTOMER-SUCCESS-B41B2,UNI-MANAGEMENT,Customer Success Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-DAIRY-COOPERATIVE-99059,UNI-MANAGEMENT,Dairy Cooperative Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-DEVELOPMENT-SECTO-C1E22,UNI-MANAGEMENT,Development Sector Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-DIGITAL-MARKETING-EB1C2,UNI-MANAGEMENT,Digital Marketing Micro-Agency,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-DIGITAL-TRANSFORM-71647,UNI-MANAGEMENT,Digital Transformation Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-DISASTER-RELIEF-S-6C0E6,UNI-MANAGEMENT,Disaster Relief Supply Chain Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-E-COMMERCE-MARKET-15971,UNI-MANAGEMENT,E-commerce Marketplace Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-E-COMMERCE-OPERAT-8A100,UNI-MANAGEMENT,E-commerce Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-E-COMMERCE-STORE-B612C,UNI-MANAGEMENT,E-commerce Store Operations Service,"Manages listings, catalogues, pricing, ads and order coordination",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-EDUCATION-BUSINES-5B626,UNI-MANAGEMENT,Education Business Operations Designer,"Designs admissions, counselling, LMS and college operations workflows",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-EDUCATION-EDTECH-76C67,UNI-MANAGEMENT,Education / EdTech Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-ETHICAL-AI-ADOPTI-67769,UNI-MANAGEMENT,Ethical AI Adoption Manager,"Helps organizations adopt AI with policy, risk and process safeguards",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-EVENT-COORDINATIO-E1D84,UNI-MANAGEMENT,Event Coordination Micro-Agency,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-EVENT-MANAGER-F2CE5,UNI-MANAGEMENT,Event Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-EVENT-PRODUCTION-4554A,UNI-MANAGEMENT,Event Production Micro-Agency,"Plans small events, college events, workshops, local promotions",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-EXECUTIVE-INTERVI-A0903,UNI-MANAGEMENT,Executive Interview Coach,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FAITH-BASED-TEMPL-E02CB,UNI-MANAGEMENT,Faith-Based / Temple Operations Manager,"Manages crowd flow, donations, events and services ethically",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FAMILY-BUSINESS-M-D9030,UNI-MANAGEMENT,Family Business Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FESTIVAL-AND-MEGA-091FA,UNI-MANAGEMENT,Festival and Mega-Event Logistics Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FINANCE-MANAGER-A60F1,UNI-MANAGEMENT,Finance Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FISHERY-BUSINESS-47310,UNI-MANAGEMENT,Fishery Business Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FOOD-PROCESSING-M-99EE5,UNI-MANAGEMENT,Food Processing Micro-Enterprise Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FPO-MANAGEMENT-PR-C061B,UNI-MANAGEMENT,FPO Management Professional,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FPO-RURAL-ENTERPR-61CDA,UNI-MANAGEMENT,FPO / Rural Enterprise Support Service,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FRANCHISE-BUSINES-B86AF,UNI-MANAGEMENT,Franchise Business Manager/Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FRANCHISE-EXPANSI-53DF9,UNI-MANAGEMENT,Franchise Expansion Analyst,"Evaluates locations, catchments and unit economics",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FRANCHISE-FEASIBI-9DB04,UNI-MANAGEMENT,Franchise Feasibility Consultant,"Helps evaluate franchise cost, location and ROI",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FRANCHISE-LOCAL-E-43E0F,UNI-MANAGEMENT,Franchise & Local Expansion Advisor,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FREELANCE-DIGITAL-708A8,UNI-MANAGEMENT,Freelance Digital Marketing Service,"Runs social media, ads, SEO or lead generation for small clients",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-FUNDRAISING-INVES-65E20,UNI-MANAGEMENT,Fundraising / Investor Relations Associate,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-GI-PRODUCT-MARKET-6FE1E,UNI-MANAGEMENT,GI Product Marketing Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-GREEN-SUPPLY-CHAI-47F85,UNI-MANAGEMENT,Green Supply Chain Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-GROWTH-MANAGER-FCC6B,UNI-MANAGEMENT,Growth Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-HANDLOOM-CLUSTER-25E75,UNI-MANAGEMENT,Handloom Cluster Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-HERBAL-PRODUCT-BU-E4FEF,UNI-MANAGEMENT,Herbal Product Business Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-HERITAGE-EXPERIEN-255C8,UNI-MANAGEMENT,Heritage Experience & Museum Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-HOSPITAL-ADMINIST-F32A2,UNI-MANAGEMENT,Hospital Administrator,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-HOTEL-HOSPITALITY-3F749,UNI-MANAGEMENT,Hotel / Hospitality Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-HR-RECRUITER-RECR-62863,UNI-MANAGEMENT,HR Recruiter / Recruitment Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-HUMAN-RESOURCE-MA-2A4AA,UNI-MANAGEMENT,Human Resource Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-INFLUENCER-FRAUD-85124,UNI-MANAGEMENT,Influencer Fraud / Brand Safety Analyst,"Checks fake followers, unsafe content and campaign authenticity",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-INSTITUTIONAL-SAL-51A32,UNI-MANAGEMENT,Institutional Sales Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-INSURANCE-BUSINES-A40A5,UNI-MANAGEMENT,Insurance Business Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-INTERNATIONAL-TRA-05CDA,UNI-MANAGEMENT,International Trade Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-KIRANA-DIGITIZATI-CC3BC,UNI-MANAGEMENT,Kirana Digitization Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-LINKEDIN-BRANDING-8C5AC,UNI-MANAGEMENT,LinkedIn Branding & Resume Consulting,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-LINKEDIN-BRANDING-A46ED,UNI-MANAGEMENT,LinkedIn Branding & Resume Service,Builds professional profiles and resumes,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-LOCAL-BUSINESS-DI-AABB7,UNI-MANAGEMENT,Local Business Digitization Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-LOCAL-EXPERIENCE-95C4A,UNI-MANAGEMENT,Local Experience Designer,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-LOGISTICS-PORT-OP-27BE8,UNI-MANAGEMENT,Logistics / Port Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-LUXURY-BRAND-MANA-DA743,UNI-MANAGEMENT,Luxury Brand Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MANAGEMENT-CONSUL-2D188,UNI-MANAGEMENT,Management Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MANAGEMENT-EDUCAT-90495,UNI-MANAGEMENT,Management Education YouTuber / Channel Operator,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MANAGEMENT-RESEAR-B4C87,UNI-MANAGEMENT,Management Research Assistant / Case Writer,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MANAGEMENT-TRAINE-8A562,UNI-MANAGEMENT,Management Trainee,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MARKETING-MANAGER-0A49B,UNI-MANAGEMENT,Marketing Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MBA-ADMISSIONS-CO-676E5,UNI-MANAGEMENT,MBA Admissions Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MBA-PLACEMENT-PRO-7273C,UNI-MANAGEMENT,MBA Placement Process Coordinator,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MEDIA-BUSINESS-MA-44B7B,UNI-MANAGEMENT,Media Business Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MERCHANDISING-MAN-6375A,UNI-MANAGEMENT,Merchandising Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MOUNTAIN-ECO-TOUR-A609E,UNI-MANAGEMENT,Mountain Eco-Tourism Enterprise Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MSME-BUSINESS-DIG-1C374,UNI-MANAGEMENT,MSME Business Digitization Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MSME-EXPORT-READI-7C7D2,UNI-MANAGEMENT,MSME Export Readiness Consultant,Prepares small businesses for basic export documentation and market entry,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MSME-OPERATIONS-A-F37DD,UNI-MANAGEMENT,MSME Operations Advisory,"Improves basic SOPs, inventory, vendor and staff systems",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-MSME-PROCESS-DOCU-F55FC,UNI-MANAGEMENT,MSME Process Documentation Service,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-NEURO-MARKETING-R-AB04B,UNI-MANAGEMENT,Neuro-Marketing Research Associate,"Studies consumer attention, emotion and decision behaviour",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-NO-CODE-AUTOMATIO-7F847,UNI-MANAGEMENT,No-Code Automation Service,Automates workflows using no-code tools and AI,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-NO-CODE-BUSINESS-555C6,UNI-MANAGEMENT,No-Code Business Automation Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-ODOP-BRAND-AND-CL-5C1C0,UNI-MANAGEMENT,ODOP Brand and Cluster Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-ONDC-SELLER-ENABL-3B337,UNI-MANAGEMENT,ONDC Seller Enablement Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-OPERATIONS-MANAGE-1508E,UNI-MANAGEMENT,Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-ORGANIC-VALLEY-SU-141F6,UNI-MANAGEMENT,Organic Valley Supply Chain Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-ORNAMENTAL-FISH-B-5A8BD,UNI-MANAGEMENT,Ornamental Fish Business Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PEARL-FARMING-ENT-173AF,UNI-MANAGEMENT,Pearl Farming Enterprise Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PERFORMANCE-MARKE-9C0D6,UNI-MANAGEMENT,Performance Marketing Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PITCH-DECK-PRESEN-27951,UNI-MANAGEMENT,Pitch Deck & Presentation Consulting,Creates investor/business/academic decks,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-POLITICAL-CAMPAIG-1C07A,UNI-MANAGEMENT,Political Campaign Operations Manager,"Manages field teams, booths, volunteers and campaign dashboards",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-POLITICAL-CAMPAIG-87216,UNI-MANAGEMENT,Political Campaign Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PRESENTATION-PITC-DE4EB,UNI-MANAGEMENT,Presentation & Pitch Deck Consulting,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PROCUREMENT-MANAG-CAF11,UNI-MANAGEMENT,Procurement Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PRODUCT-MANAGER-8CA40,UNI-MANAGEMENT,Product Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PRODUCT-OPERATION-E0976,UNI-MANAGEMENT,Product Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PROJECT-MANAGER-89F71,UNI-MANAGEMENT,Project Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PROMPT-OPERATIONS-4B68D,UNI-MANAGEMENT,Prompt Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PUBLIC-HEALTH-OPE-FFB40,UNI-MANAGEMENT,Public Health Operations Manager,"Coordinates vaccination, awareness, diagnostics or health outreach operations",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PUBLIC-MOBILITY-I-31F9C,UNI-MANAGEMENT,Public Mobility Integration Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PUBLIC-NARRATIVE-F672D,UNI-MANAGEMENT,Public Narrative & Social Impact Communication Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PUBLIC-POLICY-MAN-F5ECE,UNI-MANAGEMENT,Public Policy Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-PUBLISHING-OPERAT-34F41,UNI-MANAGEMENT,Publishing Operations & Literary Business Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-QUALITY-MANAGER-5D807,UNI-MANAGEMENT,Quality Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-REAL-ESTATE-BUSIN-69FD2,UNI-MANAGEMENT,Real Estate Business Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-RECRUITMENT-CONSU-D9B1A,UNI-MANAGEMENT,Recruitment Consultancy / Talent Sourcing,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-RECRUITMENT-MICRO-89733,UNI-MANAGEMENT,Recruitment Micro-Agency,Sources candidates for employers,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-RETAIL-STORE-MANA-4CBEF,UNI-MANAGEMENT,Retail Store Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-REVENUE-OPERATION-E95EC,UNI-MANAGEMENT,Revenue Operations Analyst/Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-RISK-MANAGER-509DA,UNI-MANAGEMENT,Risk Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-RURAL-BPO-DIGITAL-6D843,UNI-MANAGEMENT,Rural BPO / Digital Services Center Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-RURAL-PLATFORM-OP-130B8,UNI-MANAGEMENT,Rural Platform Operations Manager,Runs digital marketplaces or service platforms for rural users,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-RURAL-SPORTS-LEAG-6C970,UNI-MANAGEMENT,Rural Sports League Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SEAFOOD-EXPORT-OP-B707B,UNI-MANAGEMENT,Seafood Export Operations Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SEAWEED-BUSINESS-978AC,UNI-MANAGEMENT,Seaweed Business Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SENIOR-LIVING-OPE-FF684,UNI-MANAGEMENT,Senior Living Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SHG-LIVELIHOOD-PR-5F9F6,UNI-MANAGEMENT,SHG Livelihood Program Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SMALL-BUSINESS-DI-CD57F,UNI-MANAGEMENT,Small Business Digitization Advisor,"Helps local businesses adopt payments, CRM, accounting, website, listings",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SPICE-ROUTE-PLANT-629DB,UNI-MANAGEMENT,Spice Route / Plantation Tourism Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SPIRITUAL-TOURISM-B52DE,UNI-MANAGEMENT,Spiritual Tourism Business Manager,"Builds pilgrim, wellness and heritage travel experiences",Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SPORTS-MANAGER-A7B03,UNI-MANAGEMENT,Sports Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-STARTUP-OPERATION-14C6F,UNI-MANAGEMENT,Startup Operations Associate/Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-STARTUP-PITCH-CON-09CCA,UNI-MANAGEMENT,Startup Pitch Consultant,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SUGAR-COOPERATIVE-B0CA7,UNI-MANAGEMENT,Sugar Cooperative Administration,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SUPPLY-CHAIN-MANA-B5612,UNI-MANAGEMENT,Supply Chain Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-SUSTAINABILITY-ES-59CCB,UNI-MANAGEMENT,Sustainability / ESG Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-TALENT-MANAGER-86560,UNI-MANAGEMENT,Talent Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-TEA-ESTATE-PLANTA-EB170,UNI-MANAGEMENT,Tea Estate / Plantation Business Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-TEMPLE-ADMINISTRA-ED936,UNI-MANAGEMENT,Temple Administration / Pilgrimage Management,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-TOURISM-BUSINESS-9B974,UNI-MANAGEMENT,Tourism Business Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-TRAINING-DEVELOPM-177E0,UNI-MANAGEMENT,Training & Development Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-TRIBAL-ENTERPRISE-EFBAA,UNI-MANAGEMENT,Tribal Enterprise Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-VERNACULAR-DIGITA-230F8,UNI-MANAGEMENT,Vernacular Digital Commerce Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-VIRTUAL-BUSINESS-F3C6A,UNI-MANAGEMENT,Virtual Business Assistant / Founder Office Support,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-WASTE-ECONOMY-CIR-83729,UNI-MANAGEMENT,Waste Economy / Circular Business Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-WATER-RESOURCE-US-2BF9E,UNI-MANAGEMENT,Water Resource User Association Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-WEALTH-MANAGEMENT-D530C,UNI-MANAGEMENT,Wealth Management Associate,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-MGT-YOGA-WELLNESS-RET-2E73E,UNI-MANAGEMENT,Yoga / Wellness Retreat Operations Manager,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+CAR-SCI-4-YEAR-SERVICE-89A9F,UNI-SCIENCE,4-year service,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AC-TECHNICIAN-E01C7,UNI-SCIENCE,AC Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ACCESSIBILITY-INC-D2B35,UNI-SCIENCE,Accessibility / Inclusive Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ACTUARIAL-SCIENCE-EFF21,UNI-SCIENCE,Actuarial Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AEROSPACE-942B9,UNI-SCIENCE,AEROSPACE,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AEROSPACE-ENGINEE-EA0D5,UNI-SCIENCE,Aerospace Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AGRI-TECHNICIAN-D253F,UNI-SCIENCE,Agri Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AGRICULTURAL-ENGI-245F4,UNI-SCIENCE,AGRICULTURAL ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AGRICULTURE-SCIEN-8D2D0,UNI-SCIENCE,Agriculture Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AI-ENGINEER-F5949,UNI-SCIENCE,AI Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AI-RESEARCHER-A10E1,UNI-SCIENCE,AI Researcher,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AIRCRAFT-DESIGNER-7E8AE,UNI-SCIENCE,Aircraft Designer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AIRLINE-MANAGER-ACB24,UNI-SCIENCE,Airline Manager,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AIRLINE-PILOT-62737,UNI-SCIENCE,Airline Pilot,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AIRMAN-CC1A2,UNI-SCIENCE,Airman,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AIRPORT-FIRE-STAF-B1788,UNI-SCIENCE,Airport Fire Staff,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AIRPORT-OFFICER-3CFC6,UNI-SCIENCE,Airport Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AIRPORT-OPS-3E907,UNI-SCIENCE,Airport Ops,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AME-A44BC,UNI-SCIENCE,AME,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ANALYTICS-ENGINEE-50BF8,UNI-SCIENCE,Analytics Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ANESTHESIA-5E3A1,UNI-SCIENCE,Anesthesia,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ANIMATION-59153,UNI-SCIENCE,Animation,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ARCHITECTURE-E3E9E,UNI-SCIENCE,Architecture,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ARMY-OFFICER-F8BFE,UNI-SCIENCE,Army Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ARTIFICIAL-INTELL-50A54,UNI-SCIENCE,ARTIFICIAL INTELLIGENCE,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ASSISTANT-DF458,UNI-SCIENCE,Assistant,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ASTROPHYSICS-043F6,UNI-SCIENCE,Astrophysics,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ATC-AF747,UNI-SCIENCE,ATC,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AUTO-TECHNICIAN-9F2E1,UNI-SCIENCE,Auto Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AUTOMOBILE-ENGINE-986E6,UNI-SCIENCE,AUTOMOBILE ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AVIATION-FINANCE-EBB7C,UNI-SCIENCE,Aviation Finance,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AVIATION-LAWYER-4C22F,UNI-SCIENCE,Aviation Lawyer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AVIONICS-ENGINEER-41CB0,UNI-SCIENCE,Avionics Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-AYURVEDA-BAMS-90531,UNI-SCIENCE,Ayurveda (BAMS),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BI-ENGINEER-0CE64,UNI-SCIENCE,BI Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BIOCHEMISTRY-6BACF,UNI-SCIENCE,Biochemistry,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BIOLOGY-FF9D0,UNI-SCIENCE,Biology,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BIOMEDICAL-ENGINE-8D23F,UNI-SCIENCE,BIOMEDICAL ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BIOPHYSICS-64E6B,UNI-SCIENCE,Biophysics,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BIOTECHNOLOGY-503B6,UNI-SCIENCE,BIOTECHNOLOGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BIOTECHNOLOGY-9B9A3,UNI-SCIENCE,Biotechnology,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BOTANY-5DFD8,UNI-SCIENCE,Botany,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BRAND-IDENTITY-DE-90BBD,UNI-SCIENCE,Brand / Identity Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-BUSINESS-ANALYST-F4378,UNI-SCIENCE,Business Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CABIN-CREW-AFC01,UNI-SCIENCE,Cabin Crew,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CARGO-MANAGER-4134B,UNI-SCIENCE,Cargo Manager,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CERAMIC-ENGINEERI-0B019,UNI-SCIENCE,CERAMIC ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CHARTER-PILOT-434CC,UNI-SCIENCE,Charter Pilot,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CHEMICAL-ENGINEER-89499,UNI-SCIENCE,CHEMICAL ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CHEMISTRY-9B300,UNI-SCIENCE,Chemistry,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CIVIL-ENGINEERING-28C68,UNI-SCIENCE,Civil Engineering,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CLERK-EE94B,UNI-SCIENCE,Clerk,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CLIMATE-SCIENCE-1DC56,UNI-SCIENCE,Climate Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-COGNITIVE-SCIENCE-55F54,UNI-SCIENCE,Cognitive Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-COMMERCIAL-PILOT-A8A0F,UNI-SCIENCE,Commercial Pilot,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-COMMUNITY-MEDICIN-90E23,UNI-SCIENCE,Community Medicine,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-COMPUTATIONAL-SCI-4F02F,UNI-SCIENCE,Computational Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-COMPUTER-SCIENCE-75B3D,UNI-SCIENCE,Computer Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-COMPUTER-VISION-E-A1C58,UNI-SCIENCE,Computer Vision Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CONSTABLE-E5F16,UNI-SCIENCE,Constable,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CYBER-SPACE-ROLES-2EEAB,UNI-SCIENCE,Cyber/Space roles,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-CYBERSECURITY-7DB8E,UNI-SCIENCE,Cybersecurity,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DAIRY-ASSISTANT-3F224,UNI-SCIENCE,Dairy Assistant,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DAIRY-TECHNOLOGY-FFD9E,UNI-SCIENCE,DAIRY TECHNOLOGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-ANALYST-F7E47,UNI-SCIENCE,Data Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-ARCHITECT-7F3B2,UNI-SCIENCE,Data Architect,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-ENGINEER-542AF,UNI-SCIENCE,Data Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-GOVERNANCE-D-6BB2E,UNI-SCIENCE,Data Governance / Data Steward,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-PRODUCT-MANA-AAAA2,UNI-SCIENCE,Data Product Manager,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-QUALITY-ENGI-35370,UNI-SCIENCE,Data Quality Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-SCIENCE-BSC-A81F3,UNI-SCIENCE,Data Science (BSc Route),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-SCIENCE-C55D0,UNI-SCIENCE,Data Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-SCIENTIST-42420,UNI-SCIENCE,Data Scientist,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DATA-VISUALIZATIO-5CB3A,UNI-SCIENCE,Data Visualization Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DECISION-SCIENTIS-A3BB0,UNI-SCIENCE,Decision Scientist,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DEFENCE-ENTRY-649A4,UNI-SCIENCE,Defence Entry,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DENTAL-BDS-6D960,UNI-SCIENCE,Dental (BDS),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DERMATOLOGY-D058B,UNI-SCIENCE,Dermatology,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DESIGN-MANAGEMENT-BA90E,UNI-SCIENCE,Design Management,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DESIGN-RESEARCH-84BCB,UNI-SCIENCE,Design Research,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DIPLOMA-ENGINEER-34585,UNI-SCIENCE,Diploma Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DISPATCHER-055B1,UNI-SCIENCE,Dispatcher,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DRONE-PILOT-74960,UNI-SCIENCE,Drone Pilot,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-DRONE-TECHNICIAN-617FE,UNI-SCIENCE,Drone Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ECOSYSTEM-ROLES-FB1EB,UNI-SCIENCE,Ecosystem roles,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-EDUCATION-OFFICER-FAD0B,UNI-SCIENCE,Education Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ELECTRICAL-ACB07,UNI-SCIENCE,ELECTRICAL,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ELECTRICIAN-97A09,UNI-SCIENCE,Electrician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ELECTRONICS-ECE-F6FDB,UNI-SCIENCE,ELECTRONICS (ECE),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ELECTRONICS-TECHN-B16CE,UNI-SCIENCE,Electronics Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ENGINEER-0AB07,UNI-SCIENCE,Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ENGINEER-OFFICER-88C99,UNI-SCIENCE,Engineer Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ENTREPRENEUR-4EA1C,UNI-SCIENCE,Entrepreneur,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ENVIRONMENTAL-BCCE8,UNI-SCIENCE,ENVIRONMENTAL,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ENVIRONMENTAL-SCI-7193C,UNI-SCIENCE,Environmental Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ENVIRONMENTAL-TEC-23215,UNI-SCIENCE,Environmental Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-EV-SPECIALIST-DCEF9,UNI-SCIENCE,EV Specialist,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-EXPERIENCE-DESIGN-70F62,UNI-SCIENCE,Experience Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FASHION-DESIGN-99E6A,UNI-SCIENCE,Fashion Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FINANCIAL-DATA-AN-5CAEB,UNI-SCIENCE,Financial Data Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FIRE-SAFETY-ENGIN-C466B,UNI-SCIENCE,FIRE & SAFETY ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FISHERIES-TECH-EC6F3,UNI-SCIENCE,Fisheries Tech,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FITTER-423CE,UNI-SCIENCE,Fitter,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FLIGHT-INSTRUCTOR-233BF,UNI-SCIENCE,Flight Instructor,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FOOD-SCIENCE-70106,UNI-SCIENCE,Food Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FOOD-TECH-5B17F,UNI-SCIENCE,Food Tech,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FOOD-TECHNOLOGY-D5A4E,UNI-SCIENCE,FOOD TECHNOLOGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FOOTWEAR-DESIGN-C424E,UNI-SCIENCE,Footwear Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FORENSIC-MEDICINE-3C46F,UNI-SCIENCE,Forensic Medicine,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FORENSIC-SCIENCE-7BF83,UNI-SCIENCE,Forensic Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FORESTRY-E454B,UNI-SCIENCE,Forestry,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-FREELANCER-E078F,UNI-SCIENCE,Freelancer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GAME-DESIGN-EAE86,UNI-SCIENCE,Game Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GARMENT-TECHNICIA-84224,UNI-SCIENCE,Garment Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GARUD-F7775,UNI-SCIENCE,Garud,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GENERAL-MEDICINE-C5720,UNI-SCIENCE,General Medicine,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GENERAL-SURGERY-EF5BC,UNI-SCIENCE,General Surgery,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GENETICS-73400,UNI-SCIENCE,Genetics,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GEO-INFORMATICS-G-9E95B,UNI-SCIENCE,GEO-INFORMATICS / GEOMATICS,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GEOLOGY-1CE45,UNI-SCIENCE,Geology,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GEOSPATIAL-DATA-A-EAA07,UNI-SCIENCE,Geospatial Data Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GLOBAL-PILOT-CE0C4,UNI-SCIENCE,Global Pilot,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GRAPHIC-DESIGN-9AED7,UNI-SCIENCE,Graphic Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GROUND-STAFF-73010,UNI-SCIENCE,Ground Staff,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-GROWTH-EXPERIMENT-8EBBB,UNI-SCIENCE,Growth / Experimentation Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-HARDWARE-TECHNICI-6A8BB,UNI-SCIENCE,Hardware Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-HEALTH-DATA-ANALY-985C9,UNI-SCIENCE,Health Data Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-HELICOPTER-PILOT-EBC2E,UNI-SCIENCE,Helicopter Pilot,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-HOMEOPATHY-BHMS-9716E,UNI-SCIENCE,Homeopathy (BHMS),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-IN-FLIGHT-MANAGER-66C96,UNI-SCIENCE,In-flight Manager,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-INDUSTRIAL-CHEMIS-70D2F,UNI-SCIENCE,Industrial Chemistry,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-INDUSTRIAL-DESIGN-FB177,UNI-SCIENCE,Industrial Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-INDUSTRIAL-PRODUC-C9648,UNI-SCIENCE,INDUSTRIAL / PRODUCTION ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-INFORMATION-TECHN-46B29,UNI-SCIENCE,INFORMATION TECHNOLOGY (IT),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-INSPECTOR-89C5F,UNI-SCIENCE,Inspector,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-INSTRUMENTATION-E-34E3C,UNI-SCIENCE,INSTRUMENTATION ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-INTERACTION-DESIG-79697,UNI-SCIENCE,Interaction Design (IxD),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-INTERIOR-DESIGN-9EEF2,UNI-SCIENCE,Interior Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-LAB-TECHNICIAN-8B872,UNI-SCIENCE,Lab Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-LEATHER-TECHNOLOG-BB1AA,UNI-SCIENCE,LEATHER TECHNOLOGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-LEGAL-OFFICER-6D26D,UNI-SCIENCE,Legal Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-LIGHTING-DESIGN-A9985,UNI-SCIENCE,Lighting Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-LOGISTICS-OFFICER-AD442,UNI-SCIENCE,Logistics Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MACHINE-LEARNING-53A9B,UNI-SCIENCE,Machine Learning Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MANAGER-601C0,UNI-SCIENCE,Manager,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MARCOS-AC304,UNI-SCIENCE,MARCOS,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MARINE-ENGINEERIN-BD12D,UNI-SCIENCE,MARINE ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MARINE-TECHNICIAN-6E55C,UNI-SCIENCE,Marine Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MARKETING-ANALYST-CE7DA,UNI-SCIENCE,Marketing Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MATERIALS-SCIENCE-A59A5,UNI-SCIENCE,MATERIALS SCIENCE,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MATERIALS-SCIENCE-A8075,UNI-SCIENCE,Materials Science (BSc),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MATHEMATICS-E17F5,UNI-SCIENCE,Mathematics,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MECHANICAL-ENGINE-36283,UNI-SCIENCE,Mechanical Engineering,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MECHATRONICS-ENGI-72E9C,UNI-SCIENCE,MECHATRONICS ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-METALLURGICAL-ENG-43BD5,UNI-SCIENCE,METALLURGICAL ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-METEOROLOGIST-F4B4B,UNI-SCIENCE,Meteorologist,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MICROBIOLOGY-1A40A,UNI-SCIENCE,Microbiology,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MILITARY-DOCTOR-A6986,UNI-SCIENCE,Military Doctor,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MINING-ENGINEERIN-A7154,UNI-SCIENCE,MINING ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MINING-TECHNICIAN-AB9C6,UNI-SCIENCE,Mining Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MLOPS-ENGINEER-3D44E,UNI-SCIENCE,MLOps Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MOTION-DESIGN-3502D,UNI-SCIENCE,Motion Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-MRO-ENGINEER-EDC9A,UNI-SCIENCE,MRO Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NANOTECHNOLOGY-3E45B,UNI-SCIENCE,NANOTECHNOLOGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NATUROPATHY-YOGIC-5412C,UNI-SCIENCE,Naturopathy & Yogic Sciences (BNYS),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NAVAL-ARCHITECTUR-AB88D,UNI-SCIENCE,NAVAL ARCHITECTURE,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NAVAL-ENGINEER-D6D80,UNI-SCIENCE,Naval Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NAVAL-OFFICER-F8F0C,UNI-SCIENCE,Naval Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NAVIK-A47E8,UNI-SCIENCE,Navik,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NETWORK-ENGINEER-26C50,UNI-SCIENCE,Network Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NLP-ENGINEER-70FDF,UNI-SCIENCE,NLP Engineer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NURSING-BSC-745B4,UNI-SCIENCE,Nursing (BSc),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-NURSING-OFFICER-5EFBF,UNI-SCIENCE,Nursing Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-OCEANOGRAPHY-MARI-B6FDF,UNI-SCIENCE,Oceanography / Marine Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-OFFICER-E3B5E,UNI-SCIENCE,Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-OPERATOR-1F7CF,UNI-SCIENCE,Operator,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PACKAGING-DESIGN-1967C,UNI-SCIENCE,Packaging Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PACKAGING-TECHNIC-C2351,UNI-SCIENCE,Packaging Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PACKAGING-TECHNOL-3358C,UNI-SCIENCE,PACKAGING TECHNOLOGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PARA-SF-424A8,UNI-SCIENCE,Para SF,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PART-TIME-OFFICER-FBC29,UNI-SCIENCE,Part-time Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PATHOLOGY-B32A0,UNI-SCIENCE,Pathology,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PEDIATRICS-F81AB,UNI-SCIENCE,Pediatrics,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PETROLEUM-ENGINEE-FB536,UNI-SCIENCE,PETROLEUM ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PHARMACIST-26368,UNI-SCIENCE,Pharmacist,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PHARMACY-BPHARM-8FAC9,UNI-SCIENCE,Pharmacy (BPharm),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PHYSICS-2EA48,UNI-SCIENCE,Physics,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PHYSIOTHERAPY-BPT-7508D,UNI-SCIENCE,Physiotherapy (BPT),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PILOT-9A174,UNI-SCIENCE,Pilot,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PLUMBER-970A5,UNI-SCIENCE,Plumber,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-POLYMER-PLASTICS-EE8FC,UNI-SCIENCE,POLYMER / PLASTICS ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PRINTING-TECHNICI-A304C,UNI-SCIENCE,Printing Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PRINTING-TECHNOLO-8C9B9,UNI-SCIENCE,PRINTING TECHNOLOGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PROCESS-TECHNICIA-7C5A6,UNI-SCIENCE,Process Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PRODUCT-ANALYST-23084,UNI-SCIENCE,Product Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PRODUCT-DESIGN-219E7,UNI-SCIENCE,Product Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PSYCHIATRY-82FCA,UNI-SCIENCE,Psychiatry,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-PULP-PAPER-TECHNO-0EF73,UNI-SCIENCE,PULP & PAPER TECHNOLOGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-QUANTITATIVE-ANAL-6E5DD,UNI-SCIENCE,Quantitative Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-RADIOLOGY-9BA7A,UNI-SCIENCE,Radiology,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-RADIOLOGY-TECH-7B544,UNI-SCIENCE,Radiology Tech,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-RAMP-STAFF-BFB3A,UNI-SCIENCE,Ramp Staff,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-RENEWABLE-ENERGY-7C109,UNI-SCIENCE,RENEWABLE ENERGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-REPAIR-TECHNICIAN-7909B,UNI-SCIENCE,Repair Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-RISK-ANALYST-2F310,UNI-SCIENCE,Risk Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ROBOTICS-ENGINEER-C9C18,UNI-SCIENCE,ROBOTICS ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SAFETY-OFFICER-35334,UNI-SCIENCE,Safety Officer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SAILOR-3D248,UNI-SCIENCE,Sailor,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SCIENTIST-87B30,UNI-SCIENCE,Scientist,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SECURITY-STAFF-95906,UNI-SCIENCE,Security Staff,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SECURITY-TECHNICI-F47D0,UNI-SCIENCE,Security Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SERVICE-DESIGN-A7801,UNI-SCIENCE,Service Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SIDDHA-MEDICINE-B-75CEF,UNI-SCIENCE,Siddha Medicine (BSMS),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SKILLED-WORKER-A81FA,UNI-SCIENCE,Skilled worker,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SOIL-SCIENCE-FAC12,UNI-SCIENCE,Soil Science,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SOLAR-INSTALLER-54C78,UNI-SCIENCE,Solar Installer,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SOLDIER-267AD,UNI-SCIENCE,Soldier,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SPACE-TECHNOLOGY-24B4C,UNI-SCIENCE,SPACE TECHNOLOGY,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-STATISTICS-2E374,UNI-SCIENCE,Statistics,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SUPPLY-CHAIN-OPER-0ECCD,UNI-SCIENCE,Supply Chain / Operations Analyst,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-SURVEYOR-B068D,UNI-SCIENCE,Surveyor,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-TECH-SOLDIER-148FD,UNI-SCIENCE,Tech Soldier,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-TECHNICIAN-5A57B,UNI-SCIENCE,Technician,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-TEXTILE-DESIGN-0C3E5,UNI-SCIENCE,Textile Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-TEXTILE-ENGINEERI-7324F,UNI-SCIENCE,TEXTILE ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-TOOL-DIE-MAKER-5DBDF,UNI-SCIENCE,Tool & Die Maker,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-TOOL-ENGINEERING-2D7F8,UNI-SCIENCE,TOOL ENGINEERING,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-UI-ENGINEERING-CR-9D6A5,UNI-SCIENCE,UI Engineering / Creative Frontend,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-UI-UX-DESIGN-B2FF5,UNI-SCIENCE,UI/UX Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-UNANI-MEDICINE-BU-B0156,UNI-SCIENCE,Unani Medicine (BUMS),,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-VISUAL-COMMUNICAT-40D3D,UNI-SCIENCE,Visual Communication Design,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-WAYFINDING-ENVIRO-2AB13,UNI-SCIENCE,Wayfinding / Environmental Graphics,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-WELDER-21472,UNI-SCIENCE,Welder,,Validated,0.6.1a,1-Structured-Science.xlsx
+CAR-SCI-ZOOLOGY-34048,UNI-SCIENCE,Zoology,,Validated,0.6.1a,1-Structured-Science.xlsx
