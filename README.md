@@ -24,6 +24,8 @@ An aspirant-facing conversational application built on the RSA SCC Neo4j knowled
 
 See `docs/LOCAL_TEST_SERVER.md` before allowing access from another device.
 
+For testers outside the local network, use the protected ngrok workflow in `docs/SECURE_TUNNEL.md`. The tunnel publishes only the chatbot and requires separate tester credentials.
+
 ## NLP design
 
 The first release deliberately does not execute model-generated Cypher. The NLP layer classifies an intent, extracts relevant terms, selects an approved query, and returns grounded graph results. See `docs/NLP_ARCHITECTURE.md`.
