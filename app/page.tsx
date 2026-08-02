@@ -63,7 +63,7 @@ export default function Home() {
           <div ref={endRef}/>
         </div>
 
-        {messages.length < 3 && <div className="suggestions">{examples[persona].map(example => <button key={example} onClick={() => ask(undefined,example)}>{example}<span>↗</span></button>)}</div>}
+        <div className="suggestions" aria-label="Suggested questions">{examples[persona].map(example => <button key={example} onClick={() => ask(undefined,example)} disabled={busy}>{example}<span>↗</span></button>)}</div>
         <form className="composer" onSubmit={ask}><textarea value={question} onChange={e=>setQuestion(e.target.value)} onKeyDown={e=>{if(e.key==="Enter"&&!e.shiftKey){e.preventDefault();ask();}}} placeholder={persona==="leader"?"Ask what is inside a universe, how data is governed, or what is populated…":"Ask about careers, eligibility, subjects, exams or interdisciplinary paths…"} rows={2}/><button disabled={busy || question.trim().length<3} aria-label="Ask the knowledge graph">Ask <span>→</span></button><small>{persona==="leader"?"Leadership mode exposes backend structure but remains read-only.":"Answers reflect governed graph knowledge and state evidence gaps explicitly."}</small></form>
       </section>
     </section>
