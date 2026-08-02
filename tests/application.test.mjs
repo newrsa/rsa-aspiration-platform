@@ -2,19 +2,21 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
 
-test("ships the aspirant chatbot and grounded API", async () => {
-  const [page, ask, nlp, layout] = await Promise.all([
+test("ships the knowledge dashboard and grounded NLP API", async () => {
+  const [page, dashboard, ask, nlp, layout] = await Promise.all([
     readFile(new URL("../app/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/api/dashboard/route.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/api/ask/route.ts", import.meta.url), "utf8"),
     readFile(new URL("../lib/nlp.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/layout.tsx", import.meta.url), "utf8"),
   ]);
-  assert.match(page, /RSA Career Guide/);
-  assert.match(page, /\/api\/ask/);
+  assert.match(page, /Knowledge Intelligence/);
+  assert.match(page, /\/api\/dashboard/);
+  assert.match(dashboard, /runGraphQuery/);
   assert.match(ask, /understandQuestion/);
   assert.match(ask, /grounded:\s*true/);
   assert.match(nlp, /approved read-only|career_discovery/i);
-  assert.match(layout, /Knowledge Graph Assistant/);
+  assert.match(layout, /Knowledge Intelligence Dashboard/);
 });
 
 test("keeps database credentials server-side", async () => {
