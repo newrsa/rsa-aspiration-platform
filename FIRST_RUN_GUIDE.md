@@ -17,4 +17,4 @@ The header should display the number of available pathways. If it says **Setup r
 
 ## Test from another device
 
-See `docs/LOCAL_TEST_SERVER.md`. Use only a trusted local network and do not expose the development server or Neo4j ports to the internet.
+See `docs/LOCAL_TEST_SERVER.md`. Other devices use this PC's address on port `3001`. Use only a trusted local network and do not expose the development server or Neo4j ports to the internet.

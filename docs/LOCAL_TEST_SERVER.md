@@ -12,10 +12,10 @@
 
 1. Keep both devices on the same trusted Wi-Fi or office network.
 2. Run `ipconfig` and locate this PC's IPv4 address, such as `192.168.1.25`.
-3. Open `http://<this-pc-ip>:3000` on the other device.
+3. Open `http://<this-pc-ip>:3001` on the other device. Port 3001 is the trusted-network gateway; Neo4j remains private.
 4. If Windows asks whether to allow Node.js through the firewall, allow Private networks only.
 
-Do not expose port 3000 through the internet router. Neo4j remains local to the server and the browser communicates only with the web application.
+Do not expose ports 3000 or 3001 through the internet router. Neo4j remains local to the server and the browser communicates only with the web application.
 
 ## Daily startup
 

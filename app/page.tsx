@@ -21,8 +21,8 @@ export default function Home() {
   const [health, setHealth] = useState<{status:string;streams?:number;error?:string}>({status:"checking"});
   const endRef = useRef<HTMLDivElement>(null);
 
-  useEffect(() => { fetch("/api/health").then(async r => setHealth(await r.json())).catch(() => setHealth({status:"setup_required",error:"Application server is unavailable."})); }, []);
-  useEffect(() => endRef.current?.scrollIntoView({ behavior:"smooth" }), [messages, busy]);
+  useEffect(() => { void fetch("/api/health").then(async r => setHealth(await r.json())).catch(() => setHealth({status:"setup_required",error:"Application server is unavailable."})); }, []);
+  useEffect(() => { endRef.current?.scrollIntoView({ behavior:"smooth" }); }, [messages, busy]);
 
   async function ask(event?: FormEvent, suggested?: string) {
     event?.preventDefault();

@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "vinext dev",
-    "dev:lan": "vinext dev --host 0.0.0.0",
+    "dev:lan": "node server/lan-server.mjs",
     "build": "vinext build",
     "start": "vinext start",
     "test": "npm run build && node --test tests/*.test.mjs",
