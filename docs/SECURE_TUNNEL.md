@@ -25,7 +25,7 @@ This setup exposes only the RSA Career Guide website. Neo4j remains bound to loc
 5. Share the tester username and password separately.
 6. Keep both server windows open during the session.
 
-Close the ngrok window to terminate public access. The forwarding address normally changes for a new free testing session.
+Double-click `Stop Secure Tester Tunnel.cmd` to terminate public access. The forwarding address normally changes for a new free testing session.
 
 ## Safety limits
 
