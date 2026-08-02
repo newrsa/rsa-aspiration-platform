@@ -4,12 +4,12 @@ import { FormEvent, useEffect, useRef, useState } from "react";
 
 type Row = Record<string, unknown>;
 type Persona = "aspirant" | "leader";
-type Answer = { intent: string; interpretation: string; answer: string; results: Row[]; result_count: number; graph: { nodes: {id:string;label:string;type:string}[]; edges: {source:string;target:string;label:string}[] } };
+type Answer = { persona?:Persona; intent: string; interpretation: string; answer: string; results: Row[]; result_count: number; graph: { nodes: {id:string;label:string;type:string}[]; edges: {source:string;target:string;label:string}[] } };
 type Message = { role: "user" | "assistant"; text: string; payload?: Answer; error?: boolean };
 
 const examples:Record<Persona,string[]> = {
   aspirant:["What engineering careers can I explore?","Can a commerce student enter fintech?","Which careers combine law and technology?","What qualifications are needed for a psychologist?"],
-  leader:["What is inside the Commerce universe?","Compare all universe coverage","Show ontology and data maturity","What is populated in the backend?","Run a structural data-quality check"],
+  leader:["What is inside the Commerce universe?","Compare all universe coverage","Show the largest domains","Show ontology and data maturity","Which entrance exams are represented?","What is populated in the backend?","Run a structural data-quality check"],
 };
 
 export default function Home() {
@@ -75,10 +75,24 @@ export default function Home() {
 function AnswerDetails({answer}:{answer:Answer}) {
   const [view,setView] = useState<"cards"|"graph">("cards");
   if (!answer.results.length) return <div className="answerMeta"><span>{answer.interpretation}</span></div>;
+  if(answer.persona==="leader") return <LeaderDetails answer={answer}/>;
   return <div className="answerDetails">
     <div className="answerMeta"><span>{answer.interpretation}</span><b>{answer.result_count} graph matches</b></div>
     <div className="viewTabs"><button className={view==="cards"?"active":""} onClick={()=>setView("cards")}>Pathways</button><button className={view==="graph"?"active":""} onClick={()=>setView("graph")}>Graph view</button></div>
     {view === "cards" ? <div className="resultCards">{answer.results.slice(0,8).map((row,i)=><div className="resultCard" key={i}><strong>{String(row.career || row.pathway || row.exam || row.universe || row.entity_type || "Graph result")}</strong>{row.pathway && row.career !== row.pathway && <span>{String(row.pathway)}</span>}<dl>{Object.entries(row).filter(([key,value])=>value!=null && !["career","pathway"].includes(key)).slice(0,5).map(([key,value])=><div key={key}><dt>{key.replaceAll("_"," ")}</dt><dd>{display(value)}</dd></div>)}</dl></div>)}</div> : <GraphPreview graph={answer.graph}/>} 
+  </div>;
+}
+
+function LeaderDetails({answer}:{answer:Answer}) {
+  const [view,setView]=useState<"details"|"graph">("details");
+  return <div className="answerDetails leaderDetails">
+    <div className="answerMeta"><span>{answer.interpretation}</span><b>Live backend result</b></div>
+    <div className="viewTabs"><button className={view==="details"?"active":""} onClick={()=>setView("details")}>Executive detail</button><button className={view==="graph"?"active":""} onClick={()=>setView("graph")}>Graph view</button></div>
+    {view==="graph"?<GraphPreview graph={answer.graph}/>:<div className="leaderGrid">{answer.results.slice(0,25).map((row,i)=>{
+      const title=String(row.universe||row.domain||row.entity_type||row.exam||"Live integrity result");
+      const entries=Object.entries(row).filter(([key,value])=>value!=null&&!["universe","domain","entity_type","exam"].includes(key));
+      return <section className="leaderCard" key={i}><div className="leaderCardHead"><span>{answer.intent.replaceAll("_"," ")}</span><strong>{title}</strong></div><dl>{entries.map(([key,value])=><div key={key}><dt>{key.replaceAll("_"," ")}</dt><dd className={typeof value==="number"?"number":""}>{display(value)}</dd></div>)}</dl></section>;
+    })}</div>}
   </div>;
 }
 
