@@ -40,7 +40,7 @@ export default function Home() {
 
   return <main className="chatApp">
     <header className="chatHeader">
-      <div className="identity"><span className="logo">R</span><div><strong>RSA Knowledge Guide</strong><small>{persona==="leader"?"Backend and universe intelligence":"Evidence-backed career guidance"}</small></div></div>
+      <div className="identity"><span className="wordmark">RSA</span><div><strong>Knowledge Guide</strong><small>{persona==="leader"?"Backend and universe intelligence":"Evidence-backed career guidance"}</small></div></div>
       <div className="headerTools"><div className="personaSwitch" aria-label="Choose answer mode"><button className={persona==="aspirant"?"active":""} onClick={()=>switchPersona("aspirant")}>Aspirant</button><button className={persona==="leader"?"active":""} onClick={()=>switchPersona("leader")}>Leader</button></div><div className={`health ${health.status}`}><i/>{health.status === "ready" ? `${Number(health.streams||0).toLocaleString()} pathways ready` : health.status === "checking" ? "Checking graph" : "Setup required"}</div></div>
     </header>
 
@@ -56,10 +56,10 @@ export default function Home() {
         {health.status === "setup_required" && <div className="setupAlert"><strong>Connect the local knowledge graph</strong><span>{health.error}</span><code>Copy .env.example to .env.local, enter the Neo4j password, then restart the website.</code></div>}
         <div className="messages">
           {messages.map((message,index) => <article key={index} className={`message ${message.role} ${message.error ? "error" : ""}`}>
-            <div className="avatar">{message.role === "assistant" ? "R" : "You"}</div>
+            <div className="avatar">{message.role === "assistant" ? "RSA" : "YOU"}</div>
             <div className="bubble"><p>{message.text}</p>{message.payload && <AnswerDetails answer={message.payload}/>}</div>
           </article>)}
-          {busy && <article className="message assistant"><div className="avatar">R</div><div className="bubble thinking"><span/><span/><span/><em>Reading the career graph…</em></div></article>}
+          {busy && <article className="message assistant"><div className="avatar">RSA</div><div className="bubble thinking"><span/><span/><span/><em>Reading the knowledge base…</em></div></article>}
           <div ref={endRef}/>
         </div>
 
@@ -73,32 +73,23 @@ export default function Home() {
 }
 
 function AnswerDetails({answer}:{answer:Answer}) {
-  const [view,setView] = useState<"cards"|"graph">("cards");
   if (!answer.results.length) return <div className="answerMeta"><span>{answer.interpretation}</span></div>;
   if(answer.persona==="leader") return <LeaderDetails answer={answer}/>;
   return <div className="answerDetails">
     <div className="answerMeta"><span>{answer.interpretation}</span><b>{answer.result_count} graph matches</b></div>
-    <div className="viewTabs"><button className={view==="cards"?"active":""} onClick={()=>setView("cards")}>Pathways</button><button className={view==="graph"?"active":""} onClick={()=>setView("graph")}>Graph view</button></div>
-    {view === "cards" ? <div className="resultCards">{answer.results.slice(0,8).map((row,i)=><div className="resultCard" key={i}><strong>{String(row.career || row.pathway || row.exam || row.universe || row.entity_type || "Graph result")}</strong>{row.pathway && row.career !== row.pathway && <span>{String(row.pathway)}</span>}<dl>{Object.entries(row).filter(([key,value])=>value!=null && !["career","pathway"].includes(key)).slice(0,5).map(([key,value])=><div key={key}><dt>{key.replaceAll("_"," ")}</dt><dd>{display(value)}</dd></div>)}</dl></div>)}</div> : <GraphPreview graph={answer.graph}/>} 
+    <div className="resultCards">{answer.results.slice(0,8).map((row,i)=><div className="resultCard" key={i}><strong>{String(row.career || row.pathway || row.exam || row.universe || row.entity_type || "Knowledge result")}</strong>{row.pathway && row.career !== row.pathway && <span>{String(row.pathway)}</span>}<dl>{Object.entries(row).filter(([key,value])=>value!=null && !["career","pathway","relevance"].includes(key)).slice(0,7).map(([key,value])=><div key={key}><dt>{key.replaceAll("_"," ")}</dt><dd>{display(value)}</dd></div>)}</dl></div>)}</div>
   </div>;
 }
 
 function LeaderDetails({answer}:{answer:Answer}) {
-  const [view,setView]=useState<"details"|"graph">("details");
   return <div className="answerDetails leaderDetails">
     <div className="answerMeta"><span>{answer.interpretation}</span><b>Live backend result</b></div>
-    <div className="viewTabs"><button className={view==="details"?"active":""} onClick={()=>setView("details")}>Executive detail</button><button className={view==="graph"?"active":""} onClick={()=>setView("graph")}>Graph view</button></div>
-    {view==="graph"?<GraphPreview graph={answer.graph}/>:<div className="leaderGrid">{answer.results.slice(0,25).map((row,i)=>{
+    <div className="leaderGrid">{answer.results.slice(0,25).map((row,i)=>{
       const title=String(row.universe||row.domain||row.entity_type||row.exam||"Live integrity result");
       const entries=Object.entries(row).filter(([key,value])=>value!=null&&!["universe","domain","entity_type","exam"].includes(key));
       return <section className="leaderCard" key={i}><div className="leaderCardHead"><span>{answer.intent.replaceAll("_"," ")}</span><strong>{title}</strong></div><dl>{entries.map(([key,value])=><div key={key}><dt>{key.replaceAll("_"," ")}</dt><dd className={typeof value==="number"?"number":""}>{display(value)}</dd></div>)}</dl></section>;
-    })}</div>}
+    })}</div>
   </div>;
-}
-
-function GraphPreview({graph}:{graph:Answer["graph"]}) {
-  const nodes=graph.nodes.slice(0,16);
-  return <div className="miniGraph">{nodes.map((node,i)=><div key={node.id} className={`miniNode ${node.type.toLowerCase()}`}><small>{node.type}</small><b>{node.label}</b>{i<nodes.length-1&&<span>→</span>}</div>)}</div>;
 }
 
 function display(value:unknown) {
