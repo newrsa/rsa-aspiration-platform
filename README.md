@@ -9,6 +9,7 @@ The RSA Knowledge Platform (RKP) is an ontology-driven, explainable career-intel
 - `semantic-registry/` — machine-readable catalogs that drive implementation.
 - `ontology/` — source ontology material and its normalized representations.
 - `neo4j/` — generated and hand-maintained runtime assets, loaders, validation, and query examples.
+- `infrastructure/` — Docker deployment, local/cloud environment contracts, VPN guidance, and operational runbooks.
 - `scripts/` — generators, validators, and operational helpers.
 - `tests/` — registry, schema, and query acceptance tests.
 
@@ -28,3 +29,7 @@ Run `python scripts/validate_registry.py` after changing a catalog. Use `--stric
 4. SCC stores universal facts; user state and comparative decisions remain outside it.
 
 See [`docs/architecture/enterprise-architecture.md`](docs/architecture/enterprise-architecture.md) and [`semantic-registry/specification/semantic-registry-specification.yaml`](semantic-registry/specification/semantic-registry-specification.yaml).
+
+## Local data stack
+
+The Phase 1 Neo4j, Qdrant, and Postgres stack is defined in [`docker-compose.yml`](docker-compose.yml). Start with [`infrastructure/README.md`](infrastructure/README.md); credentials belong in the ignored `infrastructure/.env` file.

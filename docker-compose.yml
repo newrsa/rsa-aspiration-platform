@@ -1,0 +1,91 @@
+name: rsa-knowledge-platform
+
+services:
+  neo4j:
+    image: neo4j:2026.09.0-community
+    container_name: rsa-neo4j
+    restart: unless-stopped
+    mem_limit: 40g
+    environment:
+      NEO4J_AUTH: neo4j/${NEO4J_PASSWORD:?Set NEO4J_PASSWORD in infrastructure/.env}
+      NEO4J_server_memory_heap_initial__size: ${NEO4J_HEAP_SIZE:-8g}
+      NEO4J_server_memory_heap_max__size: ${NEO4J_HEAP_SIZE:-8g}
+      NEO4J_server_memory_pagecache_size: ${NEO4J_PAGECACHE_SIZE:-28g}
+      NEO4J_server_jvm_additional: -XX:+ExitOnOutOfMemoryError
+      NEO4J_server_default__listen__address: 0.0.0.0
+      NEO4J_server_default__advertised__address: ${RSA_ADVERTISED_HOST:-localhost}
+    ports:
+      - "${RSA_BIND_ADDRESS:-127.0.0.1}:${NEO4J_HTTP_PORT:-7474}:7474"
+      - "${RSA_BIND_ADDRESS:-127.0.0.1}:${NEO4J_BOLT_PORT:-7687}:7687"
+    volumes:
+      - ${RSA_DATA_ROOT:-./infrastructure/runtime-data}/neo4j/data:/data
+      - ${RSA_DATA_ROOT:-./infrastructure/runtime-data}/neo4j/logs:/logs
+      - ${RSA_BACKUP_ROOT:-./infrastructure/runtime-backups}/neo4j:/backups
+      - ${RSA_NEO4J_IMPORT_ROOT:-./datasets}:/import:ro
+    healthcheck:
+      test: ["CMD-SHELL", "password=$${NEO4J_AUTH#*/}; cypher-shell -a bolt://localhost:7687 -u neo4j -p \"$${password}\" 'RETURN 1' >/dev/null 2>&1"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+      start_period: 60s
+    networks:
+      - rsa-data
+
+  qdrant:
+    image: qdrant/qdrant:v1.19.1
+    container_name: rsa-qdrant
+    restart: unless-stopped
+    mem_limit: 12g
+    environment:
+      QDRANT__SERVICE__API_KEY: ${QDRANT_API_KEY:?Set QDRANT_API_KEY in infrastructure/.env}
+      QDRANT__SERVICE__GRPC_PORT: 6334
+      QDRANT__STORAGE__STORAGE_PATH: /qdrant/storage
+      QDRANT__STORAGE__SNAPSHOTS_PATH: /qdrant/snapshots
+    ports:
+      - "${RSA_BIND_ADDRESS:-127.0.0.1}:${QDRANT_HTTP_PORT:-6333}:6333"
+      - "${RSA_BIND_ADDRESS:-127.0.0.1}:${QDRANT_GRPC_PORT:-6334}:6334"
+    volumes:
+      - ${RSA_DATA_ROOT:-./infrastructure/runtime-data}/qdrant/storage:/qdrant/storage
+      - ${RSA_BACKUP_ROOT:-./infrastructure/runtime-backups}/qdrant:/qdrant/snapshots
+    networks:
+      - rsa-data
+
+  postgres:
+    image: postgres:17.10-alpine3.24
+    container_name: rsa-postgres
+    restart: unless-stopped
+    mem_limit: 4g
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-rsa}
+      POSTGRES_USER: ${POSTGRES_USER:-rsa_app}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in infrastructure/.env}
+      PGDATA: /var/lib/postgresql/data/pgdata
+    command:
+      - postgres
+      - -c
+      - shared_buffers=1GB
+      - -c
+      - effective_cache_size=3GB
+      - -c
+      - maintenance_work_mem=256MB
+      - -c
+      - max_connections=100
+    ports:
+      - "${RSA_BIND_ADDRESS:-127.0.0.1}:${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - ${RSA_DATA_ROOT:-./infrastructure/runtime-data}/postgres:/var/lib/postgresql/data
+      - ${RSA_BACKUP_ROOT:-./infrastructure/runtime-backups}/postgres:/backups
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U '$${POSTGRES_USER}' -d '$${POSTGRES_DB}'"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 20s
+    networks:
+      - rsa-data
+
+networks:
+  rsa-data:
+    name: rsa-data
+    driver: bridge
+    internal: true

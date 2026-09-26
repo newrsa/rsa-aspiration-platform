@@ -33,3 +33,5 @@ Run order:
 6. `python scripts/generate_neo4j_notebook.py`
 7. `python scripts/generate_query_cookbook.py`
 8. `python scripts/validate_registry.py --strict`
+
+Operational helpers under `scripts/infrastructure/` validate the Linux host, verify the three-store Compose stack, and create database-native backups. They are intentionally separate from semantic artifact generation.
