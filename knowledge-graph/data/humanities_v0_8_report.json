@@ -1,0 +1,13 @@
+{
+  "universe": "UNI-HUMANITIES",
+  "version": "0.8",
+  "source": "RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md",
+  "expected_domain_count": 16,
+  "domain_count": 16,
+  "expected_stream_count": 125,
+  "stream_count": 125,
+  "career_outcome_count": 160,
+  "stream_career_link_count": 160,
+  "streams_without_domain": 0,
+  "unknown_domain_links": 0
+}

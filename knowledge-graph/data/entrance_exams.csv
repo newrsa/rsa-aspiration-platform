@@ -1,0 +1,110 @@
+﻿entrance_exam_code,universe_code,name,level,eligibility_snapshot,conducting_body,source_url,governance_status,version,source_workbook
+EXAM-COM-ACTUARIAL-EXAMS-47DE3,UNI-COMMERCE,Actuarial Exams (IAI/IFoA),,12th with strong Math,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-CA-FOUNDATION-90686,UNI-COMMERCE,CA Foundation,,After 12th (Commerce preferred),,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-CA-INTERMEDIATE-2089E,UNI-COMMERCE,CA Intermediate,,After CA Foundation,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-CFA-LEVEL-1-B740D,UNI-COMMERCE,CFA Level 1,,Graduate,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-CFP-CERTIFICATIO-EB6C8,UNI-COMMERCE,CFP Certification,,Graduate,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-CMA-FOUNDATION-F739A,UNI-COMMERCE,CMA Foundation,,After 12th,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-CMA-INTERMEDIATE-A7EED,UNI-COMMERCE,CMA Intermediate,,After Foundation,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-CS-EXECUTIVE-3F03A,UNI-COMMERCE,CS Executive,,After CSEET,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-CSEET-42A99,UNI-COMMERCE,CSEET,,After 12th,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-CUET-UG-PG-E340A,UNI-COMMERCE,CUET (UG/PG),,12th,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-IBPS-PO-SBI-PO-7C399,UNI-COMMERCE,IBPS PO / SBI PO,,Graduate,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-COM-NISM-CERTIFICATI-57A6A,UNI-COMMERCE,NISM Certification,,12th/Graduate,,,Validated,0.6.1a,3-Structured - Commerce.xlsx
+EXAM-HUM-B-ED-ENTRANCE-CE-DA16C,UNI-HUMANITIES,B.Ed. Entrance / CET,,Graduation with required marks/subjects as per state/university norms,,https://ignou.ac.in/,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-CTET-STATE-TET-72CBD,UNI-HUMANITIES,CTET / State TET,,B.Ed./D.El.Ed. and level-specific eligibility,,https://ignou.ac.in/,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-CUET-PG-9CDA3,UNI-HUMANITIES,CUET PG,,Graduation; programme-wise eligibility,,https://cuet.nta.nic.in/cuetug-2026-syllabus/,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-CUET-UG-B27B6,UNI-HUMANITIES,CUET UG,,Class 12 passed/appearing; university-wise eligibility applies,,https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601031633478370.pdf,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-FOREIGN-LANGUAGE-08A09,UNI-HUMANITIES,Foreign Language Certifications,,Open; level-based certification,,https://cuet.nta.nic.in/cuetug-2026-syllabus/,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-FTII-SRFTI-FILM-25685,UNI-HUMANITIES,FTII / SRFTI / Film Institute Selections,,Programme-wise eligibility,,https://www.ftii.ac.in/p/admission-2025,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-MSW-DEVELOPMENT-AB4A8,UNI-HUMANITIES,MSW / Development Studies Institute Tests,,Graduation; programme-wise eligibility,,https://admissions.tiss.edu/,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-NID-DAT-5FB61,UNI-HUMANITIES,NID DAT,,Class 12 for B.Des; graduation for M.Des as per NID rules,,https://admissions.nid.edu/,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-NIFT-ENTRANCE-BDA34,UNI-HUMANITIES,NIFT Entrance,,Class 12/Graduation as per programme,,https://www.nift.ac.in/admission,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-RCI-RECOGNIZED-P-5BB5E,UNI-HUMANITIES,RCI-recognized programmes,,Varies by programme and recognised institute,,https://rehabcouncil.nic.in/,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-STATE-PSC-MPSC-T-B582E,UNI-HUMANITIES,State PSC / MPSC-type Exams,,Graduation; state-specific age and domicile/language rules,,https://upsc.gov.in/index.php,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-UGC-NET-SET-37E19,UNI-HUMANITIES,UGC-NET / SET,,Master's degree as per UGC-NET criteria,,https://ugcnet.nta.ac.in/images/information-bulletin-for-ugc-net-june-2025-16042025.pdf,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-UNIVERSITY-INSTI-75B70,UNI-HUMANITIES,University/Institute Audition & Portfolio,,Class 12 or graduation depending on programme,,https://cuet.nta.nic.in/cuetug-2026-syllabus/,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-HUM-UPSC-CIVIL-SERVI-48DAE,UNI-HUMANITIES,UPSC Civil Services Examination,,Graduation; age/attempt rules as per notification,,https://upsc.gov.in/index.php,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+EXAM-INTD-CAT-XAT-CMAT-MA-C297B,UNI-INTERDISCIPLINARY,CAT/XAT/CMAT/MAT/MAH MBA CET,PG Management,Graduation; institute-specific marks criteria,,https://iimcat.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-INTD-CEED-0417F,UNI-INTERDISCIPLINARY,CEED,PG Design,Degree/diploma as per CEED and institute criteria,,https://www.ceed.iitb.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-INTD-CUET-PG-FB99B,UNI-INTERDISCIPLINARY,CUET PG,PG,Graduation; course-specific requirements vary,,https://pgcuet.samarth.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-INTD-CUET-UG-9C23A,UNI-INTERDISCIPLINARY,CUET UG,UG,Class 12 or equivalent; subject combinations vary by university,,https://cuet.nta.nic.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-INTD-GATE-EC563,UNI-INTERDISCIPLINARY,GATE,PG Technical,Degree/eligible final year as per GATE rules,,https://gate2026.iitg.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-INTD-IAT-A1809,UNI-INTERDISCIPLINARY,IAT,UG Science,Class 12 science eligibility as per IISER rules,,https://www.iiseradmission.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-INTD-INSTITUTE-LEVEL-F453B,UNI-INTERDISCIPLINARY,Institute-level Portfolio/Interview,UG/PG,Course-specific,,Varies by institute,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-INTD-NID-DAT-5124D,UNI-INTERDISCIPLINARY,NID DAT,UG/PG Design,Class 12 for BDes; graduation/diploma for MDes as per handbook,,https://admissions.nid.edu/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-INTD-NLSAT-MPP-B3760,UNI-INTERDISCIPLINARY,NLSAT-MPP,PG Policy,Any graduate; annual notification applies,,https://www.nls.ac.in/programme/master-of-public-policy/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-INTD-UCEED-0FA25,UNI-INTERDISCIPLINARY,UCEED,UG Design,Class 12 in any stream as per exam rules,,https://www.uceed.iitb.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+EXAM-MGT-ATMA-F224A,UNI-MANAGEMENT,ATMA,PG MBA/PGDM,Graduation criteria as per AIMS and institutes,AIMS,https://atmaaims.com/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-CAT-22D4E,UNI-MANAGEMENT,CAT,PG MBA/PGDM,Bachelor's degree; official eligibility varies by category and year,IIMs,https://iimcat.ac.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-CMAT-39123,UNI-MANAGEMENT,CMAT,PG MBA/PGDM,Bachelor's degree; final year conditions as per NTA information bulletin,NTA,https://cmat.nta.nic.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-CUET-PG-EB2B4,UNI-MANAGEMENT,CUET PG,PG,Graduation; programme criteria vary,NTA,https://pgcuet.samarth.ac.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-CUET-UG-DBE4C,UNI-MANAGEMENT,CUET UG,UG,10+2; subject mapping depends on university,NTA,https://cuet.nta.nic.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-IPMAT-INDORE-IPM-CF6A1,UNI-MANAGEMENT,IPMAT Indore / IPMAT routes,Integrated PG,10+2; institute-specific age/marks criteria,IIM Indore / IIMs as applicable,https://www.iimidr.ac.in/academic-programmes/five-year-integrated-programme-in-management-ipm/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-IRDAI-INSURANCE-73AA6,UNI-MANAGEMENT,IRDAI Insurance Licensing/Certification,Professional/Regulatory,As per IRDAI rules and role,IRDAI,https://irdai.gov.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-JIPMAT-7438F,UNI-MANAGEMENT,JIPMAT,Integrated PG,10+2 criteria as per notification,NTA,https://exams.nta.ac.in/JIPMAT/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-MAH-MBA-MMS-CET-7BB31,UNI-MANAGEMENT,MAH MBA/MMS CET,PG MBA/MMS,Bachelor's degree with marks criteria as per State CET Cell brochure,State CET Cell Maharashtra,https://cetcell.mahacet.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-MAT-A6939,UNI-MANAGEMENT,MAT,PG MBA/PGDM,Graduation; final year may apply as per AIMA rules,AIMA,https://mat.aima.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-NCHM-JEE-6F7C4,UNI-MANAGEMENT,NCHM JEE,UG Hospitality,10+2 criteria as per NTA/NCHM notification,NTA/NCHMCT,https://exams.nta.ac.in/NCHM/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-NISM-CERTIFICATI-CE82B,UNI-MANAGEMENT,NISM Certifications,Professional Certification,Varies by module,NISM/SEBI ecosystem,https://www.nism.ac.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-NMAT-2A2F0,UNI-MANAGEMENT,NMAT,PG MBA,Graduation criteria as per accepting institute,GMAC/NMAT by GMAC,https://www.mba.com/exams/nmat,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-SNAP-11938,UNI-MANAGEMENT,SNAP,PG MBA,Graduation criteria as notified by SIU,Symbiosis International University,https://www.snaptest.org/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-MGT-XAT-452C6,UNI-MANAGEMENT,XAT,PG MBA/PGDM,Bachelor's degree; no fixed age limit mentioned by XAT guidance,XLRI Jamshedpur,https://xatonline.in/,Validated,0.6.1a,4-Strcutured-Management.xlsx
+EXAM-SCI-AAI-ATC-E999D,UNI-SCIENCE,AAI ATC,National,,Airports Authority of India,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-AEEE-AMRITA-4B9DD,UNI-SCIENCE,AEEE (Amrita),Institute,,Amrita University,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-AFCAT-76F62,UNI-SCIENCE,AFCAT,National,,Indian Air Force,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-AGNIVEER-ENTRY-47343,UNI-SCIENCE,Agniveer Entry,Mass/National,,Defence Forces,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-AIIMS-NURSING-E0F0B,UNI-SCIENCE,AIIMS Nursing,National,,AIIMS,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-AIR-FORCE-X-Y-F6F25,UNI-SCIENCE,Air Force X/Y,National,,Indian Air Force,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-AP-EAMCET-75240,UNI-SCIENCE,AP EAMCET,State (Andhra Pradesh),,State Council,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-BITSAT-5FB0E,UNI-SCIENCE,BITSAT,Institute,,BITS Pilani,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-CAPF-AC-2F8FD,UNI-SCIENCE,CAPF (AC),National,,UPSC,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-CDS-BC41C,UNI-SCIENCE,CDS,National,,UPSC,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-CMI-ENTRANCE-690F1,UNI-SCIENCE,CMI Entrance,National,,CMI,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-COMEDK-UGET-CBFF0,UNI-SCIENCE,COMEDK UGET,State/Private,,Consortium Karnataka,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-CUET-UG-6B4BC,UNI-SCIENCE,CUET UG,National,,NTA,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-DEFENCE-TRADESMA-E3A84,UNI-SCIENCE,Defence Tradesman Exams,National,,Defence Forces,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-DGCA-EXAMS-E57C5,UNI-SCIENCE,DGCA Exams,National,,DGCA,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-FLYING-SCHOOL-EN-9732F,UNI-SCIENCE,Flying School Entrance,Institute,,Flying Schools,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-GATE-E8450,UNI-SCIENCE,GATE,National,,IITs/IISc,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-GUJCET-473FE,UNI-SCIENCE,GUJCET,State (Gujarat),,Gujarat Govt,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-ICAR-AIEEA-B9489,UNI-SCIENCE,ICAR AIEEA,National,,NTA,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-IISER-APTITUDE-T-E0D48,UNI-SCIENCE,IISER Aptitude Test,National,,IISERs,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-INI-CET-D1F94,UNI-SCIENCE,INI-CET,National,,AIIMS,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-ISI-ADMISSION-TE-92C64,UNI-SCIENCE,ISI Admission Test,National,,ISI,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-ITI-ENTRANCE-MER-589EF,UNI-SCIENCE,ITI Entrance / Merit,State,,State Govt,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-JEE-ADVANCED-15DAC,UNI-SCIENCE,JEE Advanced,National (Elite),,IITs (rotational),,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-JEE-MAIN-400F7,UNI-SCIENCE,JEE Main,National,,NTA,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-JEE-PAPER-2-B-AR-45F92,UNI-SCIENCE,JEE Paper 2 (B.Arch),National,,NTA,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-JIPMER-NURSING-3DD53,UNI-SCIENCE,JIPMER Nursing,National,,JIPMER,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-KCET-2FAAE,UNI-SCIENCE,KCET,State,,Karnataka Govt,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-KEAM-F7DFB,UNI-SCIENCE,KEAM,State (Kerala),,Kerala Govt,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-KIITEE-3EF22,UNI-SCIENCE,KIITEE,Institute,,KIIT University,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-MAHARASHTRA-ELEM-98A61,UNI-SCIENCE,Maharashtra Elementary Drawing Grade,State,,State Board,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-MAHARASHTRA-INTE-47F47,UNI-SCIENCE,Maharashtra Intermediate Drawing Grade,State,,State Board,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-MET-MANIPAL-ENTR-7CD4D,UNI-SCIENCE,MET (Manipal Entrance),Institute,,Manipal Academy of Higher Education,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-MHT-CET-2FE67,UNI-SCIENCE,MHT-CET,State,,State CET Cell,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-NATA-ARCHITECTUR-C2C52,UNI-SCIENCE,NATA (Architecture),National,,COA,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-NAVY-SSR-AA-1F25E,UNI-SCIENCE,Navy SSR/AA,National,,Indian Navy,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-NDA-39B20,UNI-SCIENCE,NDA,National,,UPSC,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-NEET-PG-495DC,UNI-SCIENCE,NEET PG,National,,NBE,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-NEET-UG-11E50,UNI-SCIENCE,NEET UG,National,,NTA,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-NEST-8487E,UNI-SCIENCE,NEST,National,,NISER/CEBS,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-NID-DAT-AD371,UNI-SCIENCE,NID DAT,National,,NID,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-NIFT-ENTRANCE-FC477,UNI-SCIENCE,NIFT Entrance,National,,NIFT,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-OJEE-3FDE2,UNI-SCIENCE,OJEE,State (Odisha),,Odisha Govt,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-RAILWAY-RECRUITM-C70A7,UNI-SCIENCE,Railway Recruitment (RRB),National,,RRB,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-SCIENCE-OLYMPIAD-03E86,UNI-SCIENCE,Science Olympiads,National/International,,HBCSE,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-SKILL-INDIA-ASSE-14BF5,UNI-SCIENCE,Skill India Assessment,Central,,NSDC,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-SRMJEEE-14958,UNI-SCIENCE,SRMJEEE,Institute,,SRM Institute,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-SSC-GD-0A693,UNI-SCIENCE,SSC GD,National,,SSC,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-STATE-AGRICULTUR-04AAC,UNI-SCIENCE,State Agriculture CET,State,,State Govt,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-STATE-NURSING-EN-C8FB9,UNI-SCIENCE,State Nursing Entrance,State,,State Govt,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-STATE-PARAMEDICA-38DDC,UNI-SCIENCE,State Paramedical CET,State,,State Govt,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-TNEA-COUNSELLING-39B41,UNI-SCIENCE,TNEA (Counselling-Based),State (Tamil Nadu),,TN Govt,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-TS-EAMCET-829FA,UNI-SCIENCE,TS EAMCET,State (Telangana),,State Council,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-UCEED-90177,UNI-SCIENCE,UCEED,National,,IIT Bombay,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-UPES-ENTRANCE-9A163,UNI-SCIENCE,UPES Entrance,Institute,,UPES,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-VETERINARY-VIA-N-ED52C,UNI-SCIENCE,Veterinary (via NEET),National,,NTA,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-VITEEE-C996F,UNI-SCIENCE,VITEEE,Institute,,VIT University,,Validated,0.6.1a,1-Structured-Science.xlsx
+EXAM-SCI-WBJEE-165C0,UNI-SCIENCE,WBJEE,State,,WBJEE Board,,Validated,0.6.1a,1-Structured-Science.xlsx

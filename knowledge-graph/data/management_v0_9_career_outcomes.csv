@@ -1,0 +1,68 @@
+﻿career_outcome_code,universe_code,name,governance_status,version,source_document
+CAR-MGT-GEN-MANATRAI-01,UNI-MANAGEMENT,Management Trainee,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-GEN-PUBLPOLIMANA-01,UNI-MANAGEMENT,Public Policy Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-GEN-PROJMANA-01,UNI-MANAGEMENT,Project Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-GEN-COMPMANA-01,UNI-MANAGEMENT,Compliance Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-GEN-PUBLNARRSOCIIMPA-01,UNI-MANAGEMENT,Public Narrative & Social Impact Communication Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-BUSIDEVEEXECMANA-01,UNI-MANAGEMENT,Business Development Executive/Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-MARKMANA-01,UNI-MANAGEMENT,Marketing Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-LUXUBRANMANA-01,UNI-MANAGEMENT,Luxury Brand Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-PERFMARKMANA-01,UNI-MANAGEMENT,Performance Marketing Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-GROWMANA-01,UNI-MANAGEMENT,Growth Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-COMMMANA-01,UNI-MANAGEMENT,Community Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-CORPCOMMMANA-01,UNI-MANAGEMENT,Corporate Communications Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-REALESTABUSIMANA-01,UNI-MANAGEMENT,Real Estate Business Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-INSUBUSIMANA-01,UNI-MANAGEMENT,Insurance Business Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-BRANPARTMANA-01,UNI-MANAGEMENT,Brand Partnership Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-MKT-INSTSALEMANA-01,UNI-MANAGEMENT,Institutional Sales Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-FIN-FINAMANA-01,UNI-MANAGEMENT,Finance Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-FIN-WEALMANAASSO-01,UNI-MANAGEMENT,Wealth Management Associate,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-FIN-FUNDINVERELAASSO-01,UNI-MANAGEMENT,Fundraising / Investor Relations Associate,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-FIN-BANKOPERMANA-01,UNI-MANAGEMENT,Banking Operations Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-FIN-RISKMANA-01,UNI-MANAGEMENT,Risk Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-HR-HUMARESOMANA-01,UNI-MANAGEMENT,Human Resource Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-HR-HRRECRRECRCONS-01,UNI-MANAGEMENT,HR Recruiter / Recruitment Consultant,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-OPERMANA-01,UNI-MANAGEMENT,Operations Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-SUPPCHAIMANA-01,UNI-MANAGEMENT,Supply Chain Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-RETASTORMANA-01,UNI-MANAGEMENT,Retail Store Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-MANACONS-01,UNI-MANAGEMENT,Management Consultant,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-HOTEHOSPMANA-01,UNI-MANAGEMENT,Hotel / Hospitality Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-EVENMANA-01,UNI-MANAGEMENT,Event Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-AVIAOPERMANA-01,UNI-MANAGEMENT,Aviation Operations Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-LOGIPORTOPERMANA-01,UNI-MANAGEMENT,Logistics / Port Operations Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-EDUCEDTEMANA-01,UNI-MANAGEMENT,Education / EdTech Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-STAROPERASSOMANA-01,UNI-MANAGEMENT,Startup Operations Associate/Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-FRANBUSIMANACONS-01,UNI-MANAGEMENT,Franchise Business Manager/Consultant,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-POLICAMPMANA-01,UNI-MANAGEMENT,Political Campaign Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-PROCMANA-01,UNI-MANAGEMENT,Procurement Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-QUALMANA-01,UNI-MANAGEMENT,Quality Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-TOURBUSIMANA-01,UNI-MANAGEMENT,Tourism Business Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-HERIEXPEMUSEOPER-01,UNI-MANAGEMENT,Heritage Experience & Museum Operations Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-OPS-PUBLOPERLITEBUSI-01,UNI-MANAGEMENT,Publishing Operations & Literary Business Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-ANA-BUSIANAL-01,UNI-MANAGEMENT,Business Analyst,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-ANA-BUSIRESEANAL-01,UNI-MANAGEMENT,Business Research Analyst,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-CONS-MSMEBUSIDIGICONS-01,UNI-MANAGEMENT,MSME Business Digitization Consultant,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-ENT-FAMIBUSIMANA-01,UNI-MANAGEMENT,Family Business Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-PROD-PRODMANA-01,UNI-MANAGEMENT,Product Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-PROD-PRODOPERMANA-01,UNI-MANAGEMENT,Product Operations Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-PROD-CUSTSUCCMANA-01,UNI-MANAGEMENT,Customer Success Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-PROD-REVEOPERANALMANA-01,UNI-MANAGEMENT,Revenue Operations Analyst/Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-PROD-DIGITRANMANA-01,UNI-MANAGEMENT,Digital Transformation Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-DIG-ECOMMOPERMANA-01,UNI-MANAGEMENT,E-commerce Operations Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-DIG-CREABUSIMANA-01,UNI-MANAGEMENT,Creator Business Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-DIG-TALEMANA-01,UNI-MANAGEMENT,Talent Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-AI-NOCODEBUSIAUTO-01,UNI-MANAGEMENT,No-Code Business Automation Consultant,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-AI-AISTRAASSO-01,UNI-MANAGEMENT,AI Strategy Associate,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-AI-PROMOPERMANA-01,UNI-MANAGEMENT,Prompt Operations Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-ESG-DEVESECTMANA-01,UNI-MANAGEMENT,Development Sector Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-ESG-SUSTESGMANA-01,UNI-MANAGEMENT,Sustainability / ESG Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-ESG-CSRMANA-01,UNI-MANAGEMENT,CSR Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-HEA-HOSPADMI-01,UNI-MANAGEMENT,Hospital Administrator,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-HOS-SPORMANA-01,UNI-MANAGEMENT,Sports Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-EDU-TRAIDEVEMANA-01,UNI-MANAGEMENT,Training & Development Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-EDU-COLLINSTADMI-01,UNI-MANAGEMENT,College/Institution Administrator,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-RUR-AGRIMANA-01,UNI-MANAGEMENT,Agribusiness Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-TRAD-INTETRADMANA-01,UNI-MANAGEMENT,International Trade Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-TRAD-MERCMANA-01,UNI-MANAGEMENT,Merchandising Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-CREA-MEDIBUSIMANA-01,UNI-MANAGEMENT,Media Business Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md
+CAR-MGT-CREA-CULTENTEMANA-01,UNI-MANAGEMENT,Cultural Enterprise Manager,Validated baseline,0.9,RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md

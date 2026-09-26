@@ -1,0 +1,13 @@
+{
+  "universe": "UNI-COMMERCE",
+  "version": "0.7",
+  "source": "RSA_SCC_Ontology_v0.7_Commerce_Universe.md",
+  "expected_domain_count": 15,
+  "domain_count": 15,
+  "expected_stream_count": 47,
+  "stream_count": 47,
+  "career_outcome_count": 111,
+  "stream_career_link_count": 111,
+  "streams_without_domain": 0,
+  "unknown_domain_links": 0
+}

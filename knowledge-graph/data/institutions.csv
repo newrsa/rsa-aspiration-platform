@@ -1,0 +1,21 @@
+﻿institution_code,universe_code,name,institution_type,source_url,governance_status,version,source_workbook
+INST-HUM-AKHIL-BHARATIYA-17797,UNI-HUMANITIES,Akhil Bharatiya Gandharva Mahavidyalaya,Music & Dance,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+INST-HUM-BHATKHANDE-SANSK-ECA12,UNI-HUMANITIES,Bhatkhande Sanskriti Vishwavidyalaya,Music & Performing Arts,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+INST-HUM-FTII-PUNE-FC9D8,UNI-HUMANITIES,FTII Pune,Film & Acting,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+INST-HUM-INDIRA-KALA-SANG-C6CF8,UNI-HUMANITIES,Indira Kala Sangeet Vishwavidyalaya,Music & Fine Arts,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+INST-HUM-KALAKSHETRA-FOUN-D3494,UNI-HUMANITIES,Kalakshetra Foundation,Classical Dance & Music,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+INST-HUM-NATIONAL-SCHOOL-448E8,UNI-HUMANITIES,National School of Drama,Theatre,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+INST-HUM-PRACHEEN-KALA-KE-37A11,UNI-HUMANITIES,Pracheen Kala Kendra,"Music, Dance, Fine Arts",,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+INST-INTD-FTII-SRFTI-MEDI-573F3,UNI-INTERDISCIPLINARY,FTII / SRFTI / Media institutes,Specialized media institutions,https://www.ftii.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-IIHMR-HEALTH-MA-91CD0,UNI-INTERDISCIPLINARY,IIHMR / Health management institutes,Specialized private/deemed institutions,https://iihmr.edu.in/program/mba-hospital-and-health-management,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-IISERS-36CE5,UNI-INTERDISCIPLINARY,IISERs,Govt science education/research,https://www.iiseradmission.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-IIT-MADRAS-ONLI-C2783,UNI-INTERDISCIPLINARY,IIT Madras Online Degree Ecosystem,Govt institute online degree,https://onlinedegree.iitm.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-IITS-IIT-SCHOOL-1193D,UNI-INTERDISCIPLINARY,"IITs / IIT schools of design, policy, data",Govt technical institutions,https://www.iitsystem.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-IRMA-797CD,UNI-INTERDISCIPLINARY,IRMA,Specialized rural management institute,https://www.irma.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-MANAGE-HYDERABA-53A40,UNI-INTERDISCIPLINARY,MANAGE Hyderabad,Govt autonomous institute,https://www.manage.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-NID-DESIGN-SCHO-55658,UNI-INTERDISCIPLINARY,NID / Design schools,Design institutes,https://admissions.nid.edu/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-NIFT-540A2,UNI-INTERDISCIPLINARY,NIFT,National fashion institute,https://www.nift.ac.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-NIPER-54D9B,UNI-INTERDISCIPLINARY,NIPER,National pharma institutes,https://www.niper.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-NLSIU-NLUS-F47F1,UNI-INTERDISCIPLINARY,NLSIU / NLUs,Law universities,https://www.nls.ac.in/programme/master-of-public-policy/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-SWAYAM-NPTEL-B9DD6,UNI-INTERDISCIPLINARY,SWAYAM / NPTEL,Govt online learning platforms,https://swayam.gov.in/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+INST-INTD-TISS-E0D01,UNI-INTERDISCIPLINARY,TISS,Public/social science institution,https://admissions.tiss.ac.in/view/10/admissions/ma-admissions/ma-in-public-policy-and-governance/,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx

@@ -1,0 +1,605 @@
+﻿skill_code,name,category,description,governance_status,version,source_workbook
+SKL-HUM-ACADEMIC-WRITING-334D7,"Academic writing, citation style, clarity",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ACCURACY-GRAMMAR-1C191,"Accuracy, grammar, formatting awareness",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ACTING-VOICE-MOVE-8F035,"Acting, voice, movement, teamwork",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-AGE-APPROPRIATE-W-5EFFB,"Age-appropriate writing, imagination, child psychology",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-AI-ERA-HUMANITIES-A594D,AI-era Humanities Skill,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ANALYSIS-IPA-FIEL-311C8,"Analysis, IPA, fieldwork",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ANNOTATION-EVALUA-F1FDC,"Annotation, evaluation, bias detection",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ART-KNOWLEDGE-COM-8616D,"Art knowledge, communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ASSESSMENT-ETHICS-7CC85,"Assessment, ethics, research",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-BILINGUAL-FLUENCY-4BE2C,"Bilingual fluency, accuracy, cultural adaptation, editing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-BILINGUAL-FLUENCY-EAEC1,"Bilingual fluency, accuracy, ethics",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CATALOGUING-METAD-E6A86,"Cataloguing, metadata, preservation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CHILD-DEVELOPMENT-2FC81,"Child development, documentation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CLARITY-STRUCTURE-28B05,"Clarity, structure, user empathy",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CLARITY-USER-EMPA-47A21,"Clarity, user empathy, product thinking",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CLASSIFICATION-SY-16EB7,"Classification, synthesis, source evaluation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CLOSE-READING-STR-36C18,"Close reading, structure, market judgement",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-COMMUNICATION-PRO-4AE9D,"Communication, proofreading, coordination",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-COMMUNICATION-RES-A9944,"Communication, research, creativity, critical thinking",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-COMPETITIVE-EXAM-C58B8,Competitive Exam Discipline,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-COORDINATION-COMM-4E2AD,"Coordination, communication, scheduling",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-COORDINATION-COMM-7EB34,"Coordination, communication, fieldwork",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-COORDINATION-COMM-C1468,"Coordination, communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-COUNSELLING-ASSES-7D583,"Counselling, assessment interpretation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CREATIVE-PORTFOLI-3E1E8,Creative Portfolio,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CREATIVITY-PLANNI-7B503,"Creativity, planning, communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CREATIVITY-PSYCHO-79FB9,"Creativity, psychology, language",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CREATIVITY-TECHNI-0A729,"Creativity, technique, art history",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CRITICAL-THINKING-84D44,"Critical thinking, sensitivity, policy awareness",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CRITICAL-THINKING-8D833,"Critical thinking, argumentation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CULTURAL-AWARENES-4260B,"Cultural awareness, ethical reading, feedback skills",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CURATION-EDITING-AF113,"Curation, editing, community building",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CURATION-EDITORIA-1E2C9,"Curation, editorial judgement, thematic design",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CURATION-NETWORKI-9F76A,"Curation, networking, writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CURRENT-AFFAIRS-W-1A436,"Current affairs, writing, ethics",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-CURRICULUM-DESIGN-37B32,"Curriculum design, writing, pedagogy",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-DIGITAL-MEDIA-POR-701DB,Digital Media Portfolio,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-DIGITAL-WRITING-M-12B26,Digital Writing & Media,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-DOCUMENTATION-TEX-D95C4,"Documentation, textual accuracy, context writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-DRAWING-COMPOSITI-8BB76,"Drawing, composition, storytelling",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-EDITING-AI-EVALUA-552D9,"Editing, AI evaluation, fact-checking",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-EDITING-CURATION-356C8,"Editing, curation, design coordination, audience building",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-EDITING-STRUCTURE-2C300,"Editing, structure, language judgement, author communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-EDITORIAL-JUDGEME-C8A53,"Editorial judgement, networking, business planning",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-EMPATHY-ART-BOUND-57E3F,"Empathy, art, boundaries",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-EMPATHY-ASSESSMEN-5743A,"Empathy, assessment, ethics, research methods",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-EMPATHY-DOCUMENTA-A828A,"Empathy, documentation, fieldwork",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ENGLISH-LANGUAGE-F3889,English / Language,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-EPUB-FORMATTING-L-8633B,"EPUB formatting, layout, quality check",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ETHICAL-REASONING-271D4,"Ethical reasoning, communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ETHICS-POLICY-WRI-612D8,"Ethics, policy, writing, tech awareness",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-FIELDWORK-DOCUMEN-38160,"Fieldwork, documentation, mapping basics",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-FIELDWORK-EDITING-26EE1,"Fieldwork, editing, visual documentation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-FIELDWORK-EXPOSUR-8FCEF,Fieldwork Exposure,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-FIELDWORK-LOCAL-L-11598,"Fieldwork, local language, communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-FIELDWORK-MAPS-PO-8C70F,"Fieldwork, maps, policy writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-FINE-PERFORMING-A-72EDF,Fine/Performing Arts,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-FORMATTING-EDITIN-635D7,"Formatting, editing, metadata, marketing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-GEOGRAPHY-ECA56,Geography,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-GIS-MAPPING-BASIC-5DD81,GIS / Mapping Basics,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-GIS-TOOLS-SPATIAL-147F0,"GIS tools, spatial data, problem-solving",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-GLOBAL-AWARENESS-14444,"Global awareness, writing, languages",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-GRAMMAR-PEDAGOGY-0D287,"Grammar, pedagogy, speaking skills",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-GRAMMAR-STYLE-GUI-FA93D,"Grammar, style guides, attention to detail",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-GRAMMAR-TEXTUAL-A-3F503,"Grammar, textual analysis, patience",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-GRAMMAR-WRITING-C-D3C1B,"Grammar, writing, communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-HISTORY-B576C,History,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-IMAGINATION-DISCI-52C20,"Imagination, discipline, editing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-INTERVIEWING-ETHI-FEBC0,"Interviewing, ethics, archiving",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-JUDGEMENT-LANGUAG-B0240,"Judgement, language quality, policy awareness",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-JUDGEMENT-LANGUAG-D0C77,"Judgement, language, resilience",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LANGUAGE-ATTENTIO-570F4,"Language, attention to detail",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LANGUAGE-CERTIFIC-395CB,Language Certification,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LANGUAGE-CULTURAL-56B84,"Language, cultural understanding",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LANGUAGE-FLUENCY-38E14,"Language fluency, culture, translation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LANGUAGE-MASTERY-21D5A,"Language mastery, culture, writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LANGUAGE-PRECISIO-59F50,"Language precision, cultural fit",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LANGUAGE-PRECISIO-EB553,"Language precision, analysis, AI tool literacy, evaluation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LANGUAGE-REASONIN-73244,"Language, reasoning, ethics",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LEADERSHIP-EDITOR-B7E8D,"Leadership, editorial judgement, project management",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LISTENING-ETHICS-C5A19,"Listening, ethics, interviewing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-LISTENING-SCRIPT-F4145,"Listening, script adaptation, pacing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-MARKET-UNDERSTAND-4F732,"Market understanding, literary judgement, negotiation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-MOTIVATION-COUNSE-83A65,"Motivation, counselling, performance basics",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-OBSERVATION-PHOTO-C164C,"Observation, photography, cataloguing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-ORAL-STORYTELLING-93643,"Oral storytelling, performance, voice, cultural knowledge",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PATIENCE-INCLUSIO-55EBB,"Patience, inclusion, documentation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PEDAGOGY-SUBJECT-5FC8D,"Pedagogy, subject mastery",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PEDAGOGY-TECHNIQU-AA9C9,"Pedagogy, technique, patience",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PEDAGOGY-WRITING-97473,"Pedagogy, writing, assessment design",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PHILOSOPHY-B9D5A,Philosophy,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PLANNING-AUTHOR-C-4FD72,"Planning, author coordination, market research",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-POLICY-WRITING-DA-40760,"Policy writing, data basics, fieldwork",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-POLITICAL-SCIENCE-F9E65,Political Science,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PROMPTING-EDITING-E5191,"Prompting, editing, workflow design",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PSYCHOLOGY-E7233,Psychology,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PSYCHOLOGY-EXPOSU-33E41,Psychology Exposure,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PSYCHOMETRICS-COM-E87CF,"Psychometrics, communication, research",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-PUBLISHING-WORKFL-67C4C,"Publishing workflow, author guidance, platform knowledge",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-READING-DEPTH-THE-CBB60,"Reading depth, theory, writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-READING-EVALUATIO-AAA50,"Reading, evaluation, concise writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-READING-TASTE-NEG-87750,"Reading taste, negotiation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-READING-TREND-ANA-2D05A,"Reading, trend analysis, language awareness",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-REGIONAL-LANGUAGE-76A61,"Regional language mastery, cultural understanding, editing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-REPORTING-FIELD-C-B9670,"Reporting, field coordination, evaluation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-ACADEMIC-EC2F6,"Research, academic writing, teaching",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-CHRONOLO-5305E,"Research, chronology, writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-CONCISE-43AFD,"Research, concise writing, audience building",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-CURATION-58AB5,"Research, curation, communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-DATA-INT-C93CE,"Research, data interpretation, writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-DESIGN-D-113AF,"Research design, data, psychology theory",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-FIELD-EN-8545D,"Research, field engagement, reporting",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-METHODS-D3253,Research Methods,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-PORTFOLI-95945,Research Portfolio,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-SELECTIO-1C4A9,"Research, selection, categorisation, audience sense",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-SOURCE-E-4EF24,"Research, source evaluation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-STANDARD-A523A,"Research standards, peer-review coordination",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-STORYTEL-E2539,"Research, storytelling, digital communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-SYNTHESI-00DD6,"Research synthesis, simplification, citation awareness",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-TAXONOMY-96E50,"Research, taxonomy, summarization",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-VERIFICA-06892,"Research, verification, coordination",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RESEARCH-WRITING-9D949,"Research, writing, audience understanding, argumentation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RIYAZ-PRACTICE-RH-DEC01,"Riyaz/practice, rhythm, stage presence, listening, discipline",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-RIYAZ-THEORY-STAG-693BA,"Riyaz, theory, stage presence",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-SCRIPT-KNOWLEDGE-3305A,"Script knowledge, visual analysis",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-SEO-CATEGORISATIO-D6B51,"SEO, categorisation, keywords, publishing platforms",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-SIMPLIFICATION-PE-0681F,"Simplification, pedagogy, accuracy",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-SOCIOLOGY-6DE4B,Sociology,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-SPATIAL-THINKING-01AA3,"Spatial thinking, maps, writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-STATE-GK-LANGUAGE-2ECB4,"State GK, language, administration",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-STATISTICS-TEST-T-F29D0,"Statistics, test theory, ethics",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-STORY-STRUCTURE-D-23399,"Story structure, dialogue",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-STORYTELLING-HERI-3E5DD,"Storytelling, heritage interpretation, language skills, public speaking",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-STORYTELLING-LOCA-E56DA,"Storytelling, local history, languages",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-STORYTELLING-SOUN-56DC0,"Storytelling, sound editing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-SUBJECT-CLARITY-S-C934F,"Subject clarity, student-friendly writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-TECHNIQUE-DISCIPL-AF08B,"Technique, discipline, rhythm",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-TEXTUAL-ANALYSIS-25EE2,"Textual analysis, neutrality, languages",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-THEORY-CLOSE-READ-52948,"Theory, close reading, argumentation",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-THEORY-FIELDWORK-7E91F,"Theory, fieldwork, academic writing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-THEORY-WRITING-GO-86E06,"Theory, writing, governance understanding",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-TIMING-ADAPTATION-C2C99,"Timing, adaptation, cultural sensitivity",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-TRANSLATION-LOCAL-67AA8,"Translation, localisation, data quality",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-VISUAL-IMAGINATIO-F3420,"Visual imagination, technique, portfolio, design sense",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-VOICE-PRESENCE-RE-50093,"Voice, presence, research",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-WORKFLOW-PLATFORM-9F8F9,"Workflow, platform tools, communication",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-WRITING-ECOLOGY-A-F211D,"Writing, ecology awareness, social analysis",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-WRITING-MEDIA-REL-A27E6,"Writing, media relations, strategy",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-WRITING-PORTFOLIO-8CDA8,Writing Portfolio,,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-WRITING-TRENDS-AN-5C878,"Writing, trends, analytics basics",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-HUM-WRITING-VERIFICAT-7CD79,"Writing, verification, interviewing",,,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+SKL-INTD-ACADEMIC-COUNSEL-AC427,"Academic counselling, outreach, scholarship systems, mentoring",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-ACCESSIBILITY-DI-3D01E,"Accessibility, disability law, rehabilitation planning, assistive tech awareness",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-AGRI-MARKETS-ANA-4D666,"Agri markets, analytics, supply chain, rural fieldwork",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-AGRI-MARKETS-ANA-D7926,"Agri markets, analytics, supply chain",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-AI-RISK-POLICY-W-53F93,"AI risk, policy writing, model governance",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-AML-SMART-CONTRA-D3FDE,"AML, smart contracts, compliance",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-AUDIO-VIDEO-PROD-76668,"Audio-video production, local language communication, participatory media",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-BASIC-SPREADSHEE-FBE92,"Basic spreadsheet, writing, presentation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-BIOLOGY-PYTHON-R-3E593,"Biology, Python/R, statistics, genomics databases",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-BUSINESS-MODEL-D-B1A2A,"Business model design, local market linkage, branding, procurement",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CAMPAIGN-DESIGN-F4D64,"Campaign design, field communication",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CERTIFIED-LEARNI-31D6A,"Certified learning, internships, research methods",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CLIMATE-RISK-GIS-A8835,"Climate risk, GIS, planning",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CODING-SPATIAL-R-B145A,"Coding, spatial reasoning, modelling",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-COGNITION-HCI-AI-D74D2,"Cognition, HCI, AI literacy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-COGNITION-USABIL-206DE,"Cognition, usability, safety, prototyping",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-COLD-CHAIN-SAFET-8FE0A,"Cold chain, safety, procurement",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CONSENT-PROTOCOL-1FF37,"Consent protocols, documentation, biodiversity ethics, data archiving",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CONSUMER-RESEARC-34327,"Consumer research, analytics, experimental methods",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CONSUMER-RESEARC-BD861,"Consumer research, analytics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CONTENT-STRATEGY-4E0E2,"Content strategy, analytics, monetization",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-COUNSELLING-BASI-1EDE2,"Counselling basics, casework, referral systems, trauma-informed practice",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CRAFT-DOCUMENTAT-E736E,"Craft documentation, product design, e-commerce, branding, cluster work",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CRITICAL-THINKIN-49186,"Critical thinking, basic coding, statistics awareness",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CURATION-CONSERV-9DEDC,"Curation, conservation basics, exhibition design, community interpretation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CURATION-STORYTE-9F21B,"Curation, storytelling, event management, archives",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CYBER-LAW-DATA-P-C99E7,"Cyber law, data protection, writing, digital literacy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-CYBER-LAW-EVIDEN-9D759,"Cyber law, evidence, digital forensics basics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-DASHBOARDS-INDIC-58A4D,"Dashboards, indicators, evaluation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-DATA-CLEANING-CH-F889C,"Data cleaning, charts, writing",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-DATA-CLEANING-VI-3F495,"Data cleaning, visualization, investigative writing",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-DATA-RECORDING-L-A33FA,"Data recording, lab discipline, bioinformatics awareness",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-DIGITAL-LITERACY-ABFC5,"Digital literacy, vernacular content, training, ICT tools, field implementation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-DPDP-ACT-KNOWLED-9C79B,"DPDP Act knowledge, audit, contracts, risk",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-ENVIRONMENTAL-LA-91552,"Environmental law, social impact assessment, advocacy, field research",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-EPIDEMIOLOGY-BAS-7D130,"Epidemiology basics, community survey, health communication, nutrition, field ethics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-EQUITY-ANALYSIS-2844F,"Equity analysis, policy writing, qualitative research, constitutional awareness",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-ESG-CARBON-MARKE-5EA06,"ESG, carbon markets, modelling",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-ESG-CARBON-MARKE-C029F,"ESG, carbon markets, financial modelling, policy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-ESG-REPORTING-GR-AA904,"ESG reporting, GRI/BRSR awareness, research",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-ETHICS-POLICY-WR-9152F,"Ethics, policy writing, AI basics, regulatory analysis",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-ETHNOGRAPHIC-RES-79E49,"Ethnographic research, policy analysis, field documentation, constitutional literacy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-EXAM-STRATEGY-PR-C7B7D,"Exam strategy, project documentation, interview skills",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-EXCEL-BI-ACCOUNT-805B1,"Excel/BI, accounting, analytics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-EXCEL-FINANCE-BA-C6AF8,"Excel, finance basics, business communication",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-EXCEL-PYTHON-BI-9C840,"Excel, Python, BI, accounting",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-EXCEL-PYTHON-R-A-3EFFD,"Excel, Python/R, accounting, statistics, BI tools",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-EXPERIMENT-DESIG-168D7,"Experiment design, stats, nudges",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FIELD-IMMERSION-D56BE,"Field immersion, enterprise design, livelihoods",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FIELDWORK-BUSINE-BD019,"Fieldwork, business planning",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FIELDWORK-DATA-L-81D7C,"Fieldwork, data, local language",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FIELDWORK-M-E-BU-59C29,"Fieldwork, M&E, budgeting",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FINANCE-PRODUCT-0B2B1,"Finance, product, analytics, regulation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FINANCE-PRODUCT-1ED75,"Finance, product thinking, data, regulation basics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FINANCIAL-LITERA-9E7DE,"Financial literacy, credit appraisal, data reporting, field audits",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FOOD-DOCUMENTATI-E622A,"Food documentation, hygiene, branding, nutrition, entrepreneurship",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FOOD-SAFETY-OPER-6E207,"Food safety, operations, branding, supply chain",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-FOREST-RIGHTS-AC-77A9F,"Forest Rights Act literacy, land records, community facilitation, legal documentation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-GENDER-ANALYSIS-D68C4,"Gender analysis, program design, community facilitation, documentation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-GIS-HYDROLOGY-PO-BD275,"GIS, hydrology, policy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-GIS-PLANNING-GOV-7962E,"GIS, planning, governance",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-GIS-PYTHON-REMOT-0791E,"GIS, Python, remote sensing",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-GIS-REMOTE-SENSI-64DEE,"GIS, remote sensing, Python, spatial analysis",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-HCI-AI-WORKFLOW-E9005,"HCI, AI workflow, usability",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-HEALTH-DATA-PRIV-0B013,"Health data, privacy, dashboards",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-HEALTH-INDICATOR-C4AC7,"Health indicators, BI, privacy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-HEALTH-SYSTEMS-D-240F2,"Health systems, data dashboards, privacy, Excel/SQL",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-HR-DATA-SURVEYS-A78AC,"HR data, surveys, BI",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-HYDROLOGY-BASICS-E9E80,"Hydrology basics, GIS, policy, project management",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-INSTRUCTIONAL-DE-0F1DA,"Instructional design, LMS, pedagogy, analytics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-INTERVIEWS-USABI-716ED,"Interviews, usability, empathy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-IP-PRODUCT-MARKE-92A5D,"IP, product, market validation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-IPR-BIODIVERSITY-24877,"IPR, biodiversity law, community protocols, documentation ethics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-JOURNEY-MAPPING-93A35,"Journey mapping, systems thinking",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-KYC-AML-COMPLIAN-CE04D,"KYC, AML, compliance analytics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-LEARNING-ANALYTI-1E779,"Learning analytics, assessment, dashboards",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-LEGAL-LITERACY-M-A759F,"Legal literacy, mediation, documentation, field counselling",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-LEGAL-RESEARCH-A-98966,"Legal research, audit, documentation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-LEGAL-RESEARCH-E-7EF39,"Legal research, Excel/SQL, compliance analytics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-LEGAL-SIMPLIFICA-938AA,"Legal simplification, visual design, UX, policy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-LINGUISTICS-PYTH-48183,"Linguistics, Python, NLP, corpus analysis",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-LOCAL-GOVERNANCE-D2D72,"Local governance, PESA awareness, budgeting, gram sabha facilitation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-METADATA-SCANNIN-97CFA,"Metadata, scanning, writing",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-METADATA-TEXT-MI-04F20,"Metadata, text mining, archives",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-MONITORING-EVALU-66F38,"Monitoring & evaluation, survey design, dashboards",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-NLP-CORPUS-PHONE-F521A,"NLP, corpus, phonetics, Python",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-NUTRITION-ASSESS-576BF,"Nutrition assessment, food culture documentation, program implementation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-OPERATIONS-BI-PA-07BDC,"Operations, BI, patient flow",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-OPERATIONS-DEVIC-2F776,"Operations, device basics, hospital workflow, compliance",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-ORAL-HISTORY-TRA-5FDF8,"Oral history, translation, archival metadata, recording ethics, storytelling",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PEDAGOGY-CONTENT-E35B4,"Pedagogy, content, LMS, assessment",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PEDAGOGY-MULTILI-4E864,"Pedagogy, multilingual education, learner assessment, community engagement",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PERFORMANCE-DOCU-EAEB1,"Performance documentation, cultural entrepreneurship, rights-sensitive curation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PHARMA-MARKETING-DF4B1,"Pharma marketing, regulation, market access",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PHONETICS-TRANSC-38BC8,"Phonetics, transcription, translation, digital archiving, community literacy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PLANT-IDENTIFICA-C15D0,"Plant identification, community interviewing, biodiversity documentation, ethics/IPR",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-POLICY-ANALYSIS-5A4B7,"Policy analysis, statistics, writing, field research",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-POLICY-ANALYSIS-92AC4,"Policy analysis, space economy, regulation, tech literacy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-POLICY-ANALYSIS-E0B51,"Policy analysis, writing, data",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PRA-TOOLS-DATA-C-E389D,"PRA tools, data collection, report writing, facilitation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PRICING-POLICY-M-7470D,"Pricing, policy, market research",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PROCESS-DESIGN-A-E6607,"Process design, automation, UI logic",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PRODUCT-DEVELOPM-9E99A,"Product development, procurement, value addition, cluster marketing",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PRODUCT-INTEROPE-EE596,"Product, interoperability, user needs",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PRODUCT-THINKING-305D2,"Product thinking, legal workflows, UX",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PRODUCTION-BUDGE-C4C68,"Production budgeting, rights, distribution, marketing",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-PRODUCTION-ETHIC-E0F32,"Production, ethics, AI workflow",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-READING-OBSERVAT-52290,"Reading, observation, digital familiarity",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-REGIONAL-RESEARC-5CE1B,"Regional research, resource mapping, development documentation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-RESEARCH-INTERVI-50599,"Research, interviewing, reporting",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-RESEARCH-REPORTI-0C9A4,"Research, reporting, standards awareness",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-RESEARCH-WRITING-BFE3E,"Research writing, public speaking, data interpretation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-RESPONSIBLE-TOUR-72DD8,"Responsible tourism, community consent, itinerary design, storytelling",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-RETAIL-ANALYTICS-490B7,"Retail analytics, e-commerce, merchandising",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-RETAIL-MERCHANDI-52215,"Retail, merchandising, textiles, e-commerce",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-RISK-MAPPING-PAR-DDA56,"Risk mapping, participatory planning, GIS basics, climate communication",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-RISK-METRICS-STA-F907D,"Risk metrics, statistics, modelling",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-SENSORS-FARM-DAT-E7777,"Sensors, farm data, advisory",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-SHG-MOBILIZATION-F2E55,"SHG mobilization, microfinance, enterprise planning, accounting basics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-SIMPLIFICATION-V-1156C,"Simplification, visuals, UX",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-SPACE-ECONOMY-RE-139BD,"Space economy, regulation, research",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-STATISTICS-PERFO-38613,"Statistics, performance metrics, scouting, visualization",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-STATISTICS-PSYCH-9E06F,"Statistics, psychology, experiment design, economics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-STATISTICS-PYTHO-D45EC,"Statistics, Python/R, surveys, causal thinking",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-STATISTICS-SURVE-48150,"Statistics, survey design, Excel/R/Python, impact evaluation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-STORYTELLING-CUR-0EDC2,"Storytelling, curation, visitor experience",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-STORYTELLING-LOG-36AFF,"Storytelling, logistics, research",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-SURVEY-EVALUATIO-7CEDC,"Survey, evaluation, reporting",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-SURVEY-RESEARCH-33930,"Survey research, labour law, policy analysis, data interpretation",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-SURVEY-SOCIAL-DA-65F92,"Survey, social data, visualization",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-SURVEY-STATISTIC-59992,"Survey, statistics, health indicators",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-SYSTEMS-THINKING-093A9,"Systems thinking, waste audit, business modelling",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-TAXONOMY-PROMPTS-D88FE,"Taxonomy, prompts, metadata, QA",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-TEXT-ANALYSIS-AR-21C1F,"Text analysis, archiving, metadata, digital storytelling",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-TRADITIONAL-CROP-10908,"Traditional crops, FPO systems, value addition, nutrition branding",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-UPI-ONDC-ABDM-UN-9B621,"UPI/ONDC/ABDM understanding, analytics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-URBAN-FIELD-RESE-F6995,"Urban field research, housing policy, participatory planning, data collection",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-URBAN-RESEARCH-G-F457C,"Urban research, GIS, planning law, data",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-USER-RESEARCH-EM-0306B,"User research, empathy, interviewing, prototyping, analytics",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-USER-RESEARCH-PR-9762B,"User research, prototyping, accessibility standards, empathy testing",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-UX-ANALYTICS-PRO-4D6A9,"UX, analytics, product strategy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-VALUE-CHAIN-ANAL-22E11,"Value-chain analysis, procurement, quality, cooperative marketing",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-WASH-PLANNING-CO-8205D,"WASH planning, community mobilization, monitoring, environmental health",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-WASTE-AUDIT-BUSI-78B8A,"Waste audit, business model",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-WRITING-CAMPAIGN-5D023,"Writing, campaign design, social research, audio-visual skills",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-WRITING-DATA-INT-5BE58,"Writing, data, interviews",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-WRITING-VISUALIZ-4B55B,"Writing, visualization, science literacy",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-WRITING-VISUALIZ-7489A,"Writing, visualization, public science",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-INTD-WRITING-VISUALIZ-A8D3D,"Writing, visualization, public speaking",,,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+SKL-LAW-ADMINISTRATION-PR-79922,"Administration, procedure, records, public dealing",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-ADR-PROCESS-DESIG-A9F85,"ADR, process design, communication, data privacy",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-ADVOCACY-54DD7,Advocacy,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-ADVOCACY-DRAFTING-D6A6F,"Advocacy, drafting, client counselling, evidence, procedure",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-AI-LAW-ETHICS-RIS-A08C2,"AI law, ethics, risk, model governance, contracts",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-AML-LAW-INVESTIGA-FA125,"AML law, investigation, data analysis, reporting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-BUSINESS-AC298,Business,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CATALOGUING-LEGAL-E2535,"Cataloguing, legal research, digitization, preservation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-COMMUNITY-OUTREAC-B148A,"Community outreach, basic law, documentation, empathy",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-COMPANY-LAW-GOVER-C0CFE,"Company law, governance, filings, board process",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-COMPANY-LAW-IBC-D-8EC5F,"Company law, IBC, drafting, advocacy",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-COMPETITION-LAW-E-84684,"Competition law, economics, data analysis, drafting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-COMPLIANCE-3DC36,Compliance,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONSTITUTIONAL-LA-83655,"Constitutional law, advocacy, empathy, field research",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONSUMER-LAW-DRAF-B713D,"Consumer law, drafting, evidence, negotiation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONTRACTS-ADMIRAL-266B3,"Contracts, admiralty, insurance, logistics",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONTRACTS-CODE-LI-72492,"Contracts, code literacy, fintech law, risk",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONTRACTS-COPYRIG-00674,"Contracts, copyright, licensing, negotiation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONTRACTS-DISPUTE-3351E,"Contracts, dispute resolution, sponsorship, IP",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONTRACTS-FINANCE-EE2C6,"Contracts, finance, procurement, regulation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONTRACTS-NEGOTIA-24AFB,"Contracts, negotiation, company law, securities law, commercial awareness",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONTRACTS-PROCEDU-928A9,"Contracts, procedure, negotiation, cross-border law",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONTRACTS-PROCESS-A0ECB,"Contracts, process, metadata, negotiation support",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CONTRACTS-RISK-CO-53543,"Contracts, risk, compliance, business communication",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CRIMINAL-LAW-COMP-DA921,"Criminal law, company law, evidence, strategy",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CRIMINAL-LAW-EVID-9AD37,"Criminal law, evidence, advocacy, victim sensitivity",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CRPC-BNSS-EVIDENC-23215,"CrPC/BNSS, evidence, privacy, investigation process",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CSR-LAW-GRANT-CON-8F0D9,"CSR law, grant contracts, monitoring, reporting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-CYBER-FORENSICS-1CAC8,Cyber/Forensics,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-DATA-11194,Data,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-DATA-CLEANING-VIS-6A898,"Data cleaning, visualization, legal taxonomy, statistics",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-DESIGN-THINKING-P-9E830,"Design thinking, plain language, law, user research",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-DOCUMENT-VERIFICA-D3762,"Document verification, ethics, record keeping",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-DOCUMENTATION-RES-8A978,"Documentation, research, filing, client communication",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-DOCUMENTATION-VER-867F0,"Documentation, verification, record keeping",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-DPDP-GDPR-BASICS-E0D7B,"DPDP, GDPR basics, DPIA, vendor contracts, cyber awareness",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-EDITING-CITATION-01F96,"Editing, citation, copyright, taxonomy, metadata",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-EDUCATION-REGULAT-D64F4,"Education regulation, contracts, policy, dispute resolution",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-ENERGY-REGULATION-100C3,"Energy regulation, contracts, finance, climate law",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-ENTREPRENEURSHIP-8F1F8,"Entrepreneurship, law, product, marketing, compliance",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-ENVIRONMENTAL-LAW-BFA6A,"Environmental law, ESG reporting, litigation, science literacy",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-ETHICS-8B4D3,Ethics,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-ETHICS-CONFLICTS-3685E,"Ethics, conflicts, confidentiality, policy drafting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-EVIDENCE-FORENSIC-7DE38,"Evidence, forensic methods, report interpretation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-EVIDENCE-LAW-FORE-28A34,"Evidence law, forensic imaging, chain of custody",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-FAMILY-LAW-COUNSE-00108,"Family law, counselling, negotiation, drafting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-FCRA-CONTRACTS-GO-92624,"FCRA, contracts, governance, reporting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-FINANCE-CONTRACTS-7F8BE,"Finance, contracts, security creation, regulation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-FOOD-REGULATIONS-BC153,"Food regulations, audits, labeling, contracts",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-FUND-STRUCTURES-S-24DF0,"Fund structures, securities law, tax, contracts",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-FUTURE-SECTOR-FCA69,Future Sector,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-HUMAN-SKILLS-2E74F,Human Skills,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-IBC-FINANCE-MANAG-5747B,"IBC, finance, management, negotiation, ethics",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-IBC-PROCESS-FINAN-4B9DB,"IBC process, finance, documentation, stakeholder communication",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-IMMIGRATION-LAW-D-6533D,"Immigration law, documentation, client counselling",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-INSURANCE-LAW-CON-59267,"Insurance law, contracts, claims, litigation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-INTERNATIONAL-LAW-A50D1,"International law, drafting, negotiation, languages",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-INTERNATIONAL-SPA-0E080,"International space law, contracts, telecom, policy",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-INTERNATIONAL-TRA-961D3,"International trade law, economics, customs, writing",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-IP-LAW-SEARCH-DRA-4EC74,"IP law, search, drafting, prosecution, licensing",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-ISSUE-CODING-PRIV-F3A3F,"Issue coding, privilege, confidentiality, platform skills",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-IT-ACT-EVIDENCE-D-53604,"IT Act, evidence, digital forensics, incident reporting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-LABOUR-LAW-NEGOTI-2E017,"Labour law, negotiation, HR policy, dispute resolution",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-LANGUAGE-A17A2,Language,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-LANGUAGE-LEGAL-TE-68C86,"Language, legal terminology, accuracy, confidentiality",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-LAW-SUBJECTS-PROC-86D0D,"Law subjects, procedure, judgment writing, ethics",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-LEGAL-CORE-4EB82,Legal Core,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-LEGAL-MERITS-ANAL-69109,"Legal merits analysis, finance, risk, negotiation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-LEGAL-PROCESS-PRO-88889,"Legal process, project management, quality, client delivery",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-LEGAL-RESEARCH-DR-640BC,"Legal research, drafting, confidentiality, case law",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-LEGISLATIVE-RESEA-34D1B,"Legislative research, drafting, constitutional law",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-MEDICAL-NEGLIGENC-3E72B,"Medical negligence, consent, privacy, regulation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-MILITARY-LAW-DISC-8A560,"Military law, discipline, advocacy, leadership",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-NEUTRALITY-COMMUN-D6E11,"Neutrality, communication, negotiation, drafting settlement",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-PAYMENTS-LAW-DATA-8824B,"Payments law, data, consumer protection, contracts",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-POLICY-F1471,Policy,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-PRIVACY-PUBLIC-LA-8AABC,"Privacy, public law, platform governance, contracts",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-PROCESS-DESIGN-ME-C7721,"Process design, metrics, vendor management, dashboards",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-PRODUCT-LAW-LABEL-6D3E2,"Product law, labeling, audits, documentation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-PRODUCT-THINKING-8C98D,"Product thinking, legal workflows, UX, analytics",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-PROMPTING-LEGAL-R-2FEF4,"Prompting, legal reasoning, QA, workflow mapping, privacy",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-PUBLIC-ADMINISTRA-CCA41,"Public administration, law, policy, ethics",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-RECRUITMENT-LEGAL-92A58,"Recruitment, legal role mapping, communication, negotiation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-REGULATION-CONTRA-0795B,"Regulation, contracts, liability, leasing",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-REGULATION-CONTRA-C1CBF,"Regulation, contracts, ethics, documentation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-REGULATION-INTERP-86192,"Regulation interpretation, filings, stakeholder management",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-REGULATION-TRACKI-3FD71,"Regulation tracking, risk assessment, reporting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-RESEARCH-CITATION-C407C,"Research, citation, writing, synthesis, policy analysis",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-RESEARCH-PEDAGOGY-27421,"Research, pedagogy, publication, curriculum design",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-RESEARCH-REVIEW-A-6698A,"Research, review, abstraction, English drafting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-RESEARCH-STATISTI-E5FEE,"Research, statistics, criminal law, fieldwork",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-RISK-ASSESSMENT-C-368D5,"Risk assessment, contracts, compliance, communication",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-SECURITIES-LAW-DR-3FD50,"Securities law, drafting, due diligence, finance",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-SKILL-DOMAIN-4F5EB,Skill Domain,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-TAX-LAW-ACCOUNTIN-86383,"Tax law, accounting, litigation, drafting",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-TAXONOMY-RESEARCH-F9C32,"Taxonomy, research, precedent management, training",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-TECHNICAL-ANALYSI-7AD21,"Technical analysis, claim drafting, patent law",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-TECHNOLOGY-D899C,Technology,,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-TITLE-DUE-DILIGEN-C1CF7,"Title due diligence, drafting, RERA, negotiation",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-TRADEMARK-SEARCH-82AEF,"Trademark search, drafting, opposition, enforcement",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-TYPING-STENO-LIST-0742D,"Typing/steno, listening, legal vocabulary, confidentiality",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-WRITING-LAW-BASIC-17511,"Writing, law basics, interviewing, verification",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-LAW-WRITING-LEGAL-RES-C264A,"Writing, legal research, editing, SEO, plain language",,,Validated,0.6.1a,5-Structured- Law.xlsx
+SKL-MGT-AI-LITERACY-4621E,AI Literacy,,AI is changing managerial workflows,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-AMAZON-FLIPKART-O-5B1E9,"Amazon/Flipkart/ONDC listing, cataloguing, pricing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-AQUACULTURE-COLD-F1B78,"Aquaculture, cold chain, marketing, compliance",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-BOOKKEEPING-COMPL-38D32,"Bookkeeping, compliance, marketing, digital adoption",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-BOOKKEEPING-MARKE-434E8,"Bookkeeping, market linkage, scheme documentation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-BRAND-STORYTELLIN-25EFA,"Brand storytelling, IPR awareness, packaging, digital sales",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-BRANDING-ETIQUETT-61F93,"Branding, etiquette, consumer psychology",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-BRANDING-PACKAGIN-F26F4,"Branding, packaging, storytelling, buyer relations, data tracking",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-BUSINESS-MODEL-PI-ED452,"Business model, pitch, finance, product-market fit",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-BUSINESS-RESEARCH-EA28B,Business Research,,"Needed for strategy, consulting, planning and market entry",Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CALENDAR-DOCUMENT-44398,"Calendar, documentation, CRM, research, coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CATALOGING-PRICIN-C4562,"Cataloging, pricing, supply chain, ads",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CATALOGUING-SELLE-64961,"Cataloguing, seller onboarding, order operations",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CATALOGUING-SELLE-A4467,"Cataloguing, seller training, digital payments, logistics coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CERTIFICATION-LIT-2C36A,"Certification literacy, supplier coordination, cold-chain, Excel, negotiation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CHANGE-MANAGEMENT-78D3C,"Change management, process, stakeholder mgmt",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CLIENT-DISCOVERY-AFEA8,Client discovery and process design,,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CLIENT-RELATIONSH-86047,"Client relationship, markets, compliance",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CLIENT-SUCCESS-RE-F032C,"Client success, retention, onboarding, analytics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CLUSTER-COORDINAT-0C241,"Cluster coordination, design sense, costing, sustainable sourcing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CLUSTER-COORDINAT-2E544,"Cluster coordination, quality grading, B2B sales, basic biology, logistics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CLUSTER-COORDINAT-6DA58,"Cluster coordination, merchandising, costing, quality, storytelling",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNICATION-00FDE,Communication,,"Management requires clarity across teams, clients and stakeholders",Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNICATION-ANA-58F60,"Communication, analytics, creativity, persuasion",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNICATION-ANA-B01F7,"Communication, analytical ability, teamwork",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNICATION-SOC-4E1A1,"Communication, social analytics, contracts basics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNITY-FACILIT-F7375,"Community facilitation, records, GIS basics, negotiation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNITY-MOBILIS-52DD7,"Community mobilisation, MIS, microenterprise",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNITY-MOBILIZ-0D386,"Community mobilization, accounting, compliance, market linkage, MIS",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNITY-MOBILIZ-5EAAC,"Community mobilization, training, accounting, micro-enterprise planning",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNITY-MODERAT-856EC,"Community moderation, funnels, content, analytics, empathy",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COMMUNITY-TRUST-E-1E661,"Community trust, ethical sourcing, inventory, grant/project management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CONSULTING-DIGITA-CA6B0,"Consulting, digital tools, training",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CONSUMER-INSIGHT-EECEA,"Consumer insight, branding, campaign planning",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CONTENT-CALENDAR-480FA,"Content calendar, brand deals, analytics, negotiations",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COORDINATION-DATA-C81F5,"Coordination, data, communication, confidentiality",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COORDINATION-NEGO-B3D06,"Coordination, negotiation, networking, production",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COORDINATION-SAFE-47429,"Coordination, safety mindset, service quality",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COPY-ANALYTICS-BU-5812D,"Copy, analytics, budgeting, experimentation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COUNSELLING-OPERA-1BC6E,"Counselling, operations, sales, learning design",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-COUNSELLING-WRITI-D34FE,"Counselling, writing, ethics, admission knowledge",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CREATIVE-TESTING-8668C,Creative testing and budget judgment,,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CRISIS-LOGISTICS-39420,"Crisis logistics, inventory, calm decision-making, coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CRM-PRODUCT-TRAIN-5CF35,"CRM, product training, vernacular communication, data literacy",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CRM-TOOLS-SALES-P-E374D,"CRM tools, sales process",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CROSS-FUNCTIONAL-A9296,Cross-functional coordination,,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CROWD-MANAGEMENT-F2851,"Crowd management, ethics, finance, public communication, logistics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CULTURE-HISTORY-L-60017,"Culture, history, language and audience experience",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-CUSTOMER-SERVICE-84ED4,"Customer service, team management, merchandising",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DATA-HANDLING-COM-151A2,"Data handling, communication, ethics, field logistics, crisis response",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DATA-HYGIENE-FUNN-14FDD,"Data hygiene, funnel analytics, process design",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DATA-INTERPRETATI-4E6EA,"Data interpretation, SQL, dashboards, business writing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DATA-INTERPRETATI-5DF86,Data Interpretation,,Essential for CAT/CMAT/MBA and business dashboards,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DESK-RESEARCH-EXC-5639D,"Desk research, Excel, report writing, data validation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DIGITAL-MARKETING-7380E,"Digital marketing basics, reporting",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DIGITAL-MARKETING-82EB0,Digital Marketing Literacy,,Useful even for non-marketing entrepreneurs and managers,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DIGITAL-TOOLS-COM-C3700,"Digital tools, communication",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DIGITAL-TOOLS-DAT-E18CB,"Digital tools, data, cyber awareness, online service delivery",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DISCORD-WHATSAPP-A278C,"Discord/WhatsApp/Telegram, moderation, engagement design",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DOCUMENTATION-NEG-E1E2F,"Documentation, negotiation, foreign trade policy",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DOCUMENTATION-PLA-EC419,"Documentation, planning, vendor coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DOCUMENTATION-POL-4EA04,"Documentation, policy literacy, risk thinking, stakeholder coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DOCUMENTATION-REG-8B854,"Documentation, regulation, ethics, stakeholder mgmt",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DOCUMENTATION-SCH-17D82,"Documentation, scheduling, policy, coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-DUE-DILIGENCE-NEG-B50D2,"Due diligence, negotiation, operations audit",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EMPATHY-FACILITY-777FD,"Empathy, facility management, compliance, communication, service design",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EMPATHY-FAIRNESS-37229,"Empathy, fairness, interviewing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EMPATHY-INTERVIEW-FE65B,"Empathy, interviewing, analytics, policy writing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-ENGAGEMENT-CONTEN-D62F2,"Engagement, content, empathy, events",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-ENTERPRISE-PITCHI-EC473,"Enterprise pitching, negotiation, account planning",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-ENTREPRENEURIAL-M-73031,Entrepreneurial Mindset,,"Helps create livelihoods, not only jobs",Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-ETHICAL-REPORTING-5BCE5,Ethical reporting and stakeholder engagement,,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-ETHICAL-SOURCING-246F3,"Ethical sourcing, quality control, packaging, branding, e-commerce",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-ETHICS-COMPLIANCE-1EE94,Ethics & Compliance Awareness,,"Important in BFSI, HR, healthcare, CSR, real estate",Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EVENT-OPS-SPONSOR-143C8,"Event ops, sponsorship, evaluation design",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EVENT-OPS-SPONSOR-F6895,"Event ops, sponsorship, community engagement, budgeting, social media",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EXCEL-DATA-VERIFI-FB544,"Excel, data verification, regulation awareness, reporting, analytics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EXCEL-SPREADSHEET-15C39,Excel / Spreadsheet Skills,,Common base tool for almost all business roles,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EXCEL-VALUATION-C-FCEFB,"Excel, valuation, compliance, numeracy",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EXCEL-VALUATION-R-CE7F1,"Excel, valuation, risk, compliance",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EXECUTION-PRIORIT-AF13E,"Execution, prioritization, documentation, metrics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EXECUTION-RESILIE-E0126,"Execution, resilience, networking, finance",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EXPERIMENTATION-A-FA867,"Experimentation, acquisition, retention, data",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-EXPORT-DOCUMENTAT-057F5,"Export documentation, quality systems, cold-chain, negotiation, Excel",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-FACILITATION-PSYC-4612B,"Facilitation, psychology, business communication",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-FIELD-OPS-MESSAGI-7DFEA,"Field ops, messaging, data, volunteer mgmt",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-FISHERY-VALUE-CHA-E4244,"Fishery value chain, accounting, cold-chain basics, marketing, compliance",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-FOOD-SAFETY-PACKA-A6936,"Food safety, packaging, costing, digital marketing, inventory",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-GOOGLE-BUSINESS-P-32B93,"Google Business Profile, WhatsApp Business, UPI/ONDC basics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-HEALTH-OPERATIONS-9227F,"Health operations, patient services, digital records",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-HISTORY-ARCHAEOLO-4DB7B,"History, archaeology, curation, storytelling",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-HOSPITALITY-STORY-E9555,"Hospitality, storytelling, product sales, safety, vendor management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-HOSPITALITY-WELLN-0C2D8,"Hospitality, wellness literacy, digital marketing, vendor management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-INTERVIEWING-LABO-C42AC,"Interviewing, labour awareness, empathy, analytics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-JUDGMENT-CONTEXT-DFDC4,"Judgment, context, accountability",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-LABOUR-COORDINATI-4DCEF,"Labour coordination, procurement, compliance, finance, MIS",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-LANDING-PAGES-EMA-BDBC2,"Landing pages, email/WhatsApp funnels, Zoom, payment flow",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-LEADERSHIP-TEAMWO-B6B11,Leadership & Teamwork,,Management is execution through people,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-LINKEDIN-NAUKRI-S-B2109,"LinkedIn/Naukri sourcing, interviewing, client coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-LISTENING-HR-INSI-931CD,"Listening, HR insight, coaching, communication",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-LITERATURE-LANGUA-F6355,"Literature, language, editing and critical thinking",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-LOCAL-SALES-APP-T-7E080,"Local sales, app training, patience, bookkeeping, customer support",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-LOCATION-SCOUTING-FEEE3,"Location scouting, basic unit economics, vendor coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-MARKETPLACE-KNOWL-B2166,"Marketplace knowledge, Excel, cataloging",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-META-GOOGLE-BASIC-94DFA,"Meta/Google basics, copywriting, Canva, analytics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-NEGOTIATION-ANALY-72A86,"Negotiation, analytics, content strategy, communication, basic legal awareness",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-NEGOTIATION-BUDGE-2FD4C,"Negotiation, budgeting, content strategy",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-NEGOTIATION-CONTR-98785,"Negotiation, contracts, costing, ethics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-NEGOTIATION-SCHED-513F6,"Negotiation, scheduling, reputation management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-NEGOTIATION-SCHED-BF122,"Negotiation, scheduling, monetization, brand deals",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-NETWORKING-NEGOTI-2B467,"Networking, negotiation, proposal writing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-OPERATIONS-COMPLI-2788A,"Operations, compliance, empathy, data",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-OPERATIONS-COMPLI-55B53,"Operations, compliance, vendor management, community awareness, costing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-OPERATIONS-COMPLI-DE7A3,"Operations, compliance, customer service",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-OPERATIONS-DATA-D-D0AB7,"Operations, data dashboards, stakeholder management, service design",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-OPERATIONS-EXCEL-508E6,"Operations, Excel, process mapping",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-OPERATIONS-FINANC-75C63,"Operations, finance, negotiation, people management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-OPERATIONS-QUALIT-39124,"Operations, quality, supply chain, vendor management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PATIENCE-QUALITY-E734A,"Patience, quality control, artisan-market linkage, finance",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PEDAGOGY-CONTENT-09CD9,"Pedagogy, content, LMS, learner support",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PEOPLE-MANAGEMENT-7C436,"People management, costing, quality, labour law awareness, marketing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PERSUASION-NEGOTI-0F763,"Persuasion, negotiation, pipeline management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PLANNING-RISK-COM-A4920,"Planning, risk, communication, stakeholder mgmt",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PLANNING-SERVICE-1C403,"Planning, service, vendor mgmt, language",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-POLICY-WRITING-ST-B2D85,"Policy writing, stakeholder management, research",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-POWERPOINT-CANVA-0D844,"PowerPoint/Canva, storytelling, financial basics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PRD-WRITING-METRI-B055F,"PRD writing, metrics, user research, systems thinking",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PRESENTATION-STOR-11924,Presentation / Storytelling,,Needed to influence decisions and communicate insights,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PRIORITIZATION-AN-73841,Prioritization and user empathy,,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROBLEM-FRAMING-A-49304,Problem framing and interpretation,,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROBLEM-FRAMING-D-6EF34,"Problem framing, data interpretation, documentation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROCESS-CONTROL-A-346BC,"Process control, audit, documentation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROCESS-DOCUMENTA-D478E,"Process, documentation, stakeholder coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROCESS-MAPPING-C-C4616,"Process mapping, client discovery, automation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROCESS-MAPPING-N-E6BDC,"Process mapping, no-code tools",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROCESS-MAPPING-Q-08090,"Process mapping, quality, problem-solving",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROCESS-THINKING-C9718,"Process thinking, negotiation, Excel, vendor management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PRODUCTION-PLANNI-9ABF5,"Production planning, record-keeping, vendor management, risk management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROJECT-MANAGEMEN-058C7,"Project management, vendor control, safety, budgeting, crisis response",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROJECT-MANAGEMEN-52CA9,"Project management, public systems, data dashboards",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROJECT-MANAGEMEN-A1799,"Project management, LMS, marketing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROJECT-MANAGEMEN-AD63E,"Project management, community engagement, grant writing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROMPT-DESIGN-QA-07026,"Prompt design, QA, documentation, domain judgment",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROMPTING-PROCESS-55543,"Prompting, process mapping, change management, SOP writing, analytics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-PROPOSAL-REVIEW-M-42433,"Proposal review, monitoring, reporting",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-QUANTITATIVE-ANAL-7E632,"Quantitative analysis, policy, compliance",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-QUANTITATIVE-APTI-D2117,Quantitative Aptitude,,"Needed for exams, finance, analytics and decision making",Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-REGIONAL-COPYWRIT-D3AED,"Regional copywriting, marketplace ops, customer support, analytics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-RELATIONSHIP-AND-90664,Relationship and negotiation,,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-REPORTING-STAKEHO-F5665,"Reporting, stakeholder engagement, data, ethics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-REPORTING-STAKEHO-F6EA4,"Reporting, stakeholder engagement, data analysis",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-RESEARCH-EXCEL-WR-BC270,"Research, Excel, writing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-RESEARCH-FINANCE-47F97,"Research, finance basics, retail understanding",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-RESEARCH-WRITING-DBD7C,"Research, writing, ethics, data validation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-RESPONSIBLE-TOURI-F9B98,"Responsible tourism, risk management, community coordination, marketing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-RESUME-WRITING-LI-460AC,"Resume writing, LinkedIn optimization, interviewing basics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-RISK-ASSESSMENT-L-2D3C3,"Risk assessment, logistics, first aid, customer briefing, vendor control",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-RURAL-FINANCE-COM-F59F4,"Rural finance, community mobilisation, market linkage",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-RURAL-MARKETING-P-18541,"Rural marketing, procurement, field research",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SALES-COMPLIANCE-0D5E5,"Sales, compliance, financial planning",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SALES-LEGAL-BASIC-72BFD,"Sales, legal basics, negotiation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SALES-NEGOTIATION-8DBF8,Sales & Negotiation,,Revenue ability creates employability and entrepreneurship,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SCHEDULING-SAFETY-EC009,"Scheduling, safety, unit economics, farmer sales, data handling",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SCM-ANALYTICS-DOC-55744,"SCM, analytics, documentation, multimodal logistics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SECONDARY-RESEARC-33374,"Secondary research, analysis, writing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SERVICE-OPERATION-0B819,"Service operations, compliance, empathy, data",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SERVICE-OPERATION-C8E3A,"Service, operations, language, crisis handling",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SOCIOLOGY-POLITIC-E032C,"Sociology, political science, language, ethics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SOP-WRITING-EXCEL-76CE6,"SOP writing, Excel, basic process mapping",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SOURCING-INTERVIE-2F31B,"Sourcing, interviewing, LinkedIn/Naukri use",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SOURCING-INTERVIE-C04F8,"Sourcing, interviewing, coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SPECIES-CARE-INVE-7EC51,"Species care, inventory, digital marketing, customer handling",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SPONSORSHIP-EVENT-C663B,"Sponsorship, event ops, athlete coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SPORTS-OPERATIONS-40299,"Sports operations, sponsorship, event logistics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-STORYTELLING-FINA-2863B,"Storytelling, finance, design, market research",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-STORYTELLING-FINA-B13C7,"Storytelling, finance, investor communication",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-STORYTELLING-ITIN-E99FB,"Storytelling, itinerary design, local networking, safety, digital marketing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-STORYTELLING-POWE-D5F40,"Storytelling, PowerPoint, design basics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-STRUCTURED-PROBLE-5DB29,"Structured problem solving, Excel, presentation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-STRUCTURED-THINKI-EB6BD,"Structured thinking, research, presentation, finance basics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SUPPLY-CHAIN-ACCO-7FF7C,"Supply chain, accounting, member communication, quality testing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-SUPPLY-CHAIN-ANAL-B52A7,"Supply chain analytics, vendor audit, ESG reporting, negotiation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-TEACHING-SCRIPTIN-A5ED0,"Teaching, scripting, editing, audience building",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-TEACHING-SCRIPTIN-EA7F4,"Teaching, scripting, audience analytics",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-TEAM-MANAGEMENT-Q-1A756,"Team management, quality control, computer skills, reporting",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-TOUR-OPERATIONS-C-8B4D9,"Tour operations, customer service, safety, digital booking, local culture",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-TOURISM-OPERATION-283C7,"Tourism operations, storytelling, vendor management",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-TRAINING-DESIGN-A-E4CEF,"Training design, assessment, placement coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-TRAINING-DESIGN-C-1C940,"Training design, communication",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-TRAINING-DESIGN-F-180CB,"Training design, facilitation, evaluation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-TREND-SENSE-PLANN-F8DD1,"Trend sense, planning, vendor coordination",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-USE-CASE-DISCOVER-50AC5,"Use-case discovery, ROI thinking, change mgmt",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-USER-RESEARCH-PRI-68332,"User research, prioritization, data, writing PRDs",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-VENDOR-COORDINATI-233F0,"Vendor coordination, budgeting, creativity",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-VENDOR-COORDINATI-FF272,"Vendor coordination, budgeting",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-VENDOR-MANAGEMENT-3F471,"Vendor management, planning, negotiation",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-VENDOR-MANAGEMENT-D6EFB,"Vendor management, budgeting, permissions, promotion",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-WRITING-HR-INSIGH-92D40,"Writing, HR insight, personal branding",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-WRITING-POSITIONI-58FC9,"Writing, positioning, recruitment knowledge",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-WRITING-STAKEHOLD-9CD19,"Writing, stakeholder handling, reputation mgmt",,,Validated,0.6.1a,4-Strcutured-Management.xlsx
+SKL-MGT-WRITING-STRUCTURE-5651E,"Writing, structure, research, editing",,,Validated,0.6.1a,4-Strcutured-Management.xlsx

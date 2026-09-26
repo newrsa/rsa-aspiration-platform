@@ -1,0 +1,13 @@
+{
+  "universe": "UNI-MANAGEMENT",
+  "version": "0.9",
+  "source": "RSA_SCC_Ontology_v0.9_Management_Universe_Direct_Structure.md",
+  "expected_domain_count": 21,
+  "domain_count": 21,
+  "expected_stream_count": 67,
+  "stream_count": 67,
+  "career_outcome_count": 67,
+  "stream_career_link_count": 67,
+  "streams_without_domain": 0,
+  "unknown_domain_links": 0
+}

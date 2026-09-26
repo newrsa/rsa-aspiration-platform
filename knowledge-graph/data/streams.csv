@@ -1,0 +1,917 @@
+﻿stream_code,universe_code,domain_code,name,description,path_type,governance_status,version,source_workbook
+STR-COM-ACTUARIAL-SCIENCE-60978,UNI-COMMERCE,DOM-COM-ACTUARIAL-6ADF8,Actuarial Science,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-ADVERTISING-BRAND-37769,UNI-COMMERCE,DOM-COM-ADVERTISING-BRAND-37769,Advertising & Branding,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-BANKING-CAREERS-D0CED,UNI-COMMERCE,DOM-COM-BANKING-PATHWAY-EDA9F,Banking Careers,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-BUSINESS-ANALYTIC-DA68E,UNI-COMMERCE,DOM-COM-BUSINESS-ANALYTIC-DA68E,Business Analytics,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-CHARTERED-ACCOUNT-994BF,UNI-COMMERCE,DOM-COM-CA-PATHWAY-88207,Chartered Accountant,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-COMPANY-SECRETARY-C940B,UNI-COMMERCE,DOM-COM-CS-PATHWAY-28DDE,Company Secretary,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-COST-ACCOUNTANT-D0B3B,UNI-COMMERCE,DOM-COM-CMA-PATHWAY-4FFE5,Cost Accountant,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-DIGITAL-BUSINESS-ED6E8,UNI-COMMERCE,DOM-COM-E-COMMERCE-89DCD,Digital Business,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-DIGITAL-MARKETING-55CFE,UNI-COMMERCE,DOM-COM-DIGITAL-MARKETING-55CFE,Digital Marketing,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-E-COMMERCE-ADVANC-7DBD5,UNI-COMMERCE,DOM-COM-E-COMMERCE-ADVANC-7DBD5,E-Commerce Advanced,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-ECONOMIST-E7A1B,UNI-COMMERCE,DOM-COM-ECONOMICS-PATHWAY-C0E7D,Economist,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-FINANCIAL-DATA-AN-0EA90,UNI-COMMERCE,DOM-COM-DATA-ANALYTICS-01593,Financial Data Analyst,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-FINTECH-ADVANCED-F6969,UNI-COMMERCE,DOM-COM-FINTECH-ADVANCED-F6969,FinTech Advanced,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-FINTECH-SPECIALIS-EC519,UNI-COMMERCE,DOM-COM-FINTECH-7433A,FinTech Specialist,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-GLOBAL-FREELANCE-495EF,UNI-COMMERCE,DOM-COM-GLOBAL-FREELANCE-495EF,Global Freelance Careers,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-INDUSTRY-OPERATIO-DCF99,UNI-COMMERCE,DOM-COM-INDUSTRY-OPERATIO-DCF99,Industry Operations,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-SPECIALIZED-ACCOU-9FEDB,UNI-COMMERCE,DOM-COM-SPECIALIZED-ACCOU-9FEDB,Specialized Accounting,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-STOCK-MARKET-ADVA-26A90,UNI-COMMERCE,DOM-COM-STOCK-MARKET-ADVA-26A90,Stock Market Advanced,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-COM-WEALTH-MANAGER-1932D,UNI-COMMERCE,DOM-COM-WEALTH-MGMT-7EB89,Wealth Manager,,Core,Validated,0.6.1a,3-Structured - Commerce.xlsx
+STR-HUM-ACADEMIC-EDITOR-8FE3E,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Academic Editor,"Improve research papers, theses and academic manuscripts",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ACQUISITION-EDITO-E5900,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Acquisition Editor,"Identify manuscripts, authors and publishing opportunities",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ADVERTISING-COPYW-AB760,UNI-HUMANITIES,DOM-HUM-JOURNALISM-MEDIA-0A08B,Advertising Copywriter,"Write slogans, campaigns and brand narratives",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-AI-ASSISTED-EDITO-A6525,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,AI-Assisted Editor,Use AI tools while applying human editorial judgement and quality control,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-AI-DATASET-LANGUA-64E98,UNI-HUMANITIES,DOM-HUM-HUMANITIES-TECHNO-838F3,AI Dataset Language Annotator,,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-AI-ETHICS-RESEARC-B2E92,UNI-HUMANITIES,DOM-HUM-HUMANITIES-AI-EE1A7,AI Ethics Researcher,"Policy, AI Governance",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-AI-TRAINING-CONTE-0533F,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,AI Training Content Reviewer,"Review training data and AI outputs for accuracy, tone, bias and usefulness",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ANTHOLOGY-CURATOR-818CA,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Anthology Curator,"Select and organise writings around themes, regions or communities",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ARCHAEOLOGIST-61BB2,UNI-HUMANITIES,DOM-HUM-HISTORY-HERITAGE-8BCC6,Archaeologist,Excavation and study of material remains,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ARCHIVE-EDITOR-EB0FD,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Archive Editor,"Edit historical, archival or manuscript material for publication",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ARCHIVIST-7B3C2,UNI-HUMANITIES,DOM-HUM-HISTORY-HERITAGE-8BCC6,Archivist,"Preserve records, manuscripts and documents",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ART-GALLERY-COORD-D5C46,UNI-HUMANITIES,DOM-HUM-CULTURAL-MUSEUM-H-15A96,Art Gallery Coordinator,"Coordinate exhibitions, artists and gallery operations",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ART-TEACHER-VISUA-751D0,UNI-HUMANITIES,DOM-HUM-PERFORMING-FINE-A-8422E,Art Teacher / Visual Arts Educator,"Teach drawing, painting and art appreciation",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ART-THERAPIST-ASS-95302,UNI-HUMANITIES,DOM-HUM-PERFORMING-FINE-A-8422E,Art Therapist Assistant / Expressive Arts Facilitator,Use art activities in wellbeing/education under proper scope,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-AUDIOBOOK-SCRIPT-ABA83,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Audiobook Script Editor,"Edit manuscripts for audio narration, pacing and listener clarity",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-BEHAVIOURAL-SCIEN-BE382,UNI-HUMANITIES,DOM-HUM-PSYCHOLOGY-BEHAVI-C524E,Behavioural Science Researcher,"Study decision-making for policy, health or education",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-BIOETHICS-MEDICAL-20FED,UNI-HUMANITIES,DOM-HUM-PHILOSOPHY-ETHICS-DCD19,Bioethics / Medical Humanities Associate,"Study ethical issues in health, medicine and society",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-BLOG-WRITER-E519C,UNI-HUMANITIES,DOM-HUM-AI-ERA-HUMANITIES-5D7A4,Blog Writer,"Independent Writing, Media",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-BOOK-EDITOR-AAD54,UNI-HUMANITIES,DOM-HUM-PUBLISHING-WRITIN-53DF9,Book Editor,Edit manuscripts for clarity and style,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-BOOK-METADATA-SPE-F0513,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Book Metadata Specialist,"Create keywords, categories and descriptions that improve book discoverability",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-BOOK-REVIEWER-8F54D,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Book Reviewer,"Review books for media, publishers, blogs and digital platforms",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-BROADCAST-JOURNAL-88D68,UNI-HUMANITIES,DOM-HUM-JOURNALISM-MEDIA-0A08B,Broadcast Journalist / News Anchor,Present and report news for TV/digital video,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CAREER-COUNSELLOR-9BED9,UNI-HUMANITIES,DOM-HUM-EDUCATION-TEACHIN-F6148,Career Counsellor - Humanities Route,Guide students on education and career pathways,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CHILDREN-S-LITERA-C5E5A,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Children’s Literature Specialist,"Create, edit or evaluate children’s books and learning material",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CIVIL-SERVICES-IA-4F46C,UNI-HUMANITIES,DOM-HUM-POLITICAL-SCIENCE-1E5AB,Civil Services - IAS/IPS/IFS/IRS via UPSC CSE,"Policy implementation, administration and public service",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CLASSICAL-MUSIC-P-F4940,UNI-HUMANITIES,DOM-HUM-PERFORMING-FINE-A-8422E,Classical Music Performer,"Perform, teach and research classical music",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CLINICAL-PSYCHOLO-69C83,UNI-HUMANITIES,DOM-HUM-PSYCHOLOGY-BEHAVI-C524E,Clinical Psychologist,"Assessment, diagnosis support and therapy under proper qualification",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-COLLEGE-PROFESSOR-E76DF,UNI-HUMANITIES,DOM-HUM-EDUCATION-TEACHIN-F6148,College Professor - Humanities,Teach and research at college/university level,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-COMMISSIONING-EDI-D8627,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Commissioning Editor,Plan book lists and commission authors for specific markets,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-COMMUNITY-MANAGER-597D7,UNI-HUMANITIES,DOM-HUM-HUMAN-CENTRED-EME-EC587,Community Manager,"Brands, Online Communities",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CONSERVATION-DOCU-E3E61,UNI-HUMANITIES,DOM-HUM-HISTORY-HERITAGE-8BCC6,Conservation Documentation Assistant,Document objects/buildings for conservation teams,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CONTENT-CURATOR-E34F9,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Content Curator,"Select, organise and present knowledge/content for audiences",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CONTENT-MODERATOR-F65E1,UNI-HUMANITIES,DOM-HUM-FOREIGN-LANGUAGES-A2E1D,Content Moderator - Language & Culture,Review user content for policy and cultural context,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CONVERSATIONAL-AI-15989,UNI-HUMANITIES,DOM-HUM-HUMANITIES-AI-EE1A7,Conversational AI Trainer,AI Industry,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-COPY-EDITOR-107AE,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Copy Editor,"Correct grammar, style, consistency and factual presentation",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-COUNSELLING-PSYCH-4CCBB,UNI-HUMANITIES,DOM-HUM-PSYCHOLOGY-BEHAVI-C524E,Counselling Psychologist,"Counselling for education, career, family and emotional concerns",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CREATIVE-WRITER-A-FC761,UNI-HUMANITIES,DOM-HUM-PUBLISHING-WRITIN-53DF9,Creative Writer / Author,"Write fiction, poetry, essays and nonfiction",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CSR-SOCIAL-IMPACT-2A279,UNI-HUMANITIES,DOM-HUM-SOCIOLOGY-SOCIAL-ACBF8,CSR Social Impact Associate,Support CSR projects and impact reporting,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CULTURAL-AI-CONSU-D0D38,UNI-HUMANITIES,DOM-HUM-HUMANITIES-TECHNO-838F3,Cultural AI Consultant,,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CULTURAL-DOCUMENT-A72E9,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Cultural Documentation Publisher,"Document and publish folk stories, oral histories, crafts and local culture",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CULTURAL-ENTREPRE-40603,UNI-HUMANITIES,DOM-HUM-CULTURAL-MUSEUM-H-15A96,Cultural Entrepreneur,"Build ventures around culture, arts, heritage or learning",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CULTURAL-PROGRAMM-E1870,UNI-HUMANITIES,DOM-HUM-CULTURAL-MUSEUM-H-15A96,Cultural Programme Coordinator,Plan cultural events and public programmes,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-CURRICULUM-DEVELO-B86E5,UNI-HUMANITIES,DOM-HUM-EDUCATION-TEACHIN-F6148,Curriculum Developer - Humanities,"Design syllabi, lessons and learning resources",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-DANCE-PERFORMER-C-BCB11,UNI-HUMANITIES,DOM-HUM-PERFORMING-FINE-A-8422E,Dance Performer / Choreographer,Perform and choreograph dance,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-DEVELOPMENT-SECTO-C20C8,UNI-HUMANITIES,DOM-HUM-SOCIOLOGY-SOCIAL-ACBF8,Development Sector Professional,Implement and monitor development projects,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-DIGITAL-ARCHIVE-S-710AF,UNI-HUMANITIES,DOM-HUM-HUMANITIES-TECHNO-838F3,Digital Archive Specialist,,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-DIGITAL-HUMANITIE-6B782,UNI-HUMANITIES,DOM-HUM-HUMANITIES-AI-EE1A7,Digital Humanities Researcher,"Academia, Archives",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-DIGITAL-MAGAZINE-5E9CE,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Digital Magazine Creator,"Create niche online magazines for culture, literature, education or society",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-DISASTER-MANAGEME-89B79,UNI-HUMANITIES,DOM-HUM-GEOGRAPHY-ENVIRON-49E1C,Disaster Management Professional - Social Side,Community preparedness and relief coordination,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-DOCUMENTARY-RESEA-33884,UNI-HUMANITIES,DOM-HUM-JOURNALISM-MEDIA-0A08B,Documentary Researcher,"Research topics, archives and field stories",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-EBOOK-FORMATTER-7276A,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Ebook Formatter,"Prepare manuscripts for EPUB, Kindle and digital reading formats",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-EDITORIAL-ASSISTA-DF50D,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Editorial Assistant,"Support editors with reading, correspondence, proofreading and production tasks",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-EDITORIAL-PROMPT-BEFA5,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Editorial Prompt Specialist,"Design prompts and workflows for editorial tasks, summaries and content quality",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-EDUCATIONAL-CONTE-CACCC,UNI-HUMANITIES,DOM-HUM-EDUCATION-TEACHIN-F6148,Educational Content Writer - Arts Subjects,Prepare study material and question banks,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-EDUCATIONAL-NOTES-2EC14,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Educational Notes Publisher,"Create notes, guides and exam-preparation material",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ENGLISH-LANGUAGE-2CCF9,UNI-HUMANITIES,DOM-HUM-FOREIGN-LANGUAGES-A2E1D,English Language Trainer,Teach English communication and language skills,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ENGLISH-LITERATUR-3CDBE,UNI-HUMANITIES,DOM-HUM-LANGUAGES-LITERAT-85D79,English Literature Academic / Professor,"Reading, literary criticism, teaching and research",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ENVIRONMENTAL-HUM-4329C,UNI-HUMANITIES,DOM-HUM-GEOGRAPHY-ENVIRON-49E1C,Environmental Humanities Researcher,"Study society, culture and environmental change",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-EPIGRAPHIST-NUMIS-B093F,UNI-HUMANITIES,DOM-HUM-HISTORY-HERITAGE-8BCC6,Epigraphist / Numismatist,"Study inscriptions, coins and ancient scripts",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-EPIGRAPHY-ASSISTA-C0732,UNI-HUMANITIES,DOM-HUM-INDIC-KNOWLEDGE-C-0CB30,Epigraphy Assistant,"Archaeology, Research",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ETHICS-AI-POLICY-3AA9F,UNI-HUMANITIES,DOM-HUM-PHILOSOPHY-ETHICS-DCD19,Ethics & AI Policy Analyst,Analyze ethical risks in technology and governance,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-FACT-CHECKER-VERI-2F899,UNI-HUMANITIES,DOM-HUM-JOURNALISM-MEDIA-0A08B,Fact-checker / Verification Specialist,"Verify claims, images and public information",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-FESTIVAL-CURATOR-20E01,UNI-HUMANITIES,DOM-HUM-CULTURAL-MUSEUM-H-15A96,Festival Curator,"Curate themes, artists, films and talks",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-FINE-ARTIST-A5B58,UNI-HUMANITIES,DOM-HUM-PERFORMING-FINE-A-8422E,Fine Artist,Create artworks for exhibitions and commissions,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-FLUTE-ARTIST-ECAB1,UNI-HUMANITIES,DOM-HUM-PERFORMING-ARTS-566E4,Flute Artist,"Concerts, Teaching, Fusion Bands",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-FOLK-CULTURE-RESE-95DCB,UNI-HUMANITIES,DOM-HUM-HUMANITIES-E0AAE,Folk Culture Researcher,"Documentation, Cultural Preservation",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-FOREIGN-LANGUAGE-F731C,UNI-HUMANITIES,DOM-HUM-FOREIGN-LANGUAGES-A2E1D,Foreign Language Expert,"Language teaching, translation and cultural communication",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-FORENSIC-PSYCHOLO-D1B41,UNI-HUMANITIES,DOM-HUM-PSYCHOLOGY-BEHAVI-C524E,Forensic Psychology Assistant / Researcher,Apply psychology to criminal behaviour and correctional research,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-GENDER-STUDIES-RE-E95C7,UNI-HUMANITIES,DOM-HUM-SOCIOLOGY-SOCIAL-ACBF8,Gender Studies Researcher,Research and advocacy on gender and society,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-GEOGRAPHER-GEOGRA-57928,UNI-HUMANITIES,DOM-HUM-GEOGRAPHY-ENVIRON-49E1C,Geographer / Geography Professor,Teach/research physical and human geography,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-GHOST-WRITER-5F02D,UNI-HUMANITIES,DOM-HUM-AI-ERA-HUMANITIES-5D7A4,Ghost Writer,"Publishing, Personal Branding",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-GIS-ANALYST-HUMAN-5533B,UNI-HUMANITIES,DOM-HUM-GEOGRAPHY-ENVIRON-49E1C,GIS Analyst - Humanities Route,Create and interpret spatial data,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-GUITARIST-795AF,UNI-HUMANITIES,DOM-HUM-PERFORMING-ARTS-566E4,Guitarist,"Performance, Studio Sessions, Teaching",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-HANDICRAFT-ENTREP-D4203,UNI-HUMANITIES,DOM-HUM-VISUAL-ARTS-EC5B9,Handicraft Entrepreneur,"Own Brand, Craft Business",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-HERITAGE-WALK-CUL-46349,UNI-HUMANITIES,DOM-HUM-HISTORY-HERITAGE-8BCC6,Heritage Walk / Cultural Tourism Professional,Design and conduct heritage tours,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-HINDI-LANGUAGE-LI-3B2BD,UNI-HUMANITIES,DOM-HUM-LANGUAGES-LITERAT-85D79,Hindi Language & Literature Career,"Hindi teaching, content, translation, publishing",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-HISTORIAN-HISTORY-2E808,UNI-HUMANITIES,DOM-HUM-HISTORY-HERITAGE-8BCC6,Historian / History Professor,Teach and research historical periods and methods,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-HUMAN-CONTENT-REV-2463F,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Human Content Reviewer,"Review AI-generated or user-generated content for quality, bias and appropriateness",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-HUMANITIES-COURSE-BD7E2,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Humanities Course Publisher,"Create and publish Humanities course material, workbooks or online modules",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-IKS-RESEARCHER-065BB,UNI-HUMANITIES,DOM-HUM-HUMANITIES-E0AAE,IKS Researcher,"Research, Academia, Policy",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ILLUSTRATOR-CULTU-CF691,UNI-HUMANITIES,DOM-HUM-PERFORMING-FINE-A-8422E,Illustrator - Cultural/Educational Content,Create illustrations for books and education,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-INDEPENDENT-PUBLI-C0013,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Independent Publisher,Start and run a small publishing imprint,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-INDEPENDENT-RESEA-809C9,UNI-HUMANITIES,DOM-HUM-CULTURAL-MUSEUM-H-15A96,Independent Researcher / Public Humanities Creator,Create public-facing humanities content,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-INTERNATIONAL-REL-71733,UNI-HUMANITIES,DOM-HUM-POLITICAL-SCIENCE-1E5AB,International Relations Specialist,"Study diplomacy, geopolitics and global institutions",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-INTERPRETER-D578C,UNI-HUMANITIES,DOM-HUM-TRANSLATION-STUDI-E6541,Interpreter,"Diplomacy, Conferences",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-JAPANESE-KOREAN-L-EB0AA,UNI-HUMANITIES,DOM-HUM-FOREIGN-LANGUAGES-A2E1D,Japanese/Korean Language + Culture Specialist,"Language and culture support for media, firms, tourism",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-JOURNAL-EDITOR-6F4E8,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Journal Editor,"Manage scholarly journal submissions, peer review and publication workflow",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-JOURNALIST-PRINT-ACA27,UNI-HUMANITIES,DOM-HUM-JOURNALISM-MEDIA-0A08B,Journalist - Print/Digital,"Report, verify and write news stories",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-KINDLE-PUBLISHER-2F0E8,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Kindle Publisher,Publish ebooks independently through digital platforms,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-KIRTANKAR-F39BF,UNI-HUMANITIES,DOM-HUM-PERFORMING-ARTS-566E4,Kirtankar,"Religious Programmes, Social Awareness",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-KNOWLEDGE-CURATOR-8D4EB,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Knowledge Curator,"Organise knowledge resources, reading pathways and topic databases",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-KNOWLEDGE-MANAGER-7DBAE,UNI-HUMANITIES,DOM-HUM-PUBLISHING-WRITIN-53DF9,Knowledge Manager / Research Curator,Organize and curate knowledge resources,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LIFE-SKILLS-TRAIN-4E6C6,UNI-HUMANITIES,DOM-HUM-HUMAN-CENTRED-EME-EC587,Life Skills Trainer,"Schools, NGOs, Corporate",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LINGUIST-LANGUAGE-177E7,UNI-HUMANITIES,DOM-HUM-LANGUAGES-LITERAT-85D79,Linguist / Language Scientist,"Study phonetics, syntax, semantics and language change",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LITERARY-AGENT-PU-342EA,UNI-HUMANITIES,DOM-HUM-PUBLISHING-WRITIN-53DF9,Literary Agent / Publishing Coordinator,"Coordinate manuscripts, rights and authors",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LITERARY-CRITIC-EBE76,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Literary Critic,"Interpret and evaluate literature, culture and texts",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LITERARY-MAGAZINE-02B5C,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Literary Magazine Founder,"Build literary magazine around poetry, criticism, translation or culture",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LITERARY-SCOUT-E314B,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Literary Scout,"Identify promising manuscripts, authors and market trends",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LITERARY-TRANSLAT-C66B9,UNI-HUMANITIES,DOM-HUM-TRANSLATION-STUDI-E6541,Literary Translator,"Book Translation, Publishing",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LOCALIZATION-QUAL-96A6A,UNI-HUMANITIES,DOM-HUM-FOREIGN-LANGUAGES-A2E1D,Localization Quality Analyst,Check translated content for linguistic/cultural accuracy,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LOCALIZATION-SPEC-90FC8,UNI-HUMANITIES,DOM-HUM-TRANSLATION-STUDI-E6541,Localization Specialist,"Apps, Websites, Gaming",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-LONG-FORM-ESSAYIS-D16B8,UNI-HUMANITIES,DOM-HUM-AI-ERA-HUMANITIES-5D7A4,Long-form Essayist,"Publishing, Independent Platforms",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-MADHUBANI-ARTIST-2F6C0,UNI-HUMANITIES,DOM-HUM-VISUAL-ARTS-EC5B9,Madhubani Artist,"Art Sales, Cultural Industry",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-MANAGING-EDITOR-13BE1,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Managing Editor,"Oversee editorial schedules, quality and team coordination",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-MANUSCRIPT-EVALUA-905BE,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Manuscript Evaluator,"Assess manuscript quality, marketability and revision needs",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-MANUSCRIPTOLOGIST-75964,UNI-HUMANITIES,DOM-HUM-HUMANITIES-E0AAE,Manuscriptologist,"Archival Work, Research",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-MARATHI-REGIONAL-3DC77,UNI-HUMANITIES,DOM-HUM-LANGUAGES-LITERAT-85D79,Marathi / Regional Language Scholar,"Language teaching, literary research, cultural documentation",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-MULTILINGUAL-DATA-E6FBF,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Multilingual Dataset Editor,Edit and validate multilingual text datasets for AI and publishing platforms,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-MUSEUM-CURATOR-E7B8D,UNI-HUMANITIES,DOM-HUM-HISTORY-HERITAGE-8BCC6,Museum Curator,Manage collections and design exhibitions,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-MUSEUM-EDUCATOR-92C20,UNI-HUMANITIES,DOM-HUM-HUMANITIES-E0AAE,Museum Educator,"Museum Programmes, Education",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-NARRATIVE-UX-WRIT-F7028,UNI-HUMANITIES,DOM-HUM-HUMANITIES-AI-EE1A7,Narrative UX Writer,"Apps, Digital Platforms",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-NEWSLETTER-PUBLIS-EDCCE,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Newsletter Publisher,Publish independent newsletters on specialised themes,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-OPINION-COLUMNIST-34529,UNI-HUMANITIES,DOM-HUM-AI-ERA-HUMANITIES-5D7A4,Opinion Columnist,"Newspapers, Digital Media",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ORAL-HISTORY-DOCU-A4571,UNI-HUMANITIES,DOM-HUM-CULTURAL-MUSEUM-H-15A96,Oral History Documenter,"Record memories, community histories and life narratives",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ORAL-TRADITION-AR-74D04,UNI-HUMANITIES,DOM-HUM-INDIC-KNOWLEDGE-C-0CB30,Oral Tradition Archivist,"Archives, Cultural Institutions",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-ORGANIZATIONAL-PS-8D423,UNI-HUMANITIES,DOM-HUM-PSYCHOLOGY-BEHAVI-C524E,Organizational Psychologist,Use psychology for workplace behaviour and assessment,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PHILOSOPHY-PROFES-6D46A,UNI-HUMANITIES,DOM-HUM-PHILOSOPHY-ETHICS-DCD19,Philosophy Professor / Researcher,"Teach/research ethics, logic and philosophy",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-POD-PUBLISHING-CO-4CC04,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,POD Publishing Consultant,Help authors publish books using print-on-demand platforms,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PODCAST-CREATOR-A2726,UNI-HUMANITIES,DOM-HUM-MEDIA-COMMUNICATI-834B4,Podcast Creator,"Independent Media, Sponsorships",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PODCAST-PRODUCER-54220,UNI-HUMANITIES,DOM-HUM-JOURNALISM-MEDIA-0A08B,Podcast Producer / Audio Storyteller,"Plan, script, record and edit audio shows",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PODCAST-STORYTELL-09871,UNI-HUMANITIES,DOM-HUM-AI-ERA-HUMANITIES-5D7A4,Podcast Storyteller,"Podcasting, Media Platforms",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-POLITICAL-ANALYST-B725F,UNI-HUMANITIES,DOM-HUM-POLITICAL-SCIENCE-1E5AB,Political Analyst,"Analyze elections, public opinion and policy trends",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-POWADA-SHAHIRI-AR-14ADB,UNI-HUMANITIES,DOM-HUM-PERFORMING-ARTS-566E4,Powada/Shahiri Artist,"Stage Performance, Cultural Events",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PROMPT-DESIGNER-5A3AD,UNI-HUMANITIES,DOM-HUM-HUMANITIES-AI-EE1A7,Prompt Designer,"AI Companies, Freelance",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PROMPT-WRITER-AI-A77BA,UNI-HUMANITIES,DOM-HUM-PUBLISHING-WRITIN-53DF9,Prompt Writer / AI Content Evaluator - Humanities,"Evaluate AI outputs, write prompts and improve quality",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PROOFREADER-2F3F1,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Proofreader,"Final checking of books, journals and digital text before publication",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PSYCHOMETRIC-TEST-0EF56,UNI-HUMANITIES,DOM-HUM-PSYCHOLOGY-BEHAVI-C524E,Psychometric Test Developer,"Design, validate and interpret psychological tests",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PUBLIC-ADMINISTRA-E4C3D,UNI-HUMANITIES,DOM-HUM-POLITICAL-SCIENCE-1E5AB,Public Administration Academic / Researcher,Teach/research administrative theory,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PUBLIC-ENGAGEMENT-7ED09,UNI-HUMANITIES,DOM-HUM-HUMAN-CENTRED-EME-EC587,Public Engagement Specialist,"Government, NGOs, Museums",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PUBLIC-POLICY-RES-97B94,UNI-HUMANITIES,DOM-HUM-POLITICAL-SCIENCE-1E5AB,Public Policy Researcher,Research policy problems and propose solutions,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PUBLIC-RELATIONS-88FD4,UNI-HUMANITIES,DOM-HUM-JOURNALISM-MEDIA-0A08B,Public Relations Content Specialist,Create press notes and media communication,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PUBLISHING-COORDI-9C887,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Publishing Coordinator,"Coordinate manuscripts, authors, designers, printers and deadlines",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-PUBLISHING-PLATFO-87F9E,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Publishing Platform Manager,Manage publishing workflows on digital platforms and author-service portals,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-REGIONAL-LANGUAGE-D3629,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Regional Language Publisher,Publish books and digital content in Indian languages,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-RELIGIOUS-STUDIES-F278A,UNI-HUMANITIES,DOM-HUM-PHILOSOPHY-ETHICS-DCD19,Religious Studies / Comparative Religion Scholar,"Academic study of religions, texts and society",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-RESEARCH-DIGEST-C-EF386,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Research Digest Creator,"Summarise research, policy reports and books for wider audiences",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-RURAL-DEVELOPMENT-4F741,UNI-HUMANITIES,DOM-HUM-SOCIOLOGY-SOCIAL-ACBF8,Rural Development Professional,"Rural livelihood, governance and community projects",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SANSKRIT-STUDIES-F1792,UNI-HUMANITIES,DOM-HUM-LANGUAGES-LITERAT-85D79,Sanskrit Studies & Indology,"Classical texts, manuscripts, Indian knowledge systems",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SCHOOL-PSYCHOLOGI-76A23,UNI-HUMANITIES,DOM-HUM-PSYCHOLOGY-BEHAVI-C524E,School Psychologist / School Counsellor,"Support students, teachers and parents",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SCHOOL-TEACHER-AR-EB20C,UNI-HUMANITIES,DOM-HUM-EDUCATION-TEACHIN-F6148,School Teacher - Arts Subjects,"Teach History, Political Science, English, Geography etc.",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SCRIPT-WRITER-A45D8,UNI-HUMANITIES,DOM-HUM-MEDIA-COMMUNICATI-834B4,Script Writer,"Film, OTT, Theatre",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SCRIPTWRITER-FILM-4EED0,UNI-HUMANITIES,DOM-HUM-PUBLISHING-WRITIN-53DF9,Scriptwriter - Film/OTT/Theatre,"Write scripts, dialogues and story bibles",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SENSITIVITY-READE-45521,UNI-HUMANITIES,DOM-HUM-PUBLISHING-EDITOR-37FCF,Sensitivity Reader,"Review manuscripts for cultural, social and ethical representation",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SOCIAL-MEDIA-CONT-7CB12,UNI-HUMANITIES,DOM-HUM-JOURNALISM-MEDIA-0A08B,Social Media Content Strategist - Arts Route,Plan content calendars and audience communication,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SOCIAL-WORKER-MSW-4A0DA,UNI-HUMANITIES,DOM-HUM-SOCIOLOGY-SOCIAL-ACBF8,Social Worker / MSW Professional,Work with communities and vulnerable groups,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SOCIOLOGIST-SOCIO-6B5A2,UNI-HUMANITIES,DOM-HUM-SOCIOLOGY-SOCIAL-ACBF8,Sociologist / Sociology Professor,Research social institutions and change,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SPECIAL-EDUCATOR-3054A,UNI-HUMANITIES,DOM-HUM-EDUCATION-TEACHIN-F6148,Special Educator - Non-medical Route,Support learners with special needs,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SPORTS-PSYCHOLOGI-B758A,UNI-HUMANITIES,DOM-HUM-PSYCHOLOGY-BEHAVI-C524E,Sports Psychologist,Mental training and performance support for athletes,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-STATE-CIVIL-SERVI-83788,UNI-HUMANITIES,DOM-HUM-POLITICAL-SCIENCE-1E5AB,State Civil Services / MPSC-type Careers,"State administration, revenue, police, development",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-STUDENT-SUCCESS-M-E872F,UNI-HUMANITIES,DOM-HUM-HUMAN-CENTRED-EME-EC587,Student Success Mentor,Education Sector,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SUBTITLING-DUBBIN-30B67,UNI-HUMANITIES,DOM-HUM-LANGUAGES-LITERAT-85D79,Subtitling & Dubbing Script Specialist,Create subtitles and culturally adapted dubbing scripts,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-SUBTITLING-SPECIA-2B0F8,UNI-HUMANITIES,DOM-HUM-TRANSLATION-STUDI-E6541,Subtitling Specialist,"OTT Platforms, Film",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-TECHNICAL-DOCUMEN-E7C30,UNI-HUMANITIES,DOM-HUM-LANGUAGES-LITERAT-85D79,Technical / Documentation Writer,"Prepare guides, FAQs and knowledge-base content",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-TEMPLE-HERITAGE-I-372D4,UNI-HUMANITIES,DOM-HUM-INDIC-KNOWLEDGE-C-0CB30,Temple Heritage Interpreter,"Tourism, Heritage Walks",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-THEATRE-ARTIST-AC-F7BD6,UNI-HUMANITIES,DOM-HUM-PERFORMING-FINE-A-8422E,Theatre Artist / Actor,"Acting, stage performance and theatre production",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-TRANSLATOR-7E127,UNI-HUMANITIES,DOM-HUM-TRANSLATION-STUDI-E6541,Translator,"Publishing, Government, OTT",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-TRANSLATOR-INTERP-64E53,UNI-HUMANITIES,DOM-HUM-LANGUAGES-LITERAT-85D79,Translator / Interpreter,Translate documents and interpret speech,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-URBAN-STUDIES-RES-1455B,UNI-HUMANITIES,DOM-HUM-GEOGRAPHY-ENVIRON-49E1C,Urban Studies Researcher,"Research urbanisation, migration, housing and services",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-UX-WRITER-CONTENT-4A999,UNI-HUMANITIES,DOM-HUM-PUBLISHING-WRITIN-53DF9,UX Writer / Content Designer,Write interface text and product communication,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-VEDIC-STUDIES-SCH-EA4A8,UNI-HUMANITIES,DOM-HUM-HUMANITIES-E0AAE,Vedic Studies Scholar,"Teaching, Research, Cultural Consultancy",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-WARLI-ART-SPECIAL-5FA3B,UNI-HUMANITIES,DOM-HUM-VISUAL-ARTS-EC5B9,Warli Art Specialist,"Workshops, Exhibitions, Merchandise",Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-HUM-YOUTUBE-EDUCATOR-688EF,UNI-HUMANITIES,DOM-HUM-MEDIA-COMMUNICATI-834B4,YouTube Educator,Educational Content Business,Core,Validated,0.6.1a,2-Structured- Arts_Humanities.xlsx
+STR-INTD-ACCESSIBILITY-IN-22CE1,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Accessibility & Inclusive Design,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ADIVASI-LITERATU-2D551,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Adivasi Literature, Oral Traditions & Cultural Archiving",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-AGRI-MARKET-INTE-30CC5,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Agri-Market Intelligence Services,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-AGRI-TECH-BUSINE-B007A,UNI-INTERDISCIPLINARY,DOM-INTD-AGRI-TECHNOLOGY-4E700,Agri-Tech Business Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-AI-ASSISTED-MEDI-444EE,UNI-INTERDISCIPLINARY,DOM-INTD-MEDIA-COMMUNICAT-2CA67,AI-assisted Media Producer,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-AI-CONTENT-KNOWL-06A6C,UNI-INTERDISCIPLINARY,DOM-INTD-HUMANITIES-TECHN-8E12A,AI Content & Knowledge Systems Curator,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-AI-ETHICS-GOVERN-9CCAD,UNI-INTERDISCIPLINARY,DOM-INTD-AI-GOVERNANCE-AA5A6,AI Ethics & Governance Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-AI-GOVERNANCE-AN-E6D78,UNI-INTERDISCIPLINARY,DOM-INTD-LAW-TECHNOLOGY-G-C7210,AI Governance Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ARCHAEOLOGY-DIGI-1672A,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Archaeology + Digital Documentation,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ARCHIVAL-STUDIES-438E7,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Archival Studies / Archive Management,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-AREA-STUDIES-REG-63AA9,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Area Studies / Regional Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ASSISTIVE-TECHNO-40101,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Assistive Technology & Accessible Design,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-BAMBOO-LAC-MINOR-EF20E,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Bamboo, Lac & Minor Forest Enterprise Management",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-BEHAVIOURAL-ECON-E9131,UNI-INTERDISCIPLINARY,DOM-INTD-BEHAVIOUR-POLICY-5074A,Behavioural Economist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-BIOENTREPRENEURS-DF891,UNI-INTERDISCIPLINARY,DOM-INTD-EMERGING-FRONTIE-E49FE,Bioentrepreneurship Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-BIOETHICS-47F40,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Bioethics,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-BIOINFORMATICS-S-7F57D,UNI-INTERDISCIPLINARY,DOM-INTD-LIFE-SCIENCES-DA-36B7A,Bioinformatics Specialist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-BLOCKCHAIN-COMPL-20BC0,UNI-INTERDISCIPLINARY,DOM-INTD-COMMERCE-ANALYTI-7F730,Blockchain Compliance Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-BORDERLAND-STUDI-27EA5,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Borderland Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-BUDDHIST-STUDIES-27600,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Buddhist Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-CIRCULAR-ECONOMY-D8DEF,UNI-INTERDISCIPLINARY,DOM-INTD-SUSTAINABILITY-E-5D9C9,Circular Economy Consultant,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-CLIMATE-ADAPTATI-C32E2,UNI-INTERDISCIPLINARY,DOM-INTD-EMERGING-FRONTIE-E49FE,Climate Adaptation Planner,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-CLIMATE-FINANCE-6D2EB,UNI-INTERDISCIPLINARY,DOM-INTD-CLIMATE-FINANCE-B143E,Climate Finance Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-CLIMATE-HUMANITI-4364A,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Climate Humanities,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COGNITIVE-SCIENC-681E2,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Cognitive Science,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMMUNITY-BIO-CU-7252E,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Community Bio-Cultural Documentation & Ethics,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMMUNITY-CLIMAT-15EB9,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Community Climate Adaptation & Disaster Resilience,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMMUNITY-DATA-I-11BFC,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Community Data, Impact Evaluation & Social Analytics",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMMUNITY-HEALTH-FE968,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Community Health & Tribal Public Health,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMMUNITY-MEDIA-76254,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Community Media, Folk Media & Development Communication",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMMUNITY-MENTAL-46923,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Community Mental Health & Social Work,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMMUNITY-NUTRIT-8C1C0,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Community Nutrition & Food Systems,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMPARATIVE-RELI-2EAE0,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Comparative Religion / Religious Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMPUTATIONAL-LI-5769A,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Computational Linguistics,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMPUTATIONAL-LI-75E92,UNI-INTERDISCIPLINARY,DOM-INTD-HUMANITIES-TECHN-8E12A,Computational Linguist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMPUTATIONAL-LI-EEE1E,UNI-INTERDISCIPLINARY,DOM-INTD-LANGUAGE-AI-BE738,Computational Linguist / NLP Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-COMPUTATIONAL-SO-043A8,UNI-INTERDISCIPLINARY,DOM-INTD-SOCIAL-SCIENCE-D-53A04,Computational Social Scientist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-CREATOR-ECONOMY-53EB9,UNI-INTERDISCIPLINARY,DOM-INTD-MEDIA-COMMUNICAT-2CA67,Creator Economy Strategist (Structured),,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-CULTURAL-ANALYTI-274FB,UNI-INTERDISCIPLINARY,DOM-INTD-HUMANITIES-TECHN-8E12A,Cultural Analytics Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-CULTURAL-ANALYTI-E1877,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Cultural Analytics,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-CYBER-LAW-SPECIA-18356,UNI-INTERDISCIPLINARY,DOM-INTD-LAW-TECHNOLOGY-G-C7210,Cyber Law Specialist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-CYBER-POLICY-DIG-5D80B,UNI-INTERDISCIPLINARY,DOM-INTD-LAW-TECH-C84AB,Cyber Policy & Digital Rights Professional,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DATA-FOR-GOVERNA-F0336,UNI-INTERDISCIPLINARY,DOM-INTD-PUBLIC-POLICY-EC-CCDB1,Data for Governance Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DATA-JOURNALISM-824A5,UNI-INTERDISCIPLINARY,DOM-INTD-MEDIA-DATA-C501B,Data Journalism Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DATA-JOURNALIST-2F2DD,UNI-INTERDISCIPLINARY,DOM-INTD-MEDIA-COMMUNICAT-2CA67,Data Journalist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DATA-PRIVACY-COM-68261,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Data Privacy Compliance Advisory,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DATA-PRIVACY-OFF-E8FA0,UNI-INTERDISCIPLINARY,DOM-INTD-LAW-TECHNOLOGY-G-C7210,Data Privacy Officer / Consultant,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DEVELOPMENT-COMM-1D561,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNICATION-DE-E2111,Development Communication Specialist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DEVELOPMENT-PROG-E60A1,UNI-INTERDISCIPLINARY,DOM-INTD-PUBLIC-POLICY-EC-CCDB1,Development Programme Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DEVELOPMENT-STUD-A9172,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Development Studies at IIT / Tech-Development Interface,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DIGITAL-ANTHROPO-E5DC4,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Digital Anthropology,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DIGITAL-ARCHIVE-77A96,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Digital Archive Services,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DIGITAL-HEALTH-P-9884D,UNI-INTERDISCIPLINARY,DOM-INTD-HEALTHCARE-ANALY-14C0C,Digital Health Product Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DIGITAL-HUMANITI-6697C,UNI-INTERDISCIPLINARY,DOM-INTD-HUMANITIES-TECHN-8E12A,Digital Humanities Researcher,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DIGITAL-HUMANITI-DD036,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Digital Humanities,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DIGITAL-PUBLIC-I-240E1,UNI-INTERDISCIPLINARY,DOM-INTD-EMERGING-FRONTIE-E49FE,Digital Public Infrastructure Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DISABILITY-STUDI-B315F,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Disability Studies & Rehabilitation Ecosystems,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-DISABILITY-STUDI-F41BD,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Disability Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ECOLOGICAL-ECONO-0699D,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Ecological Economics,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-EDUCATION-TECHNO-C89A9,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Education Technology / Learning Sciences,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-EDUCATIONAL-DATA-515AC,UNI-INTERDISCIPLINARY,DOM-INTD-EDUCATION-ANALYT-7DA9D,Educational Data Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-EDUCATIONAL-TECH-16758,UNI-INTERDISCIPLINARY,DOM-INTD-EDTECH-LEARNING-662A6,Educational Technology Specialist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-EDUCATIONAL-TECH-86929,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Educational Technology Design Studio,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ENVIRONMENTAL-JU-D0B69,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Environmental Justice & Marginalized Communities,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ESG-SUSTAINABILI-97845,UNI-INTERDISCIPLINARY,DOM-INTD-SUSTAINABILITY-M-27061,ESG & Sustainability Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ESG-SUSTAINABILI-DD113,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,ESG / Sustainability Reporting Support,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ETHICS-PUBLIC-LI-7D6A9,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Ethics & Public Life,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-ETHNOBOTANY-INDI-92169,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Ethnobotany & Indigenous Medicinal Knowledge,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FASHION-BUSINESS-1DBAE,UNI-INTERDISCIPLINARY,DOM-INTD-DESIGN-BUSINESS-87851,Fashion Business Technologist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FASHION-TECHNOLO-74732,UNI-INTERDISCIPLINARY,DOM-INTD-FASHION-BUSINESS-6862A,Fashion Technology & Business Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FILM-MEDIA-BUSIN-B3F98,UNI-INTERDISCIPLINARY,DOM-INTD-MEDIA-BUSINESS-A8960,Film & Media Business Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FILM-STUDIES-CIN-8302E,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Film Studies / Cinema Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FINANCIAL-ANALYT-54A38,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Financial Analytics Freelance Studio,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FINANCIAL-ANALYT-E6977,UNI-INTERDISCIPLINARY,DOM-INTD-FINANCE-ANALYTIC-B718F,Financial Analytics Professional,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FINTECH-PRODUCT-64486,UNI-INTERDISCIPLINARY,DOM-INTD-COMMERCE-ANALYTI-2D765,FinTech Product Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FOLK-CULTURE-STU-77AF5,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Folk Culture Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FOOD-STUDIES-FOO-0278B,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Food Studies / Food Culture & Society,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FOOD-SUPPLY-CHAI-D0CF6,UNI-INTERDISCIPLINARY,DOM-INTD-AGRICULTURE-SUST-D4F98,Food Supply Chain Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FOOD-TECHNOLOGY-02816,UNI-INTERDISCIPLINARY,DOM-INTD-FOOD-ENTERPRISE-2471B,Food Technology Entrepreneur,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FOREST-PRODUCE-N-0966A,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Forest Produce & NTFP Value Chain Management,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-FOREST-RIGHTS-CO-BBFA5,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Forest Rights & Community Resource Governance,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-GAME-STUDIES-INT-7B52E,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Game Studies / Interactive Media Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-GENDER-SEXUALITY-6976F,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Gender & Sexuality / Queer Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-GENDER-STUDIES-CA8F8,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Gender Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-GENDER-TRIBAL-WO-A5BD7,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Gender, Tribal Women & Development Practice",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-GEOAI-ANALYST-642FA,UNI-INTERDISCIPLINARY,DOM-INTD-EMERGING-FRONTIE-E49FE,GeoAI Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-GEOAI-GEOSPATIAL-70952,UNI-INTERDISCIPLINARY,DOM-INTD-GEOSPATIAL-DATA-B5F14,GeoAI / Geospatial Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-GONDWANA-REGION-515D7,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Gondwana Region Studies & Local Resource Development,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HANDLOOM-HANDICR-0D035,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Handloom, Handicraft & GI Product Ecosystem",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HEALTH-DATA-DASH-4E7E3,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Health Data Dashboard Services,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HEALTH-INFORMATI-0F866,UNI-INTERDISCIPLINARY,DOM-INTD-HEALTHCARE-ANALY-14C0C,Health Informatics Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HERITAGE-EXPERIE-3CF45,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Heritage Experience Enterprise,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HERITAGE-EXPERIE-EE13D,UNI-INTERDISCIPLINARY,DOM-INTD-HUMANITIES-TECHN-8E12A,Heritage Experience Designer,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HERITAGE-STUDIES-F5EBD,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Heritage Studies / Heritage Management,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HIMALAYAN-STUDIE-F78FB,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Himalayan Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HOSPITAL-ANALYTI-C441F,UNI-INTERDISCIPLINARY,DOM-INTD-HEALTHCARE-ANALY-14C0C,Hospital Analytics Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HUMAN-AI-COLLABO-59B2A,UNI-INTERDISCIPLINARY,DOM-INTD-EMERGING-FRONTIE-E49FE,Human-AI Collaboration Designer,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HUMAN-AI-INTERAC-22708,UNI-INTERDISCIPLINARY,DOM-INTD-PSYCHOLOGY-BUSIN-B8F2C,Human-AI Interaction Researcher,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HUMAN-COMPUTER-I-BC1E8,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Human-Computer Interaction (HCI),,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HUMAN-FACTORS-ER-DA92F,UNI-INTERDISCIPLINARY,DOM-INTD-HUMAN-FACTORS-C62B4,Human Factors / Ergonomics Specialist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-HUMAN-RIGHTS-STU-DA7C2,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Human Rights Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-INCLUSIVE-EDUCAT-64D6B,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Inclusive Education for Tribal & Marginalized Learners,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-INCLUSIVE-URBAN-8E057,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Inclusive Urban Marginality & Slum Development,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-INDIC-KNOWLEDGE-47EC6,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Indic Knowledge Systems / Indian Knowledge Systems,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-INDIGENOUS-AGRIC-076CB,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Indigenous Agriculture & Millets Enterprise,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-INDIGENOUS-FOOD-2336B,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Indigenous Food, Culinary Heritage & Nutrition Enterprise",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-INDIGENOUS-KNOWL-63C06,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Indigenous Knowledge IPR & Benefit-Sharing,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-KNOWLEDGE-CULTUR-17CAA,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,"Knowledge, Culture & Innovation Studies",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-LEGAL-ANTHROPOLO-F2162,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Legal Anthropology,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-LEGAL-DATA-ANALY-3375F,UNI-INTERDISCIPLINARY,DOM-INTD-LAW-ANALYTICS-3E609,Legal Data Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-LEGAL-DESIGN-CON-95FDF,UNI-INTERDISCIPLINARY,DOM-INTD-LAW-DESIGN-663F0,Legal Design Consultant,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-LEGAL-TECH-PRODU-90ECB,UNI-INTERDISCIPLINARY,DOM-INTD-LAW-TECHNOLOGY-G-C7210,Legal Tech Product Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-LIBRARY-INFORMAT-3B3B2,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Library & Information Science + Data Curation,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-LIVELIHOOD-MISSI-C28BC,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Livelihood Mission & SHG Enterprise Management,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MARITIME-STUDIES-3F83E,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Maritime Studies / Blue Humanities,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MASCULINITY-STUD-9E4F5,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Masculinity Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MEDIA-CULTURAL-S-24523,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Media & Cultural Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MEDICAL-HUMANITI-608E4,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Medical Humanities,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MEDTECH-OPERATIO-E268B,UNI-INTERDISCIPLINARY,DOM-INTD-HEALTHCARE-PRODU-9EE1F,MedTech Operations Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MICROFINANCE-FIN-6A34B,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Microfinance & Financial Inclusion,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MIGRATION-DIASPO-095AB,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Migration & Diaspora Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MIGRATION-LABOUR-877D6,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Migration, Labour & Informal Economy Studies",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MUSEUM-HERITAGE-17A28,UNI-INTERDISCIPLINARY,DOM-INTD-CULTURE-EXPERIEN-E64C5,Museum & Heritage Experience Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-MUSEUM-STUDIES-M-EC1A0,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Museum Studies / Museology,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-NEUROMARKETING-A-841A7,UNI-INTERDISCIPLINARY,DOM-INTD-PSYCHOLOGY-BUSIN-B8F2C,NeuroMarketing Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-NEUROMARKETING-R-A4A26,UNI-INTERDISCIPLINARY,DOM-INTD-PSYCHOLOGY-BUSIN-12722,NeuroMarketing Research Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-NO-CODE-BUSINESS-5EE59,UNI-INTERDISCIPLINARY,DOM-INTD-DESIGN-BUSINESS-87851,No-code Business Systems Designer,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PARTICIPATORY-RU-A7478,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Participatory Rural Appraisal & Development Research,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PEACE-CONFLICT-S-3FECB,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Peace & Conflict Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PEOPLE-ANALYTICS-6FABB,UNI-INTERDISCIPLINARY,DOM-INTD-PSYCHOLOGY-BUSIN-B8F2C,People Analytics Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PERFORMANCE-STUD-32D77,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Performance Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PESA-PANCHAYAT-L-01E5E,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"PESA, Panchayat & Local Governance Studies",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PHARMA-MANAGEMEN-7B4D9,UNI-INTERDISCIPLINARY,DOM-INTD-PHARMA-BUSINESS-FF814,Pharma Management Professional,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PHARMA-MARKET-AC-7E865,UNI-INTERDISCIPLINARY,DOM-INTD-HEALTHCARE-ANALY-14C0C,Pharma Market Access Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PHILOSOPHY-POLIT-8B9DF,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,"Philosophy, Politics & Economics (PPE)",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-POLICY-ANALYST-F471F,UNI-INTERDISCIPLINARY,DOM-INTD-PUBLIC-POLICY-EC-CCDB1,Policy Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-POLICY-RESEARCH-9347F,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Policy Research Micro-Consultancy,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PRECISION-FARMIN-28EB3,UNI-INTERDISCIPLINARY,DOM-INTD-AGRICULTURE-SUST-D4F98,Precision Farming Operations Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PRODUCT-EXPERIEN-B30E0,UNI-INTERDISCIPLINARY,DOM-INTD-DESIGN-BUSINESS-87851,Product Experience Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PUBLIC-HEALTH-DA-21BC7,UNI-INTERDISCIPLINARY,DOM-INTD-HEALTHCARE-ANALY-14C0C,Public Health Data Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-PUBLIC-POLICY-AN-042DD,UNI-INTERDISCIPLINARY,DOM-INTD-PUBLIC-POLICY-C51D1,Public Policy Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-REGTECH-ANALYST-BCF9F,UNI-INTERDISCIPLINARY,DOM-INTD-LAW-TECHNOLOGY-G-C7210,RegTech Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-RISK-ANALYTICS-A-17718,UNI-INTERDISCIPLINARY,DOM-INTD-COMMERCE-ANALYTI-7F730,Risk Analytics Associate,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-RURAL-DIGITAL-IN-DD1DA,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Rural Digital Inclusion & Vernacular Technology,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-RURAL-INNOVATION-68A97,UNI-INTERDISCIPLINARY,DOM-INTD-RURAL-INNOVATION-762BF,Rural Innovation Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-RURAL-INNOVATION-A97E1,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Rural Innovation Consultancy,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-RURAL-WATER-SANI-0E758,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Rural Water, Sanitation & Community Infrastructure",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SANSKRIT-COMPUTA-61220,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Sanskrit Computational Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SCIENCE-COMMUNIC-42381,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,Science Communication Studio,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SCIENCE-COMMUNIC-52D95,UNI-INTERDISCIPLINARY,DOM-INTD-SCIENCE-COMMUNIC-73E7A,Science Communication Specialist,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SCIENCE-TECHNOLO-7ACCC,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,"Science, Technology & Society (STS)",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SERVICE-DESIGNER-109A6,UNI-INTERDISCIPLINARY,DOM-INTD-DESIGN-BUSINESS-87851,Service Designer,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SOCIAL-EXCLUSION-343B4,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Social Exclusion & Inclusive Policy Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SOCIAL-EXCLUSION-74ACF,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Social Exclusion & Inclusive Policy,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SOCIAL-IMPACT-ME-016F6,UNI-INTERDISCIPLINARY,DOM-INTD-SOCIAL-SECTOR-AN-51438,Social Impact Measurement Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SPACE-POLICY-BUS-F391A,UNI-INTERDISCIPLINARY,DOM-INTD-SPACE-POLICY-27B46,Space Policy & Business Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SPACE-POLICY-SPA-1BFF3,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Space Policy / Space Governance,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-SPORTS-ANALYTICS-7CADD,UNI-INTERDISCIPLINARY,DOM-INTD-SPORTS-ANALYTICS-A31F2,Sports Analytics Manager,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRANSLATION-STUD-C3CE2,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Translation Studies & Language Technology,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRIBAL-ART-PERFO-77909,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Tribal Art, Performance & Creative Enterprise",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRIBAL-ENTREPREN-F39B2,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Tribal Entrepreneurship & Community Enterprise Development,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRIBAL-HIGHER-ED-A5CA0,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Tribal Higher Education & Academic Outreach Management,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRIBAL-LANGUAGE-5ECAB,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Tribal Language Documentation & Revitalization,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRIBAL-LEGAL-AID-ACB70,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Tribal Legal Aid & Community Justice Systems,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRIBAL-MUSEUM-HE-05233,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Tribal Museum & Heritage Management,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRIBAL-STUDIES-I-9C9C3,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Tribal Studies / Indigenous Knowledge Systems,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRIBAL-STUDIES-I-C6E5A,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,Tribal Studies & Indigenous Governance,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-TRIBAL-TOURISM-E-D9633,UNI-INTERDISCIPLINARY,DOM-INTD-COMMUNITY-TRIBAL-53926,"Tribal Tourism, Eco-Culture & Community Hospitality",,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-URBAN-GOVERNANCE-0F88C,UNI-INTERDISCIPLINARY,DOM-INTD-PUBLIC-POLICY-EC-CCDB1,Urban Governance Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-URBAN-PLANNER-SM-A0182,UNI-INTERDISCIPLINARY,DOM-INTD-URBAN-GOVERNANCE-5055C,Urban Planner / Smart City Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-URBAN-STUDIES-UR-F56A7,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Urban Studies / Urban Informatics,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-UX-RESEARCH-CONS-A898E,UNI-INTERDISCIPLINARY,DOM-INTD-INTERDISCIPLINAR-8FD42,UX Research Consultancy,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-UX-RESEARCHER-E5F06,UNI-INTERDISCIPLINARY,DOM-INTD-DESIGN-HUMAN-BEH-99F22,UX Researcher,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-VISUAL-CULTURE-S-348F2,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Visual Culture Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-WATER-POLICY-WAT-53B29,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Water Policy / Water Governance,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-WATER-RESOURCE-M-890AF,UNI-INTERDISCIPLINARY,DOM-INTD-AGRICULTURE-SUST-D4F98,Water Resource Management Analyst,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-WATER-RESOURCE-M-B7C26,UNI-INTERDISCIPLINARY,DOM-INTD-ENVIRONMENT-GOVE-503AE,Water Resource Management Professional,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-INTD-WOMEN-S-STUDIES-3EE8B,UNI-INTERDISCIPLINARY,DOM-INTD-SPECIALIZED-RARE-07D0A,Women’s Studies,,Interdisciplinary,Validated,0.6.1a,6-Structured-Interdisciplinary.xlsx
+STR-LAW-ADVOCATE-LITIGATO-551E4,UNI-LAW,DOM-LAW-CORE-LEGAL-PRACTI-A73A3,Advocate / Litigator,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-AI-COURTROOM-INTE-8B93B,UNI-LAW,DOM-LAW-LAW-AI-SYSTEMS-9ECD0,AI Courtroom Interface Trainer,Training legal professionals on AI systems,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-AI-ETHICS-AUDITOR-4A84F,UNI-LAW,DOM-LAW-LAW-AI-E2CE9,AI Ethics Auditor,AI compliance and ethics review,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-AI-GOVERNANCE-AI-EA39D,UNI-LAW,DOM-LAW-TECHNOLOGY-LAW-B4020,AI Governance / AI Policy Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-AI-GOVERNANCE-DOC-D1D81,UNI-LAW,DOM-LAW-LAW-DIGITAL-ECONO-7350B,AI Governance Documentation Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ALGORITHM-ACCOUNT-9B0EF,UNI-LAW,DOM-LAW-LAW-AI-ETHICS-ADE8C,Algorithm Accountability Researcher,AI fairness and accountability analysis,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ALTERNATIVE-LEGAL-CDDD2,UNI-LAW,DOM-LAW-LEGAL-SERVICES-IN-233DC,Alternative Legal Services Provider Manager,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ARBITRATION-COUNS-E82ED,UNI-LAW,DOM-LAW-DISPUTE-RESOLUTIO-75BD6,Arbitration Counsel,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ART-ANTIQUITIES-D-728F2,UNI-LAW,DOM-LAW-LAW-ART-7C899,Art & Antiquities Documentation Advisor,Ownership and export documentation,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-AUTONOMOUS-VEHICL-3812E,UNI-LAW,DOM-LAW-LAW-MOBILITY-TECH-A864D,Autonomous Vehicle Liability Analyst,Liability systems for autonomous mobility,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-AVIATION-LAWYER-89304,UNI-LAW,DOM-LAW-INTERNATIONAL-TRA-50DAA,Aviation Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-BANKING-FINANCE-L-C649D,UNI-LAW,DOM-LAW-CORPORATE-FINANCE-1A26B,Banking & Finance Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-BIOETHICS-MEDICAL-5659B,UNI-LAW,DOM-LAW-LAW-BIOETHICS-4C8D6,Bioethics & Medical Law Coordinator,Healthcare ethics and compliance,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CHILD-ONLINE-SAFE-FA490,UNI-LAW,DOM-LAW-LAW-CHILD-PROTECT-CD8FA,Child Online Safety Consultant,Online child safety frameworks,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CHILD-RIGHTS-SUPP-B906E,UNI-LAW,DOM-LAW-LAW-COUNSELLING-06417,Child Rights Support Professional,Legal and emotional support systems,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CIVIL-SERVICES-WI-D47F7,UNI-LAW,DOM-LAW-GOVERNMENT-POLICY-43AB4,Civil Services with Law Background,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CLAT-MENTOR-CCC87,UNI-LAW,DOM-LAW-LAW-EDUCATION-2C526,CLAT Mentor,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-COMMUNITY-LEGAL-L-7C4EE,UNI-LAW,DOM-LAW-LAW-COUNSELLING-06417,Community Legal Literacy Trainer,Legal awareness programs,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-COMPANY-SECRETARY-FDAF4,UNI-LAW,DOM-LAW-CORPORATE-GOVERNA-011BC,Company Secretary with Law Specialization,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-COMPETITION-LAW-L-0F0F0,UNI-LAW,DOM-LAW-CORPORATE-ECONOMI-DCC32,Competition Law Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-COMPLIANCE-FILING-1689B,UNI-LAW,DOM-LAW-LEGAL-MICRO-ENTRE-85085,Compliance Filing Service,"GST, labor, and legal filings",Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-COMPLIANCE-OFFICE-E49D4,UNI-LAW,DOM-LAW-COMPLIANCE-GOVERN-C4820,Compliance Officer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CONSTITUTIONAL-LI-EDB55,UNI-LAW,DOM-LAW-LAW-EDUCATION-2C526,Constitutional Literacy Educator,Constitution awareness programs,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CONSUMER-PROTECTI-9E20C,UNI-LAW,DOM-LAW-CIVIL-REGULATORY-212AA,Consumer Protection Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CONTRACT-LIFECYCL-F4712,UNI-LAW,DOM-LAW-LEGAL-OPERATIONS-AB526,Contract Lifecycle Management Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CORPORATE-LAWYER-078AA,UNI-LAW,DOM-LAW-CORE-LEGAL-PRACTI-A73A3,Corporate Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-COURT-REPORTER-LE-B7FAA,UNI-LAW,DOM-LAW-ADJACENT-LEGAL-PR-2FAC5,Court Reporter / Legal Transcription Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-COURT-TRIBUNAL-AD-C35B7,UNI-LAW,DOM-LAW-LEGAL-ADMINISTRAT-F67D4,Court / Tribunal Administrator,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CRIMINOLOGIST-CRI-0CEA4,UNI-LAW,DOM-LAW-CRIMINAL-JUSTICE-F8242,Criminologist / Criminal Justice Researcher,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CROSS-BORDER-DIGI-35D31,UNI-LAW,DOM-LAW-LAW-DIGITAL-IDENT-D6F36,Cross-Border Digital Identity Advisor,Identity and compliance systems,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CSR-IMPACT-COMPLI-27E4A,UNI-LAW,DOM-LAW-CORPORATE-GOVERNA-3544C,CSR & Impact Compliance Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CULTURAL-RIGHTS-R-4BC15,UNI-LAW,DOM-LAW-LAW-SOCIOLOGY-B1068,Cultural Rights Researcher,Indigenous and cultural rights research,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-CYBER-LAW-SPECIAL-259C4,UNI-LAW,DOM-LAW-TECHNOLOGY-LAW-B4020,Cyber Law Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-DATA-PROTECTION-O-8F420,UNI-LAW,DOM-LAW-TECHNOLOGY-LAW-B4020,Data Protection Officer / Privacy Counsel,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-DEFENCE-SERVICES-D4D08,UNI-LAW,DOM-LAW-GOVERNMENT-DEFENC-0FAAD,Defence Services Legal Officer / JAG,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-DIGITAL-EVIDENCE-10BB7,UNI-LAW,DOM-LAW-TECHNOLOGY-LAW-FO-D9701,Digital Evidence Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-DIGITAL-EVIDENCE-EAFA0,UNI-LAW,DOM-LAW-LAW-CYBER-9D536,Digital Evidence Preservation Specialist,Digital evidence documentation,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-DIGITAL-PRIVACY-C-B6C58,UNI-LAW,DOM-LAW-LAW-DIGITAL-ECONO-7350B,Digital Privacy Consultant,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-DIGITAL-PUBLIC-IN-C20C3,UNI-LAW,DOM-LAW-TECHNOLOGY-GOVERN-E8240,Digital Public Infrastructure Law Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-DIVORCE-TRANSITIO-C7FEA,UNI-LAW,DOM-LAW-LAW-COUNSELLING-06417,Divorce Transition Facilitator,Settlement and transition support,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-DRONE-REGULATION-FF835,UNI-LAW,DOM-LAW-LAW-AVIATION-365EB,Drone Regulation Consultant,Drone compliance and permissions,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-E-DISCOVERY-DOCUM-E88C3,UNI-LAW,DOM-LAW-LEGAL-TECHNOLOGY-0D08E,E-Discovery / Document Review Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-EDUCATION-LAW-SPE-E7C79,UNI-LAW,DOM-LAW-SECTORAL-LAW-38E3C,Education Law Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ELDER-RIGHTS-ADVI-851B9,UNI-LAW,DOM-LAW-LAW-GERONTOLOGY-E0229,Elder Rights Advisor,Rights and succession advisory,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ELECTION-PROCESS-2C1B2,UNI-LAW,DOM-LAW-LAW-ELECTIONS-9216C,Election Process Documentation Specialist,Election process and observer documentation,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ENERGY-LAWYER-04A2C,UNI-LAW,DOM-LAW-SECTORAL-LAW-38E3C,Energy Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ENVIRONMENTAL-IMP-65A48,UNI-LAW,DOM-LAW-LAW-ENVIRONMENT-A5A57,Environmental Impact Documentation Specialist,EIA and sustainability documentation,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ENVIRONMENTAL-LAW-FBFB1,UNI-LAW,DOM-LAW-PUBLIC-INTEREST-C-2DF8B,Environmental Lawyer / ESG Counsel,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-FAMILY-LAWYER-79B77,UNI-LAW,DOM-LAW-PRIVATE-CLIENT-LA-C1EDF,Family Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-FAMILY-MEDIATION-5C18F,UNI-LAW,DOM-LAW-LAW-COUNSELLING-06417,Family Mediation Facilitator,Dispute resolution and settlements,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-FINTECH-PAYMENTS-95746,UNI-LAW,DOM-LAW-TECHNOLOGY-FINANC-EFA5A,FinTech / Payments Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-FOOD-LAW-FSSAI-CO-640BE,UNI-LAW,DOM-LAW-SECTORAL-COMPLIAN-51297,Food Law / FSSAI Compliance Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-FORENSIC-LEGAL-CO-0A05F,UNI-LAW,DOM-LAW-CRIMINAL-JUSTICE-FB220,Forensic Legal Consultant,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-FOREST-RIGHTS-FAC-BDE87,UNI-LAW,DOM-LAW-LAW-RURAL-GOVERNA-8B7C1,Forest Rights Facilitation Consultant,Forest rights claims and tribal facilitation,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-HEALTHCARE-LAWYER-62E0E,UNI-LAW,DOM-LAW-SECTORAL-LAW-38E3C,Healthcare Lawyer / Medical Law Consultant,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-HERITAGE-LAW-CONS-CE1D6,UNI-LAW,DOM-LAW-LAW-HERITAGE-CDB24,Heritage Law Consultant,Heritage property and monument compliance,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-HOSPITAL-CONSENT-3CA72,UNI-LAW,DOM-LAW-LAW-HEALTHCARE-40205,Hospital Consent Documentation Specialist,Medical consent and legal documentation,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-HUMAN-RIGHTS-LAWY-F4B2E,UNI-LAW,DOM-LAW-PUBLIC-INTEREST-L-68294,Human Rights Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-IMMIGRATION-LAWYE-CB851,UNI-LAW,DOM-LAW-INTERNATIONAL-PEO-6AFD9,Immigration Lawyer / Global Mobility Advisor,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-IN-HOUSE-LEGAL-CO-1DCEF,UNI-LAW,DOM-LAW-CORPORATE-INSTITU-CFBDC,In-house Legal Counsel,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-INFLUENCER-COMPLI-1C87A,UNI-LAW,DOM-LAW-LAW-CREATOR-ECONO-2F326,Influencer Compliance Strategist,Creator contracts and disclosures,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-INFLUENCER-CONTRA-547D6,UNI-LAW,DOM-LAW-LAW-DIGITAL-ECONO-7350B,Influencer Contract Advisor,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-INFRASTRUCTURE-PR-02E01,UNI-LAW,DOM-LAW-CORPORATE-PUBLIC-A1367,Infrastructure / Projects Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-INSOLVENCY-PROFES-B5C48,UNI-LAW,DOM-LAW-INSOLVENCY-RESTRU-27814,Insolvency Professional,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-INSURANCE-LAWYER-D242F,UNI-LAW,DOM-LAW-SECTORAL-LAW-38E3C,Insurance Lawyer / Claims Counsel,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-INTELLECTUAL-PROP-1F807,UNI-LAW,DOM-LAW-IP-INNOVATION-FBCAA,Intellectual Property Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-INTERNATIONAL-ORG-232DA,UNI-LAW,DOM-LAW-INTERNATIONAL-LAW-0B788,International Organization Legal Officer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-INTERNATIONAL-TRA-22A86,UNI-LAW,DOM-LAW-INTERNATIONAL-TRA-24631,International Trade Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-INVESTMENT-FUNDS-31403,UNI-LAW,DOM-LAW-CORPORATE-FINANCE-1A26B,Investment Funds Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-JUDICIAL-OFFICER-C02AC,UNI-LAW,DOM-LAW-JUDICIARY-PUBLIC-62450,Judicial Officer / Civil Judge,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-JUDICIARY-EXAM-TR-ED944,UNI-LAW,DOM-LAW-LAW-EDUCATION-2C526,Judiciary Exam Trainer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LABOUR-EMPLOYMENT-EF16D,UNI-LAW,DOM-LAW-CORPORATE-SOCIAL-67E66,Labour & Employment Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LAW-CLERK-JUDICIA-FFD4F,UNI-LAW,DOM-LAW-JUDICIARY-PUBLIC-62450,Law Clerk / Judicial Clerk,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LAW-FIRM-KNOWLEDG-F93D6,UNI-LAW,DOM-LAW-LEGAL-OPERATIONS-AB526,Law Firm Knowledge Management Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-ACADEMIC-LA-DD514,UNI-LAW,DOM-LAW-LEGAL-EDUCATION-R-6980B,Legal Academic / Law Professor,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-AI-PROMPT-E-BCFE8,UNI-LAW,DOM-LAW-LEGAL-TECHNOLOGY-0BDA2,Legal AI Prompt Engineer / Workflow Designer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-AID-COORDIN-0E2E9,UNI-LAW,DOM-LAW-PUBLIC-INTEREST-A-D773A,Legal Aid Coordinator,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-ARCHIVIST-C-E400B,UNI-LAW,DOM-LAW-KNOWLEDGE-PUBLIC-BDC0F,Legal Archivist / Court Records & Law Library Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-AUDIOBOOK-P-FF6AC,UNI-LAW,DOM-LAW-LAW-PUBLISHING-9E522,Legal Audiobook Producer,Audio-based legal learning,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-CONTENT-CRE-85698,UNI-LAW,DOM-LAW-LAW-EDUCATION-2C526,Legal Content Creator,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-CONTENT-WRI-FE412,UNI-LAW,DOM-LAW-ADJACENT-LEGAL-PR-2FAC5,Legal Content Writer / Editor,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-CURRICULUM-DC217,UNI-LAW,DOM-LAW-LAW-EDUCATION-2C526,Legal Curriculum Designer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-DATA-ANALYS-47626,UNI-LAW,DOM-LAW-LEGAL-ANALYTICS-15D7D,Legal Data Analyst,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-DATA-VISUAL-02713,UNI-LAW,DOM-LAW-LAW-ANALYTICS-18746,Legal Data Visualization Specialist,Visual legal analytics and reporting,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-DESIGN-LEGA-2EE84,UNI-LAW,DOM-LAW-LEGAL-TECHNOLOGY-8C93C,Legal Design / Legal UX Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-DOCUMENTATI-FC27B,UNI-LAW,DOM-LAW-LEGAL-MICRO-ENTRE-85085,Legal Documentation Studio,Drafting and filing services,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-DRAFTING-CO-A501D,UNI-LAW,DOM-LAW-FLEXIBLE-LEGAL-LI-68ADA,Legal Drafting Consultant,"Contracts, notices, agreements drafting",Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-EDUCATION-C-99B36,UNI-LAW,DOM-LAW-LEGAL-MICRO-ENTRE-85085,Legal Education Channel,YouTube/course-based legal teaching,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-ENTREPRENEU-4064C,UNI-LAW,DOM-LAW-ENTREPRENEURSHIP-3D28F,Legal Entrepreneur / Legal Services Startup Founder,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-ETHICS-PROF-02814,UNI-LAW,DOM-LAW-GOVERNANCE-ETHICS-4F04E,Legal Ethics & Professional Responsibility Officer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-GAMIFICATIO-13C20,UNI-LAW,DOM-LAW-LAW-EDTECH-47B26,Legal Gamification Designer,Legal learning simulations and games,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-JOURNALIST-4E371,UNI-LAW,DOM-LAW-ADJACENT-LEGAL-PR-2FAC5,Legal Journalist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-KNOWLEDGE-E-5B93D,UNI-LAW,DOM-LAW-LAW-AI-SYSTEMS-9ECD0,Legal Knowledge Engineer,Legal data structuring and ontology,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-METAVERSE-P-0B08C,UNI-LAW,DOM-LAW-LAW-VIRTUAL-WORLD-EE218,Legal Metaverse Policy Consultant,Governance for virtual ecosystems,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-METROLOGY-P-9FF81,UNI-LAW,DOM-LAW-SECTORAL-COMPLIAN-51297,Legal Metrology / Product Compliance Consultant,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-OPERATIONS-C01D5,UNI-LAW,DOM-LAW-LEGAL-OPERATIONS-AB526,Legal Operations Manager,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-PROCESS-OUT-9F0E1,UNI-LAW,DOM-LAW-LEGAL-SERVICES-IN-233DC,Legal Process Outsourcing Analyst,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-PROMPT-DESI-2B370,UNI-LAW,DOM-LAW-LAW-GENERATIVE-AI-CE4FB,Legal Prompt Designer,Prompt systems for legal AI workflows,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-PUBLISHER-L-8EFB8,UNI-LAW,DOM-LAW-ADJACENT-LEGAL-PR-2FAC5,Legal Publisher / Law Book Editor,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-RECRUITER-T-859FA,UNI-LAW,DOM-LAW-LEGAL-SERVICES-IN-233DC,Legal Recruiter / Talent Specialist for Law Firms,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-RESEARCHER-928E3,UNI-LAW,DOM-LAW-LEGAL-EDUCATION-R-6980B,Legal Researcher / Research Associate,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-RISK-CONSUL-E9CAE,UNI-LAW,DOM-LAW-ADVISORY-RISK-DEA87,Legal Risk Consultant,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-TECH-ONBOAR-FA090,UNI-LAW,DOM-LAW-LAW-DIGITAL-ECONO-7350B,Legal Tech Onboarding Consultant,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-TECH-PRODUC-B19A2,UNI-LAW,DOM-LAW-LEGAL-TECHNOLOGY-0D08E,Legal Tech Product Manager,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-TRANSLATION-9F755,UNI-LAW,DOM-LAW-ADJACENT-LEGAL-PR-2FAC5,Legal Translation / Multilingual Legal Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGAL-TRANSLATOR-B6DC5,UNI-LAW,DOM-LAW-FLEXIBLE-LEGAL-LI-68ADA,Legal Translator,Translation of legal documents,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGISLATIVE-ASSIS-8790E,UNI-LAW,DOM-LAW-GOVERNMENT-POLICY-43AB4,Legislative Assistant / Policy Drafter,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LEGISLATIVE-LANGU-A7A4D,UNI-LAW,DOM-LAW-LAW-LANGUAGE-A97C4,Legislative Language Simplification Specialist,Simplifying legal language,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LITIGATION-FINANC-1BD9E,UNI-LAW,DOM-LAW-FINANCE-LEGAL-SER-B2B09,Litigation Finance Analyst,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-LOCAL-GOVERNANCE-4BFA0,UNI-LAW,DOM-LAW-LEGAL-MICRO-ENTRE-85085,Local Governance Advisory,Advisory for societies and local bodies,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-MARITIME-SHIPPING-F3F16,UNI-LAW,DOM-LAW-INTERNATIONAL-TRA-50DAA,Maritime / Shipping Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-MEDIA-ENTERTAINME-76673,UNI-LAW,DOM-LAW-CREATIVE-ECONOMY-7656F,Media & Entertainment Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-MEDIATOR-CONCILIA-B4DF9,UNI-LAW,DOM-LAW-DISPUTE-RESOLUTIO-75BD6,Mediator / Conciliator,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-MEME-IP-RIGHTS-AN-C25D1,UNI-LAW,DOM-LAW-LAW-DIGITAL-IP-C8141,Meme/IP Rights Analyst,Copyright and derivative work analysis,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-MOCK-TRIAL-PROGRA-8C378,UNI-LAW,DOM-LAW-LAW-EDUCATION-2C526,Mock Trial Program Designer,Designing legal simulation programs,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-MULTILINGUAL-LEGA-F6218,UNI-LAW,DOM-LAW-LEGAL-MICRO-ENTRE-85085,Multilingual Legal Services,Regional legal drafting and translation,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-NCLT-NCLAT-PRACTI-160CD,UNI-LAW,DOM-LAW-TRIBUNAL-PRACTICE-CEE67,NCLT / NCLAT Practitioner,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-NGO-LEGAL-COMPLIA-81FFE,UNI-LAW,DOM-LAW-SOCIAL-SECTOR-LAW-0A294,NGO Legal & Compliance Officer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-NOTARY-F92FC,UNI-LAW,DOM-LAW-LEGAL-SERVICES-7A230,Notary,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-OATH-COMMISSIONER-B241B,UNI-LAW,DOM-LAW-LEGAL-SERVICES-7A230,Oath Commissioner / Commissioner for Affidavits,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ONLINE-DISPUTE-RE-3B4AF,UNI-LAW,DOM-LAW-ADR-LEGAL-TECH-F7FAE,Online Dispute Resolution Platform Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ONLINE-LEGAL-TEMP-D4244,UNI-LAW,DOM-LAW-LEGAL-MICRO-ENTRE-85085,Online Legal Template Store,Selling legal templates online,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-ONLINE-LEGAL-TUTO-61B7A,UNI-LAW,DOM-LAW-FLEXIBLE-LEGAL-LI-68ADA,Online Legal Tutor,Teaching CLAT/Judiciary/Law subjects,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-OTT-MEDIA-COMPLIA-4E2AD,UNI-LAW,DOM-LAW-LAW-MEDIA-EC049,OTT & Media Compliance Analyst,Content compliance and censorship review,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-PANCHAYAT-GOVERNA-167C8,UNI-LAW,DOM-LAW-LAW-LOCAL-GOVERNA-9E0FC,Panchayat Governance Consultant,Village governance advisory,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-PARALEGAL-6C0F7,UNI-LAW,DOM-LAW-LEGAL-SUPPORT-1D7EC,Paralegal,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-PATENT-AGENT-4C402,UNI-LAW,DOM-LAW-IP-INNOVATION-FBCAA,Patent Agent,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-PHARMA-REGULATORY-1877B,UNI-LAW,DOM-LAW-SECTORAL-COMPLIAN-51297,Pharma Regulatory & Legal Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-PODCAST-YOUTUBE-L-3BED7,UNI-LAW,DOM-LAW-LAW-DIGITAL-MEDIA-C0EB3,Podcast / YouTube Legal Consultant,Advisory for creators and channels,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-POLICE-LEGAL-ADVI-21B8E,UNI-LAW,DOM-LAW-CRIMINAL-JUSTICE-16F98,Police Legal Advisor / Investigation Law Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-POSH-AWARENESS-TR-BF737,UNI-LAW,DOM-LAW-FLEXIBLE-LEGAL-LI-68ADA,POSH Awareness Trainer,Training organizations on POSH compliance,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-PUBLIC-POLICY-DRA-CDEE9,UNI-LAW,DOM-LAW-LAW-POLICY-AB660,Public Policy Drafting Associate,Drafting governance and policy documents,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-PUBLIC-PROSECUTOR-EEB1E,UNI-LAW,DOM-LAW-JUDICIARY-PUBLIC-62450,Public Prosecutor / Assistant Public Prosecutor,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-REAL-ESTATE-LAWYE-B402D,UNI-LAW,DOM-LAW-PROPERTY-INFRASTR-67EED,Real Estate Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-REGIONAL-LANGUAGE-9898A,UNI-LAW,DOM-LAW-LAW-VERNACULAR-CO-1A654,Regional Language Compliance Writer,Regional legal content drafting,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-REGULATORY-AFFAIR-CFC00,UNI-LAW,DOM-LAW-SECTORAL-REGULATI-99A62,Regulatory Affairs Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-RESOLUTION-PROFES-53CB7,UNI-LAW,DOM-LAW-INSOLVENCY-RESTRU-27814,Resolution Professional Support Analyst,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-RTI-CONSULTANT-7B7F5,UNI-LAW,DOM-LAW-FLEXIBLE-LEGAL-LI-68ADA,RTI Consultant,RTI filing and advisory,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-SANCTIONS-AML-COM-5D8EF,UNI-LAW,DOM-LAW-FINANCIAL-CRIME-C-74719,Sanctions / AML Compliance Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-SECURITIES-LAWYER-7BA13,UNI-LAW,DOM-LAW-CORPORATE-FINANCE-1A26B,Securities Lawyer / Capital Markets Counsel,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-SMART-CONTRACT-BL-71F10,UNI-LAW,DOM-LAW-TECHNOLOGY-FINANC-EFA5A,Smart Contract / Blockchain Legal Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-SMART-CONTRACT-DO-ABEBF,UNI-LAW,DOM-LAW-LAW-BLOCKCHAIN-B393E,Smart Contract Documentation Consultant,Blockchain agreement interpretation,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-SPACE-LAW-SATELLI-C6ECE,UNI-LAW,DOM-LAW-FUTURISTIC-SECTOR-E912C,Space Law & Satellite Policy Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-SPORTS-LAWYER-F3ED4,UNI-LAW,DOM-LAW-CREATIVE-ECONOMY-7656F,Sports Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-STARTUP-LEGAL-CON-A5C73,UNI-LAW,DOM-LAW-LAW-DIGITAL-ECONO-7350B,Startup Legal Consultant,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-TAX-LAWYER-2CDFC,UNI-LAW,DOM-LAW-TAX-FISCAL-LAW-DABEA,Tax Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-TEMPLE-TRUST-GOVE-0BC6E,UNI-LAW,DOM-LAW-LAW-RELIGIOUS-INS-829E2,Temple/Trust Governance Advisor,Trust governance and compliance,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-TRADEMARK-ATTORNE-49DC4,UNI-LAW,DOM-LAW-IP-INNOVATION-FBCAA,Trademark Attorney / Brand Protection Specialist,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-VIRTUAL-LEGAL-ASS-CAA4A,UNI-LAW,DOM-LAW-FLEXIBLE-LEGAL-LI-68ADA,Virtual Legal Assistant,Remote legal process support,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-VIRTUAL-REALITY-L-07DD5,UNI-LAW,DOM-LAW-LAW-VR-EDTECH-0911C,Virtual Reality Legal Simulation Designer,Immersive legal simulations,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-WAQF-RELIGIOUS-EN-3DF90,UNI-LAW,DOM-LAW-LAW-RELIGIOUS-GOV-E8ECE,Waqf / Religious Endowment Documentation Specialist,Religious endowment documentation,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-WATER-GOVERNANCE-7F0B7,UNI-LAW,DOM-LAW-LAW-PUBLIC-POLICY-F889C,Water Governance Advisor,Water governance and policy advisory,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-WHITE-COLLAR-CRIM-ED310,UNI-LAW,DOM-LAW-CRIMINAL-CORPORAT-EFE1F,White Collar Crime Lawyer,,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-LAW-WORKPLACE-CONFLIC-AFBD2,UNI-LAW,DOM-LAW-LAW-COUNSELLING-06417,Workplace Conflict Resolution Advisor,Employee conflict management,Core,Validated,0.6.1a,5-Structured- Law.xlsx
+STR-MGT-ADVENTURE-TOURISM-27F39,UNI-MANAGEMENT,DOM-MGT-ADVENTURE-RISK-OP-AD88B,Adventure Tourism Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-AGRI-DRONE-BUSINE-8B65A,UNI-MANAGEMENT,DOM-MGT-AGRI-TECH-SERVICE-C3FC1,Agri Drone Business Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-AGRI-SAAS-CUSTOME-7C721,UNI-MANAGEMENT,DOM-MGT-AGRI-TECH-SAAS-MA-5D614,Agri-SaaS Customer Success Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-AGRIBUSINESS-MANA-E5786,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Agribusiness Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-AI-GOVERNANCE-OPE-DD97D,UNI-MANAGEMENT,DOM-MGT-AI-RISK-COMPLIANC-8D9C4,AI Governance Operations Coordinator,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-AI-STRATEGY-ASSOC-2F844,UNI-MANAGEMENT,DOM-MGT-AI-ERA-MANAGEMENT-89200,AI Strategy Associate,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-AI-WORKFLOW-OPERA-6FB26,UNI-MANAGEMENT,DOM-MGT-AI-NATIVE-OPERATI-B206C,AI Workflow Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-AQUACULTURE-ENTER-0828C,UNI-MANAGEMENT,DOM-MGT-AQUACULTURE-RURAL-3CF88,Aquaculture Enterprise Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-AVIATION-OPERATIO-CDF62,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Aviation Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BAMBOO-CANE-ENTER-F15B7,UNI-MANAGEMENT,DOM-MGT-RESOURCE-BASED-CR-04C40,Bamboo / Cane Enterprise Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BANKING-OPERATION-0AD48,UNI-MANAGEMENT,DOM-MGT-BFSI-MANAGEMENT-3BDA8,Banking Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BEHAVIORAL-ECONOM-AC841,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-ECONOM-CDEC9,Behavioral Economics Consultant,"Designs nudges for products, policy, HR or finance",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BRAND-PARTNERSHIP-A9F9A,UNI-MANAGEMENT,DOM-MGT-MARKETING-MEDIA-0DA11,Brand Partnership Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BUSINESS-ANALYST-2CDD6,UNI-MANAGEMENT,DOM-MGT-ANALYTICS-MANAGEM-54B46,Business Analyst,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BUSINESS-CONTENT-78C6E,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Business Content Creator / Management Educator,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BUSINESS-DEVELOPM-83F00,UNI-MANAGEMENT,DOM-MGT-SALES-GROWTH-E6083,Business Development Executive/Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BUSINESS-PLAN-COM-7A69E,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Business Plan Competition Organizer,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BUSINESS-RESEARCH-30F74,UNI-MANAGEMENT,DOM-MGT-CONSULTING-ANALYT-ECE90,Business Research & Competitor Intelligence Freelancer,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BUSINESS-RESEARCH-9C4B3,UNI-MANAGEMENT,DOM-MGT-ANALYTICS-CONSULT-DC598,Business Research Analyst,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BUSINESS-RESEARCH-FAE35,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Business Research Freelancing,"Prepares market research, competitor analysis, reports",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-BUSINESS-WRITING-DF807,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Business Writing Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CARBON-MARKET-OPE-5FE43,UNI-MANAGEMENT,DOM-MGT-CLIMATE-ESG-FINAN-0F88E,Carbon Market Operations Associate,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CASE-COMPETITION-ED431,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Case Competition Mentor,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CIRCULAR-ECONOMY-311D7,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-SUSTAI-10362,Circular Economy Business Consultant,"Helps firms design reuse, recycling and waste-to-value models",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CLIMATE-BUSINESS-B20D7,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-CLIMAT-72A3C,Climate Business Analyst,Analyzes business risks/opportunities from climate transition,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-COASTAL-TOURISM-O-467CB,UNI-MANAGEMENT,DOM-MGT-TOURISM-DESTINATI-02BB0,Coastal Tourism Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-COLLEGE-INSTITUTI-8D9B1,UNI-MANAGEMENT,DOM-MGT-EDUCATION-MANAGEM-42618,College/Institution Administrator,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-COMMUNITY-MANAGEM-AAA7C,UNI-MANAGEMENT,DOM-MGT-DIGITAL-PLATFORM-EE744,Community Management Service,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-COMMUNITY-MANAGER-5EE4E,UNI-MANAGEMENT,DOM-MGT-DIGITAL-MANAGEMEN-19464,Community Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-COMMUNITY-MONETIZ-7F563,UNI-MANAGEMENT,DOM-MGT-COMMUNITY-BUSINES-B314E,Community Monetization Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-COMPLIANCE-MANAGE-FBD21,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-LAW-C1AC4,Compliance Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CORPORATE-COMMUNI-566A7,UNI-MANAGEMENT,DOM-MGT-MARKETING-COMMS-95BFB,Corporate Communications Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CORPORATE-RESUME-8B8D5,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Corporate Resume & LinkedIn Strategist,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CORPORATE-TRAINER-5850D,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Corporate Trainer / Soft Skills Facilitator,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CORPORATE-TRAININ-A9848,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Corporate Training / Soft Skills Service,Runs training workshops and employability sessions,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-COURSE-LAUNCH-MAN-D0D75,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Course Launch Management,"Coordinates online course launch, landing page, webinar, student support",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-COURSE-LAUNCH-WEB-7A45F,UNI-MANAGEMENT,DOM-MGT-EDTECH-KNOWLEDGE-D859F,Course Launch / Webinar Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CREATOR-BUSINESS-94AD8,UNI-MANAGEMENT,DOM-MGT-CREATOR-ECONOMY-551D9,Creator Business Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CREATOR-ECONOMY-B-C700B,UNI-MANAGEMENT,DOM-MGT-CREATOR-PERSONAL-94652,Creator Economy Business Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CREATOR-ECONOMY-M-FF116,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-MEDIA-A274B,Creator Economy Monetization Strategist,"Designs revenue streams for creators: courses, sponsors, communities",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CREATOR-INFLUENCE-2BFE9,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Creator / Influencer Management,"Handles deals, schedules, reporting and monetization",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CREATOR-OPERATION-0C158,UNI-MANAGEMENT,DOM-MGT-CREATOR-ECONOMY-551D9,Creator Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CRM-SETUP-SALES-F-6C3EC,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,CRM Setup & Sales Funnel Service,"Sets up customer tracking, lead stages, follow-up systems",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CSR-MANAGER-58D10,UNI-MANAGEMENT,DOM-MGT-SUSTAINABILITY-DE-B6D39,CSR Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CULTURAL-ENTERPRI-C4EE8,UNI-MANAGEMENT,DOM-MGT-INTERDISCIPLINARY-2E3CF,Cultural Enterprise Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-CUSTOMER-SUCCESS-B41B2,UNI-MANAGEMENT,DOM-MGT-TECH-MANAGEMENT-6BB35,Customer Success Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-DAIRY-COOPERATIVE-99059,UNI-MANAGEMENT,DOM-MGT-COOPERATIVE-DAIRY-D06FE,Dairy Cooperative Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-DEVELOPMENT-SECTO-C1E22,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Development Sector Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-DIGITAL-MARKETING-EB1C2,UNI-MANAGEMENT,DOM-MGT-MARKETING-GROWTH-2E3EF,Digital Marketing Micro-Agency,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-DIGITAL-TRANSFORM-71647,UNI-MANAGEMENT,DOM-MGT-TECH-MANAGEMENT-6BB35,Digital Transformation Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-DISASTER-RELIEF-S-6C0E6,UNI-MANAGEMENT,DOM-MGT-HUMANITARIAN-LOGI-D55E0,Disaster Relief Supply Chain Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-E-COMMERCE-MARKET-15971,UNI-MANAGEMENT,DOM-MGT-E-COMMERCE-RETAIL-777FE,E-commerce Marketplace Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-E-COMMERCE-OPERAT-8A100,UNI-MANAGEMENT,DOM-MGT-DIGITAL-MANAGEMEN-19464,E-commerce Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-E-COMMERCE-STORE-B612C,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,E-commerce Store Operations Service,"Manages listings, catalogues, pricing, ads and order coordination",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-EDUCATION-BUSINES-5B626,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-EDUCAT-035BA,Education Business Operations Designer,"Designs admissions, counselling, LMS and college operations workflows",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-EDUCATION-EDTECH-76C67,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Education / EdTech Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-ETHICAL-AI-ADOPTI-67769,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-AI-GOV-C41A4,Ethical AI Adoption Manager,"Helps organizations adopt AI with policy, risk and process safeguards",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-EVENT-COORDINATIO-E1D84,UNI-MANAGEMENT,DOM-MGT-EVENT-HOSPITALITY-CCD79,Event Coordination Micro-Agency,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-EVENT-MANAGER-F2CE5,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Event Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-EVENT-PRODUCTION-4554A,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Event Production Micro-Agency,"Plans small events, college events, workshops, local promotions",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-EXECUTIVE-INTERVI-A0903,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Executive Interview Coach,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FAITH-BASED-TEMPL-E02CB,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-RELIGI-86E5A,Faith-Based / Temple Operations Manager,"Manages crowd flow, donations, events and services ethically",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FAMILY-BUSINESS-M-D9030,UNI-MANAGEMENT,DOM-MGT-ENTREPRENEURSHIP-413F1,Family Business Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FESTIVAL-AND-MEGA-091FA,UNI-MANAGEMENT,DOM-MGT-EVENT-PUBLIC-LOGI-72967,Festival and Mega-Event Logistics Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FINANCE-MANAGER-A60F1,UNI-MANAGEMENT,DOM-MGT-FINANCE-MANAGEMEN-DE651,Finance Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FISHERY-BUSINESS-47310,UNI-MANAGEMENT,DOM-MGT-BLUE-ECONOMY-FISH-9BB5E,Fishery Business Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FOOD-PROCESSING-M-99EE5,UNI-MANAGEMENT,DOM-MGT-FOOD-BUSINESS-MSM-D7DA5,Food Processing Micro-Enterprise Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FPO-MANAGEMENT-PR-C061B,UNI-MANAGEMENT,DOM-MGT-AGRI-BUSINESS-COL-93186,FPO Management Professional,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FPO-RURAL-ENTERPR-61CDA,UNI-MANAGEMENT,DOM-MGT-RURAL-AGRI-BUSINE-54BC6,FPO / Rural Enterprise Support Service,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FRANCHISE-BUSINES-B86AF,UNI-MANAGEMENT,DOM-MGT-ENTREPRENEURSHIP-413F1,Franchise Business Manager/Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FRANCHISE-EXPANSI-53DF9,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-RETAIL-6EEF9,Franchise Expansion Analyst,"Evaluates locations, catchments and unit economics",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FRANCHISE-FEASIBI-9DB04,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Franchise Feasibility Consultant,"Helps evaluate franchise cost, location and ROI",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FRANCHISE-LOCAL-E-43E0F,UNI-MANAGEMENT,DOM-MGT-RETAIL-ENTREPRENE-55D41,Franchise & Local Expansion Advisor,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FREELANCE-DIGITAL-708A8,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Freelance Digital Marketing Service,"Runs social media, ads, SEO or lead generation for small clients",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-FUNDRAISING-INVES-65E20,UNI-MANAGEMENT,DOM-MGT-STARTUP-FINANCE-EE08F,Fundraising / Investor Relations Associate,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-GI-PRODUCT-MARKET-6FE1E,UNI-MANAGEMENT,DOM-MGT-HERITAGE-BRAND-IP-215A7,GI Product Marketing Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-GREEN-SUPPLY-CHAI-47F85,UNI-MANAGEMENT,DOM-MGT-SUSTAINABLE-OPERA-40C07,Green Supply Chain Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-GROWTH-MANAGER-FCC6B,UNI-MANAGEMENT,DOM-MGT-DIGITAL-MANAGEMEN-19464,Growth Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-HANDLOOM-CLUSTER-25E75,UNI-MANAGEMENT,DOM-MGT-CRAFT-CLUSTER-MAN-2F437,Handloom Cluster Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-HERBAL-PRODUCT-BU-E4FEF,UNI-MANAGEMENT,DOM-MGT-NATURAL-PRODUCTS-CF01E,Herbal Product Business Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-HERITAGE-EXPERIEN-255C8,UNI-MANAGEMENT,DOM-MGT-INTERDISCIPLINARY-2E3CF,Heritage Experience & Museum Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-HOSPITAL-ADMINIST-F32A2,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Hospital Administrator,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-HOTEL-HOSPITALITY-3F749,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Hotel / Hospitality Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-HR-RECRUITER-RECR-62863,UNI-MANAGEMENT,DOM-MGT-HR-LIVELIHOOD-50ED4,HR Recruiter / Recruitment Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-HUMAN-RESOURCE-MA-2A4AA,UNI-MANAGEMENT,DOM-MGT-HR-MANAGEMENT-DC8E9,Human Resource Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-INFLUENCER-FRAUD-85124,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-DIGITA-C45E1,Influencer Fraud / Brand Safety Analyst,"Checks fake followers, unsafe content and campaign authenticity",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-INSTITUTIONAL-SAL-51A32,UNI-MANAGEMENT,DOM-MGT-SALES-MANAGEMENT-7B173,Institutional Sales Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-INSURANCE-BUSINES-A40A5,UNI-MANAGEMENT,DOM-MGT-BFSI-MANAGEMENT-3BDA8,Insurance Business Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-INTERNATIONAL-TRA-05CDA,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,International Trade Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-KIRANA-DIGITIZATI-CC3BC,UNI-MANAGEMENT,DOM-MGT-RETAIL-TECH-MSME-8F111,Kirana Digitization Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-LINKEDIN-BRANDING-8C5AC,UNI-MANAGEMENT,DOM-MGT-CAREER-SERVICES-S-711D5,LinkedIn Branding & Resume Consulting,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-LINKEDIN-BRANDING-A46ED,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,LinkedIn Branding & Resume Service,Builds professional profiles and resumes,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-LOCAL-BUSINESS-DI-AABB7,UNI-MANAGEMENT,DOM-MGT-BHARAT-DIGITAL-CO-5394B,Local Business Digitization Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-LOCAL-EXPERIENCE-95C4A,UNI-MANAGEMENT,DOM-MGT-EXPERIENCE-ECONOM-69C65,Local Experience Designer,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-LOGISTICS-PORT-OP-27BE8,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Logistics / Port Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-LUXURY-BRAND-MANA-DA743,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Luxury Brand Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MANAGEMENT-CONSUL-2D188,UNI-MANAGEMENT,DOM-MGT-CONSULTING-CBDED,Management Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MANAGEMENT-EDUCAT-90495,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Management Education YouTuber / Channel Operator,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MANAGEMENT-RESEAR-B4C87,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Management Research Assistant / Case Writer,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MANAGEMENT-TRAINE-8A562,UNI-MANAGEMENT,DOM-MGT-CORE-MANAGEMENT-443C3,Management Trainee,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MARKETING-MANAGER-0A49B,UNI-MANAGEMENT,DOM-MGT-MARKETING-62860,Marketing Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MBA-ADMISSIONS-CO-676E5,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,MBA Admissions Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MBA-PLACEMENT-PRO-7273C,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,MBA Placement Process Coordinator,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MEDIA-BUSINESS-MA-44B7B,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Media Business Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MERCHANDISING-MAN-6375A,UNI-MANAGEMENT,DOM-MGT-RETAIL-FASHION-AE55C,Merchandising Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MOUNTAIN-ECO-TOUR-A609E,UNI-MANAGEMENT,DOM-MGT-ECO-TOURISM-RESPO-810FA,Mountain Eco-Tourism Enterprise Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MSME-BUSINESS-DIG-1C374,UNI-MANAGEMENT,DOM-MGT-LIVELIHOOD-MANAGE-57668,MSME Business Digitization Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MSME-EXPORT-READI-7C7D2,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-COMMER-B229D,MSME Export Readiness Consultant,Prepares small businesses for basic export documentation and market entry,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MSME-OPERATIONS-A-F37DD,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,MSME Operations Advisory,"Improves basic SOPs, inventory, vendor and staff systems",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-MSME-PROCESS-DOCU-F55FC,UNI-MANAGEMENT,DOM-MGT-OPERATIONS-MSME-C-977FE,MSME Process Documentation Service,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-NEURO-MARKETING-R-AB04B,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-PSYCHO-6EBEB,Neuro-Marketing Research Associate,"Studies consumer attention, emotion and decision behaviour",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-NO-CODE-AUTOMATIO-7F847,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,No-Code Automation Service,Automates workflows using no-code tools and AI,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-NO-CODE-BUSINESS-555C6,UNI-MANAGEMENT,DOM-MGT-AI-TECH-LIVELIHOO-AB2EA,No-Code Business Automation Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-ODOP-BRAND-AND-CL-5C1C0,UNI-MANAGEMENT,DOM-MGT-CLUSTER-BRANDING-CABBA,ODOP Brand and Cluster Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-ONDC-SELLER-ENABL-3B337,UNI-MANAGEMENT,DOM-MGT-BHARAT-DIGITAL-CO-5394B,ONDC Seller Enablement Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-OPERATIONS-MANAGE-1508E,UNI-MANAGEMENT,DOM-MGT-OPERATIONS-DC741,Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-ORGANIC-VALLEY-SU-141F6,UNI-MANAGEMENT,DOM-MGT-ORGANIC-FARM-TO-M-80C00,Organic Valley Supply Chain Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-ORNAMENTAL-FISH-B-5A8BD,UNI-MANAGEMENT,DOM-MGT-NICHE-PET-AQUACUL-4A6E9,Ornamental Fish Business Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PEARL-FARMING-ENT-173AF,UNI-MANAGEMENT,DOM-MGT-AQUACULTURE-LUXUR-D0DD1,Pearl Farming Enterprise Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PERFORMANCE-MARKE-9C0D6,UNI-MANAGEMENT,DOM-MGT-DIGITAL-MANAGEMEN-19464,Performance Marketing Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PITCH-DECK-PRESEN-27951,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Pitch Deck & Presentation Consulting,Creates investor/business/academic decks,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-POLITICAL-CAMPAIG-1C07A,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-POLITI-E9951,Political Campaign Operations Manager,"Manages field teams, booths, volunteers and campaign dashboards",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-POLITICAL-CAMPAIG-87216,UNI-MANAGEMENT,DOM-MGT-NICHE-MANAGEMENT-52274,Political Campaign Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PRESENTATION-PITC-DE4EB,UNI-MANAGEMENT,DOM-MGT-STARTUP-COMMUNICA-BB2D3,Presentation & Pitch Deck Consulting,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PROCUREMENT-MANAG-CAF11,UNI-MANAGEMENT,DOM-MGT-OPERATIONS-DC741,Procurement Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PRODUCT-MANAGER-8CA40,UNI-MANAGEMENT,DOM-MGT-TECH-MANAGEMENT-6BB35,Product Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PRODUCT-OPERATION-E0976,UNI-MANAGEMENT,DOM-MGT-TECH-MANAGEMENT-6BB35,Product Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PROJECT-MANAGER-89F71,UNI-MANAGEMENT,DOM-MGT-GENERAL-TECH-MANA-C9489,Project Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PROMPT-OPERATIONS-4B68D,UNI-MANAGEMENT,DOM-MGT-AI-ERA-MANAGEMENT-89200,Prompt Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PUBLIC-HEALTH-OPE-FFB40,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-HEALTH-A23CA,Public Health Operations Manager,"Coordinates vaccination, awareness, diagnostics or health outreach operations",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PUBLIC-MOBILITY-I-31F9C,UNI-MANAGEMENT,DOM-MGT-URBAN-MOBILITY-PL-A4A66,Public Mobility Integration Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PUBLIC-NARRATIVE-F672D,UNI-MANAGEMENT,DOM-MGT-INTERDISCIPLINARY-2E3CF,Public Narrative & Social Impact Communication Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PUBLIC-POLICY-MAN-F5ECE,UNI-MANAGEMENT,DOM-MGT-INTERDISCIPLINARY-2E3CF,Public Policy Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-PUBLISHING-OPERAT-34F41,UNI-MANAGEMENT,DOM-MGT-INTERDISCIPLINARY-2E3CF,Publishing Operations & Literary Business Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-QUALITY-MANAGER-5D807,UNI-MANAGEMENT,DOM-MGT-OPERATIONS-DC741,Quality Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-REAL-ESTATE-BUSIN-69FD2,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Real Estate Business Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-RECRUITMENT-CONSU-D9B1A,UNI-MANAGEMENT,DOM-MGT-HR-PEOPLE-OPERATI-5A1E0,Recruitment Consultancy / Talent Sourcing,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-RECRUITMENT-MICRO-89733,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Recruitment Micro-Agency,Sources candidates for employers,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-RETAIL-STORE-MANA-4CBEF,UNI-MANAGEMENT,DOM-MGT-RETAIL-MANAGEMENT-6DC6A,Retail Store Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-REVENUE-OPERATION-E95EC,UNI-MANAGEMENT,DOM-MGT-TECH-MANAGEMENT-6BB35,Revenue Operations Analyst/Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-RISK-MANAGER-509DA,UNI-MANAGEMENT,DOM-MGT-BFSI-ENTERPRISE-3CDBF,Risk Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-RURAL-BPO-DIGITAL-6D843,UNI-MANAGEMENT,DOM-MGT-RURAL-DIGITAL-SER-E23DE,Rural BPO / Digital Services Center Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-RURAL-PLATFORM-OP-130B8,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-RURAL-B0A17,Rural Platform Operations Manager,Runs digital marketplaces or service platforms for rural users,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-RURAL-SPORTS-LEAG-6C970,UNI-MANAGEMENT,DOM-MGT-SPORTS-COMMUNITY-9F079,Rural Sports League Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SEAFOOD-EXPORT-OP-B707B,UNI-MANAGEMENT,DOM-MGT-EXPORT-SUPPLY-CHA-C0418,Seafood Export Operations Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SEAWEED-BUSINESS-978AC,UNI-MANAGEMENT,DOM-MGT-MARINE-BIO-ENTERP-758FE,Seaweed Business Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SENIOR-LIVING-OPE-FF684,UNI-MANAGEMENT,DOM-MGT-LONGEVITY-CARE-EC-931E1,Senior Living Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SHG-LIVELIHOOD-PR-5F9F6,UNI-MANAGEMENT,DOM-MGT-DEVELOPMENT-LIVEL-0C5BC,SHG Livelihood Program Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SMALL-BUSINESS-DI-CD57F,UNI-MANAGEMENT,DOM-MGT-MGMT-LIVELIHOOD-935FD,Small Business Digitization Advisor,"Helps local businesses adopt payments, CRM, accounting, website, listings",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SPICE-ROUTE-PLANT-629DB,UNI-MANAGEMENT,DOM-MGT-AGRI-TOURISM-EXPE-B34AF,Spice Route / Plantation Tourism Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SPIRITUAL-TOURISM-B52DE,UNI-MANAGEMENT,DOM-MGT-MANAGEMENT-CULTUR-52C50,Spiritual Tourism Business Manager,"Builds pilgrim, wellness and heritage travel experiences",Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SPORTS-MANAGER-A7B03,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Sports Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-STARTUP-OPERATION-14C6F,UNI-MANAGEMENT,DOM-MGT-ENTREPRENEURSHIP-413F1,Startup Operations Associate/Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-STARTUP-PITCH-CON-09CCA,UNI-MANAGEMENT,DOM-MGT-SHADOW-CAREERS-MB-D2B20,Startup Pitch Consultant,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SUGAR-COOPERATIVE-B0CA7,UNI-MANAGEMENT,DOM-MGT-COOPERATIVE-AGRO-4CB42,Sugar Cooperative Administration,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SUPPLY-CHAIN-MANA-B5612,UNI-MANAGEMENT,DOM-MGT-OPERATIONS-SCM-1BE7B,Supply Chain Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-SUSTAINABILITY-ES-59CCB,UNI-MANAGEMENT,DOM-MGT-EMERGING-MANAGEME-E8511,Sustainability / ESG Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-TALENT-MANAGER-86560,UNI-MANAGEMENT,DOM-MGT-MEDIA-SPORTS-CREA-B4987,Talent Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-TEA-ESTATE-PLANTA-EB170,UNI-MANAGEMENT,DOM-MGT-PLANTATION-RURAL-99886,Tea Estate / Plantation Business Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-TEMPLE-ADMINISTRA-ED936,UNI-MANAGEMENT,DOM-MGT-SPIRITUAL-TOURISM-C0B98,Temple Administration / Pilgrimage Management,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-TOURISM-BUSINESS-9B974,UNI-MANAGEMENT,DOM-MGT-SECTOR-MANAGEMENT-8B183,Tourism Business Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-TRAINING-DEVELOPM-177E0,UNI-MANAGEMENT,DOM-MGT-HR-EDUCATION-757E4,Training & Development Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-TRIBAL-ENTERPRISE-EFBAA,UNI-MANAGEMENT,DOM-MGT-TRIBAL-LIVELIHOOD-7EF51,Tribal Enterprise Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-VERNACULAR-DIGITA-230F8,UNI-MANAGEMENT,DOM-MGT-BHARAT-CONSUMER-D-6A166,Vernacular Digital Commerce Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-VIRTUAL-BUSINESS-F3C6A,UNI-MANAGEMENT,DOM-MGT-OPERATIONS-STARTU-ADFBA,Virtual Business Assistant / Founder Office Support,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-WASTE-ECONOMY-CIR-83729,UNI-MANAGEMENT,DOM-MGT-CIRCULAR-ECONOMY-A08C3,Waste Economy / Circular Business Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-WATER-RESOURCE-US-2BF9E,UNI-MANAGEMENT,DOM-MGT-NATURAL-RESOURCE-FCC38,Water Resource User Association Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-WEALTH-MANAGEMENT-D530C,UNI-MANAGEMENT,DOM-MGT-BFSI-MANAGEMENT-3BDA8,Wealth Management Associate,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-MGT-YOGA-WELLNESS-RET-2E73E,UNI-MANAGEMENT,DOM-MGT-WELLNESS-TOURISM-B1E07,Yoga / Wellness Retreat Operations Manager,,Core,Validated,0.6.1a,4-Strcutured-Management.xlsx
+STR-SCI-4-YEAR-SERVICE-89A9F,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,4-year service,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AC-TECHNICIAN-E01C7,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,AC Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ACCESSIBILITY-INC-D2B35,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Accessibility / Inclusive Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ACTUARIAL-SCIENCE-EFF21,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Actuarial Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AEROSPACE-942B9,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,AEROSPACE,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AEROSPACE-ENGINEE-EA0D5,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Aerospace Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AGRI-TECHNICIAN-D253F,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Agri Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AGRICULTURAL-ENGI-245F4,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,AGRICULTURAL ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AGRICULTURE-SCIEN-8D2D0,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Agriculture Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AI-ENGINEER-F5949,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,AI Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AI-RESEARCHER-A10E1,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,AI Researcher,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AIRCRAFT-DESIGNER-7E8AE,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Aircraft Designer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AIRLINE-MANAGER-ACB24,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Airline Manager,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AIRLINE-PILOT-62737,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Airline Pilot,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AIRMAN-CC1A2,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Airman,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AIRPORT-FIRE-STAF-B1788,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Airport Fire Staff,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AIRPORT-OFFICER-3CFC6,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Airport Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AIRPORT-OPS-3E907,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Airport Ops,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AME-A44BC,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,AME,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ANALYTICS-ENGINEE-50BF8,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Analytics Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ANESTHESIA-5E3A1,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Anesthesia,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ANIMATION-59153,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Animation,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ARCHITECTURE-E3E9E,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Architecture,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ARMY-OFFICER-F8BFE,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Army Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ARTIFICIAL-INTELL-50A54,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,ARTIFICIAL INTELLIGENCE,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ASSISTANT-DF458,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Assistant,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ASTROPHYSICS-043F6,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Astrophysics,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ATC-AF747,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,ATC,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AUTO-TECHNICIAN-9F2E1,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Auto Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AUTOMOBILE-ENGINE-986E6,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,AUTOMOBILE ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AVIATION-FINANCE-EBB7C,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Aviation Finance,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AVIATION-LAWYER-4C22F,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Aviation Lawyer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AVIONICS-ENGINEER-41CB0,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Avionics Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-AYURVEDA-BAMS-90531,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Ayurveda (BAMS),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BI-ENGINEER-0CE64,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,BI Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BIOCHEMISTRY-6BACF,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Biochemistry,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BIOLOGY-FF9D0,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Biology,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BIOMEDICAL-ENGINE-8D23F,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,BIOMEDICAL ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BIOPHYSICS-64E6B,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Biophysics,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BIOTECHNOLOGY-503B6,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,BIOTECHNOLOGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BIOTECHNOLOGY-9B9A3,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Biotechnology,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BOTANY-5DFD8,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Botany,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BRAND-IDENTITY-DE-90BBD,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Brand / Identity Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-BUSINESS-ANALYST-F4378,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Business Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CABIN-CREW-AFC01,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Cabin Crew,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CARGO-MANAGER-4134B,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Cargo Manager,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CERAMIC-ENGINEERI-0B019,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,CERAMIC ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CHARTER-PILOT-434CC,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Charter Pilot,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CHEMICAL-ENGINEER-89499,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,CHEMICAL ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CHEMISTRY-9B300,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Chemistry,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CIVIL-ENGINEERING-28C68,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,Civil Engineering,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CLERK-EE94B,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Clerk,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CLIMATE-SCIENCE-1DC56,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Climate Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-COGNITIVE-SCIENCE-55F54,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Cognitive Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-COMMERCIAL-PILOT-A8A0F,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Commercial Pilot,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-COMMUNITY-MEDICIN-90E23,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Community Medicine,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-COMPUTATIONAL-SCI-4F02F,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Computational Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-COMPUTER-SCIENCE-75B3D,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,Computer Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-COMPUTER-VISION-E-A1C58,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Computer Vision Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CONSTABLE-E5F16,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Constable,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CYBER-SPACE-ROLES-2EEAB,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Cyber/Space roles,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-CYBERSECURITY-7DB8E,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,Cybersecurity,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DAIRY-ASSISTANT-3F224,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Dairy Assistant,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DAIRY-TECHNOLOGY-FFD9E,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,DAIRY TECHNOLOGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-ANALYST-F7E47,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Data Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-ARCHITECT-7F3B2,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Data Architect,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-ENGINEER-542AF,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Data Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-GOVERNANCE-D-6BB2E,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Data Governance / Data Steward,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-PRODUCT-MANA-AAAA2,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Data Product Manager,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-QUALITY-ENGI-35370,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Data Quality Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-SCIENCE-BSC-A81F3,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Data Science (BSc Route),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-SCIENCE-C55D0,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,Data Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-SCIENTIST-42420,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Data Scientist,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DATA-VISUALIZATIO-5CB3A,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Data Visualization Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DECISION-SCIENTIS-A3BB0,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Decision Scientist,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DEFENCE-ENTRY-649A4,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Defence Entry,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DENTAL-BDS-6D960,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Dental (BDS),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DERMATOLOGY-D058B,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Dermatology,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DESIGN-MANAGEMENT-BA90E,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Design Management,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DESIGN-RESEARCH-84BCB,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Design Research,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DIPLOMA-ENGINEER-34585,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Diploma Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DISPATCHER-055B1,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Dispatcher,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DRONE-PILOT-74960,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Drone Pilot,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-DRONE-TECHNICIAN-617FE,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Drone Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ECOSYSTEM-ROLES-FB1EB,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Ecosystem roles,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-EDUCATION-OFFICER-FAD0B,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Education Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ELECTRICAL-ACB07,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,ELECTRICAL,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ELECTRICIAN-97A09,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Electrician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ELECTRONICS-ECE-F6FDB,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,ELECTRONICS (ECE),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ELECTRONICS-TECHN-B16CE,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Electronics Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ENGINEER-0AB07,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ENGINEER-OFFICER-88C99,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Engineer Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ENTREPRENEUR-4EA1C,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Entrepreneur,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ENVIRONMENTAL-BCCE8,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,ENVIRONMENTAL,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ENVIRONMENTAL-SCI-7193C,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Environmental Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ENVIRONMENTAL-TEC-23215,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Environmental Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-EV-SPECIALIST-DCEF9,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,EV Specialist,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-EXPERIENCE-DESIGN-70F62,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Experience Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FASHION-DESIGN-99E6A,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Fashion Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FINANCIAL-DATA-AN-5CAEB,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Financial Data Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FIRE-SAFETY-ENGIN-C466B,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,FIRE & SAFETY ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FISHERIES-TECH-EC6F3,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Fisheries Tech,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FITTER-423CE,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Fitter,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FLIGHT-INSTRUCTOR-233BF,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Flight Instructor,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FOOD-SCIENCE-70106,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Food Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FOOD-TECH-5B17F,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Food Tech,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FOOD-TECHNOLOGY-D5A4E,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,FOOD TECHNOLOGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FOOTWEAR-DESIGN-C424E,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Footwear Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FORENSIC-MEDICINE-3C46F,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Forensic Medicine,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FORENSIC-SCIENCE-7BF83,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Forensic Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FORESTRY-E454B,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Forestry,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-FREELANCER-E078F,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Freelancer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GAME-DESIGN-EAE86,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Game Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GARMENT-TECHNICIA-84224,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Garment Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GARUD-F7775,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Garud,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GENERAL-MEDICINE-C5720,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,General Medicine,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GENERAL-SURGERY-EF5BC,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,General Surgery,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GENETICS-73400,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Genetics,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GEO-INFORMATICS-G-9E95B,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,GEO-INFORMATICS / GEOMATICS,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GEOLOGY-1CE45,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Geology,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GEOSPATIAL-DATA-A-EAA07,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Geospatial Data Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GLOBAL-PILOT-CE0C4,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Global Pilot,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GRAPHIC-DESIGN-9AED7,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Graphic Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GROUND-STAFF-73010,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Ground Staff,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-GROWTH-EXPERIMENT-8EBBB,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Growth / Experimentation Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-HARDWARE-TECHNICI-6A8BB,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Hardware Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-HEALTH-DATA-ANALY-985C9,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Health Data Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-HELICOPTER-PILOT-EBC2E,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Helicopter Pilot,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-HOMEOPATHY-BHMS-9716E,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Homeopathy (BHMS),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-IN-FLIGHT-MANAGER-66C96,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,In-flight Manager,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-INDUSTRIAL-CHEMIS-70D2F,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Industrial Chemistry,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-INDUSTRIAL-DESIGN-FB177,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Industrial Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-INDUSTRIAL-PRODUC-C9648,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,INDUSTRIAL / PRODUCTION ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-INFORMATION-TECHN-46B29,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,INFORMATION TECHNOLOGY (IT),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-INSPECTOR-89C5F,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Inspector,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-INSTRUMENTATION-E-34E3C,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,INSTRUMENTATION ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-INTERACTION-DESIG-79697,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Interaction Design (IxD),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-INTERIOR-DESIGN-9EEF2,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Interior Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-LAB-TECHNICIAN-8B872,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Lab Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-LEATHER-TECHNOLOG-BB1AA,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,LEATHER TECHNOLOGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-LEGAL-OFFICER-6D26D,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Legal Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-LIGHTING-DESIGN-A9985,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Lighting Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-LOGISTICS-OFFICER-AD442,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Logistics Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MACHINE-LEARNING-53A9B,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Machine Learning Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MANAGER-601C0,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Manager,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MARCOS-AC304,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,MARCOS,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MARINE-ENGINEERIN-BD12D,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,MARINE ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MARINE-TECHNICIAN-6E55C,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Marine Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MARKETING-ANALYST-CE7DA,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Marketing Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MATERIALS-SCIENCE-A59A5,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,MATERIALS SCIENCE,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MATERIALS-SCIENCE-A8075,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Materials Science (BSc),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MATHEMATICS-E17F5,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Mathematics,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MECHANICAL-ENGINE-36283,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,Mechanical Engineering,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MECHATRONICS-ENGI-72E9C,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,MECHATRONICS ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-METALLURGICAL-ENG-43BD5,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,METALLURGICAL ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-METEOROLOGIST-F4B4B,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Meteorologist,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MICROBIOLOGY-1A40A,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Microbiology,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MILITARY-DOCTOR-A6986,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Military Doctor,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MINING-ENGINEERIN-A7154,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,MINING ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MINING-TECHNICIAN-AB9C6,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Mining Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MLOPS-ENGINEER-3D44E,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,MLOps Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MOTION-DESIGN-3502D,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Motion Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-MRO-ENGINEER-EDC9A,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,MRO Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NANOTECHNOLOGY-3E45B,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,NANOTECHNOLOGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NATUROPATHY-YOGIC-5412C,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Naturopathy & Yogic Sciences (BNYS),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NAVAL-ARCHITECTUR-AB88D,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,NAVAL ARCHITECTURE,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NAVAL-ENGINEER-D6D80,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Naval Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NAVAL-OFFICER-F8F0C,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Naval Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NAVIK-A47E8,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Navik,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NETWORK-ENGINEER-26C50,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Network Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NLP-ENGINEER-70FDF,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,NLP Engineer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NURSING-BSC-745B4,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Nursing (BSc),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-NURSING-OFFICER-5EFBF,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Nursing Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-OCEANOGRAPHY-MARI-B6FDF,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Oceanography / Marine Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-OFFICER-E3B5E,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-OPERATOR-1F7CF,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Operator,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PACKAGING-DESIGN-1967C,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Packaging Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PACKAGING-TECHNIC-C2351,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Packaging Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PACKAGING-TECHNOL-3358C,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,PACKAGING TECHNOLOGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PARA-SF-424A8,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Para SF,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PART-TIME-OFFICER-FBC29,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Part-time Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PATHOLOGY-B32A0,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Pathology,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PEDIATRICS-F81AB,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Pediatrics,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PETROLEUM-ENGINEE-FB536,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,PETROLEUM ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PHARMACIST-26368,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Pharmacist,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PHARMACY-BPHARM-8FAC9,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Pharmacy (BPharm),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PHYSICS-2EA48,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Physics,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PHYSIOTHERAPY-BPT-7508D,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Physiotherapy (BPT),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PILOT-9A174,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Pilot,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PLUMBER-970A5,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Plumber,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-POLYMER-PLASTICS-EE8FC,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,POLYMER / PLASTICS ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PRINTING-TECHNICI-A304C,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Printing Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PRINTING-TECHNOLO-8C9B9,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,PRINTING TECHNOLOGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PROCESS-TECHNICIA-7C5A6,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Process Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PRODUCT-ANALYST-23084,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Product Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PRODUCT-DESIGN-219E7,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Product Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PSYCHIATRY-82FCA,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Psychiatry,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-PULP-PAPER-TECHNO-0EF73,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,PULP & PAPER TECHNOLOGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-QUANTITATIVE-ANAL-6E5DD,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Quantitative Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-RADIOLOGY-9BA7A,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Radiology,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-RADIOLOGY-TECH-7B544,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Radiology Tech,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-RAMP-STAFF-BFB3A,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Ramp Staff,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-RENEWABLE-ENERGY-7C109,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,RENEWABLE ENERGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-REPAIR-TECHNICIAN-7909B,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Repair Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-RISK-ANALYST-2F310,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Risk Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ROBOTICS-ENGINEER-C9C18,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,ROBOTICS ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SAFETY-OFFICER-35334,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Safety Officer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SAILOR-3D248,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Sailor,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SCIENTIST-87B30,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Scientist,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SECURITY-STAFF-95906,UNI-SCIENCE,DOM-SCI-AVIATION-B5882,Security Staff,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SECURITY-TECHNICI-F47D0,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Security Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SERVICE-DESIGN-A7801,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Service Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SIDDHA-MEDICINE-B-75CEF,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Siddha Medicine (BSMS),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SKILLED-WORKER-A81FA,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Skilled worker,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SOIL-SCIENCE-FAC12,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Soil Science,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SOLAR-INSTALLER-54C78,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Solar Installer,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SOLDIER-267AD,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Soldier,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SPACE-TECHNOLOGY-24B4C,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,SPACE TECHNOLOGY,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-STATISTICS-2E374,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Statistics,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SUPPLY-CHAIN-OPER-0ECCD,UNI-SCIENCE,DOM-SCI-DATA-ANALYTICS-D14E3,Supply Chain / Operations Analyst,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-SURVEYOR-B068D,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Surveyor,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-TECH-SOLDIER-148FD,UNI-SCIENCE,DOM-SCI-DEFENCE-CCE35,Tech Soldier,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-TECHNICIAN-5A57B,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Technician,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-TEXTILE-DESIGN-0C3E5,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Textile Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-TEXTILE-ENGINEERI-7324F,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,TEXTILE ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-TOOL-DIE-MAKER-5DBDF,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Tool & Die Maker,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-TOOL-ENGINEERING-2D7F8,UNI-SCIENCE,DOM-SCI-ENGINEERING-AA712,TOOL ENGINEERING,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-UI-ENGINEERING-CR-9D6A5,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,UI Engineering / Creative Frontend,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-UI-UX-DESIGN-B2FF5,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,UI/UX Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-UNANI-MEDICINE-BU-B0156,UNI-SCIENCE,DOM-SCI-MEDICINE-563F6,Unani Medicine (BUMS),,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-VISUAL-COMMUNICAT-40D3D,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Visual Communication Design,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-WAYFINDING-ENVIRO-2AB13,UNI-SCIENCE,DOM-SCI-DESIGN-10B24,Wayfinding / Environmental Graphics,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-WELDER-21472,UNI-SCIENCE,DOM-SCI-VOCATIONAL-BCFEB,Welder,,Core,Validated,0.6.1a,1-Structured-Science.xlsx
+STR-SCI-ZOOLOGY-34048,UNI-SCIENCE,DOM-SCI-PURE-SCIENCE-CB5E0,Zoology,,Core,Validated,0.6.1a,1-Structured-Science.xlsx

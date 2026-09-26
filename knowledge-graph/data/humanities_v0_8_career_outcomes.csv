@@ -1,0 +1,161 @@
+﻿career_outcome_code,universe_code,name,governance_status,version,source_document
+CAR-HUM-LANG-CLASLANGANDINDO-01,UNI-HUMANITIES,Sanskrit Studies & Indology,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-LANG-ENGLLITE-01,UNI-HUMANITIES,English Literature Academic / Professor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-LANG-INDIANDREGILANG-01,UNI-HUMANITIES,Marathi / Regional Language Scholar,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-LANG-INDIANDREGILANG-02,UNI-HUMANITIES,Hindi Language & Literature Career,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-LANG-LANGANDCULTCOMM-01,UNI-HUMANITIES,Manuscriptologist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-LANG-LINGANDLANGSCIE-01,UNI-HUMANITIES,Linguist / Language Scientist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-LANG-SUBTDUBBANDMEDI-01,UNI-HUMANITIES,Subtitling & Dubbing Script Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-LANG-TRANANDINTE-01,UNI-HUMANITIES,Translator / Interpreter,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-LANG-WRITANDDOCU-01,UNI-HUMANITIES,Technical / Documentation Writer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-HHA-ARCH-01,UNI-HUMANITIES,Archaeologist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-HHA-ARCHANDRECOMANA-01,UNI-HUMANITIES,Archivist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-HHA-CONSDOCU-01,UNI-HUMANITIES,Conservation Documentation Assistant,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-HHA-HERIINTEANDTOUR-01,UNI-HUMANITIES,Heritage Walk / Cultural Tourism Professional,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-HHA-HERISTUD-01,UNI-HUMANITIES,Museum Educator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-HHA-HISTANDHISTRESE-01,UNI-HUMANITIES,Historian / History Professor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-HHA-MUSEANDMUSESTUD-01,UNI-HUMANITIES,Museum Curator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-HHA-SPECANDPUBLHIST-01,UNI-HUMANITIES,Epigraphist / Numismatist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GOV-INTERELA-01,UNI-HUMANITIES,International Relations Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GOV-NATICIVISERVPATH-01,UNI-HUMANITIES,Civil Services - IAS/IPS/IFS/IRS via UPSC CSE,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GOV-POLISCIEANDPOLI-01,UNI-HUMANITIES,Political Analyst,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GOV-PUBLADMI-01,UNI-HUMANITIES,Public Administration Academic / Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GOV-PUBLPOLI-01,UNI-HUMANITIES,Public Policy Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GOV-STATCIVISERVPATH-01,UNI-HUMANITIES,State Civil Services / MPSC-type Careers,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-SOC-CSRANDSOCIIMPA-01,UNI-HUMANITIES,CSR Social Impact Associate,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-SOC-COMMENGAPRAC-01,UNI-HUMANITIES,Community Manager,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-SOC-DEVESTUD-01,UNI-HUMANITIES,Development Sector Professional,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-SOC-GENDANDINCLSTUD-01,UNI-HUMANITIES,Gender Studies Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-SOC-PUBLENGA-01,UNI-HUMANITIES,Public Engagement Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-SOC-RURADEVE-01,UNI-HUMANITIES,Rural Development Professional,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-SOC-SOCIWORK-01,UNI-HUMANITIES,Social Worker / MSW Professional,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-SOC-SOCI-01,UNI-HUMANITIES,Sociologist / Sociology Professor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PSY-BEHASCIE-01,UNI-HUMANITIES,Behavioural Science Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PSY-CLINPSYCPATH-01,UNI-HUMANITIES,Clinical Psychologist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PSY-COUNPSYC-01,UNI-HUMANITIES,Counselling Psychologist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PSY-EDUCPSYC-01,UNI-HUMANITIES,School Psychologist / School Counsellor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PSY-FOREPSYC-01,UNI-HUMANITIES,Forensic Psychology Assistant / Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PSY-ORGAPSYC-01,UNI-HUMANITIES,Organizational Psychologist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PSY-PSYCANDASSE-01,UNI-HUMANITIES,Psychometric Test Developer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PSY-SPORPSYC-01,UNI-HUMANITIES,Sports Psychologist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GEO-DISAANDHUMASTUD-01,UNI-HUMANITIES,Disaster Management Professional - Social Side,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GEO-ENVIHUMA-01,UNI-HUMANITIES,Environmental Humanities Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GEO-GISANDSPATHUMA-01,UNI-HUMANITIES,GIS Analyst - Humanities Route,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GEO-GEOG-01,UNI-HUMANITIES,Geographer / Geography Professor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-GEO-URBASTUD-01,UNI-HUMANITIES,Urban Studies Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PHI-APPLETHIANDAI-01,UNI-HUMANITIES,Ethics & AI Policy Analyst,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PHI-MEDIANDHEALHUMA-01,UNI-HUMANITIES,Bioethics / Medical Humanities Associate,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PHI-PHIL-01,UNI-HUMANITIES,Philosophy Professor / Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PHI-RELISTUD-01,UNI-HUMANITIES,Religious Studies / Comparative Religion Scholar,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-EDU-CAREGUIDANDCOUN-01,UNI-HUMANITIES,Career Counsellor - Humanities Route,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-EDU-CURRANDLEARDESI-01,UNI-HUMANITIES,Curriculum Developer - Humanities,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-EDU-EDUCCONTANDKNOW-01,UNI-HUMANITIES,Educational Content Writer - Arts Subjects,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-EDU-HIGHEDUCANDACAD-01,UNI-HUMANITIES,College Professor - Humanities,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-EDU-INCLANDSPECEDUC-01,UNI-HUMANITIES,Special Educator - Non-medical Route,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-EDU-LIFESKILFACI-01,UNI-HUMANITIES,Life Skills Trainer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-EDU-MENTANDLEARSUPP-01,UNI-HUMANITIES,Student Success Mentor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-EDU-SCHOTEAC-01,UNI-HUMANITIES,School Teacher - Arts Subjects,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-ADVEANDCREACOPY-01,UNI-HUMANITIES,Advertising Copywriter,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-AUDIPODCANDRADI-01,UNI-HUMANITIES,Podcast Producer / Audio Storyteller,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-BROAMEDI-01,UNI-HUMANITIES,Broadcast Journalist / News Anchor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-CONTINDU-01,UNI-HUMANITIES,YouTube Educator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-CREAWRIT-01,UNI-HUMANITIES,Script Writer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-DIGICULTSTUD-01,UNI-HUMANITIES,Podcast Creator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-DIGIMEDIANDCONT-01,UNI-HUMANITIES,Social Media Content Strategist - Arts Route,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-FILMDOCUANDSCRE-01,UNI-HUMANITIES,Documentary Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-JOUR-01,UNI-HUMANITIES,Journalist - Print/Digital,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-MEDIVERIANDFACT-01,UNI-HUMANITIES,Fact-checker / Verification Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-MED-PUBLRELAANDSTRA-01,UNI-HUMANITIES,Public Relations Content Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PERF-DANCPRAC-01,UNI-HUMANITIES,Dance Performer / Choreographer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PERF-DEVOANDSACRARTS-01,UNI-HUMANITIES,Kirtankar,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PERF-FOLKPERFARTS-01,UNI-HUMANITIES,Powada/Shahiri Artist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PERF-INSTMUSI-01,UNI-HUMANITIES,Guitarist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PERF-INSTMUSI-02,UNI-HUMANITIES,Flute Artist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PERF-MUSIPRAC-01,UNI-HUMANITIES,Classical Music Performer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PERF-THEAANDPERF-01,UNI-HUMANITIES,Theatre Artist / Actor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-VIS-ARTEDUC-01,UNI-HUMANITIES,Art Teacher / Visual Arts Educator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-VIS-CRAFANDMATEARTS-01,UNI-HUMANITIES,Handicraft Entrepreneur,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-VIS-EXPRANDTHERARTS-01,UNI-HUMANITIES,Art Therapist Assistant / Expressive Arts Facilitator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-VIS-FINEARTSPRAC-01,UNI-HUMANITIES,Fine Artist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-VIS-ILLUANDVISUCOMM-01,UNI-HUMANITIES,Illustrator - Cultural/Educational Content,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-VIS-TRADVISUARTS-01,UNI-HUMANITIES,Warli Art Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-VIS-TRADVISUARTS-02,UNI-HUMANITIES,Madhubani Artist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-ASIALANGSTUD-01,UNI-HUMANITIES,Japanese/Korean Language + Culture Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-DIGIMEDIANDCONT-01,UNI-HUMANITIES,Subtitling Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-FORELANGSTUD-01,UNI-HUMANITIES,Foreign Language Expert,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-LANGSERV-01,UNI-HUMANITIES,Translator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-LANGSERV-02,UNI-HUMANITIES,Literary Translator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-LANGSERV-03,UNI-HUMANITIES,Interpreter,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-LANGTEACANDTRAI-01,UNI-HUMANITIES,English Language Trainer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-LANGTECH-01,UNI-HUMANITIES,Localization Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-LANGTRUSANDSAFE-01,UNI-HUMANITIES,Content Moderator - Language & Culture,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-TRANS-LOCA-01,UNI-HUMANITIES,Localization Quality Analyst,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-AIASSICONTAND-01,UNI-HUMANITIES,Prompt Writer / AI Content Evaluator - Humanities,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-AIERAPUBLAND-01,UNI-HUMANITIES,AI-Assisted Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-AIERAPUBLAND-02,UNI-HUMANITIES,Human Content Reviewer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-AIERAPUBLAND-03,UNI-HUMANITIES,Knowledge Curator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-AIERAPUBLAND-04,UNI-HUMANITIES,Editorial Prompt Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-AIERAPUBLAND-05,UNI-HUMANITIES,AI Training Content Reviewer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-AIERAPUBLAND-06,UNI-HUMANITIES,Multilingual Dataset Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-ACADANDSCHOPUBL-01,UNI-HUMANITIES,Academic Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-ACADANDSCHOPUBL-02,UNI-HUMANITIES,Journal Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-ACADANDSCHOPUBL-03,UNI-HUMANITIES,Research Digest Creator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-AUDIPUBL-01,UNI-HUMANITIES,Audiobook Script Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-CHILSANDEDUC-01,UNI-HUMANITIES,Children’s Literature Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-DIGIPUBL-01,UNI-HUMANITIES,Content Curator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-DIGIPUBL-02,UNI-HUMANITIES,Kindle Publisher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-DIGIPUBL-03,UNI-HUMANITIES,Digital Magazine Creator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-DIGIPUBL-04,UNI-HUMANITIES,Newsletter Publisher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-DIGIPUBL-05,UNI-HUMANITIES,Ebook Formatter,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-DIGIPUBL-06,UNI-HUMANITIES,Book Metadata Specialist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-DIGIPUBL-07,UNI-HUMANITIES,Publishing Platform Manager,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-EDITPRAC-01,UNI-HUMANITIES,Book Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-EDITPRAC-02,UNI-HUMANITIES,Copy Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-EDITPRAC-03,UNI-HUMANITIES,Proofreader,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-EDITPRAC-04,UNI-HUMANITIES,Acquisition Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-EDITPRAC-05,UNI-HUMANITIES,Commissioning Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-EDITPRAC-06,UNI-HUMANITIES,Literary Scout,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-EDITPRAC-07,UNI-HUMANITIES,Manuscript Evaluator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-EDUCPUBL-01,UNI-HUMANITIES,Educational Notes Publisher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-EDUCPUBL-02,UNI-HUMANITIES,Humanities Course Publisher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-HERIANDCULTPUBL-01,UNI-HUMANITIES,Archive Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-HERIANDCULTPUBL-02,UNI-HUMANITIES,Cultural Documentation Publisher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-KNOWCURAANDINFO-01,UNI-HUMANITIES,Knowledge Manager / Research Curator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-LITECRITANDREVI-01,UNI-HUMANITIES,Literary Critic,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-LITECRITANDREVI-02,UNI-HUMANITIES,Book Reviewer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-LITECRITANDREVI-03,UNI-HUMANITIES,Sensitivity Reader,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-LITECRITANDREVI-04,UNI-HUMANITIES,Anthology Curator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-PRINONDEMAPUBL-01,UNI-HUMANITIES,POD Publishing Consultant,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-PUBL-01,UNI-HUMANITIES,Book Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-PUBL-02,UNI-HUMANITIES,Literary Agent / Publishing Coordinator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-PUBLENTR-01,UNI-HUMANITIES,Independent Publisher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-PUBLENTR-02,UNI-HUMANITIES,Literary Magazine Founder,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-PUBLOPER-01,UNI-HUMANITIES,Publishing Coordinator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-PUBLOPER-02,UNI-HUMANITIES,Managing Editor,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-PUBLOPER-03,UNI-HUMANITIES,Editorial Assistant,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-REGILANGPUBL-01,UNI-HUMANITIES,Regional Language Publisher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-SCREANDNARRDEVE-01,UNI-HUMANITIES,Scriptwriter - Film/OTT/Theatre,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-UXANDPRODWRIT-01,UNI-HUMANITIES,UX Writer / Content Designer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-PUB-WRITANDDOCU-01,UNI-HUMANITIES,Creative Writer / Author,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-CULT-CULTCURA-01,UNI-HUMANITIES,Festival Curator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-CULT-CULTENTR-01,UNI-HUMANITIES,Cultural Entrepreneur,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-CULT-CULTANDORALHIST-01,UNI-HUMANITIES,Oral History Documenter,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-CULT-CULTANDARTSMANA-01,UNI-HUMANITIES,Cultural Programme Coordinator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-CULT-GALLPRAC-01,UNI-HUMANITIES,Art Gallery Coordinator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-CULT-PUBLHUMA-01,UNI-HUMANITIES,Independent Researcher / Public Humanities Creator,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-AICOMM-01,UNI-HUMANITIES,Prompt Designer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-AIETHIANDGOVE-01,UNI-HUMANITIES,AI Ethics Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-CONVAIANDHUMA-01,UNI-HUMANITIES,Conversational AI Trainer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-DIGIHUMA-01,UNI-HUMANITIES,Digital Humanities Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-DIGISTOR-01,UNI-HUMANITIES,Podcast Storyteller,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-HUMACENTUXCOMM-01,UNI-HUMANITIES,Narrative UX Writer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-MEDITHOUANDSOCI-01,UNI-HUMANITIES,Opinion Columnist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-PUBL-01,UNI-HUMANITIES,Ghost Writer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-WRITANDNARRSYST-01,UNI-HUMANITIES,Blog Writer,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-DH-WRITANDNARRSYST-02,UNI-HUMANITIES,Long-form Essayist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-IKS-ANCIANDINDISTUD-01,UNI-HUMANITIES,Epigraphy Assistant,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-IKS-CULTSTUD-01,UNI-HUMANITIES,Folk Culture Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-IKS-INDIKNOWSYST-01,UNI-HUMANITIES,IKS Researcher,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-IKS-INDIKNOWSYST-02,UNI-HUMANITIES,Vedic Studies Scholar,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-IKS-INDIHERISTUD-01,UNI-HUMANITIES,Oral Tradition Archivist,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
+CAR-HUM-IKS-TEMPANDSACRHERI-01,UNI-HUMANITIES,Temple Heritage Interpreter,Validated baseline,0.8,RSA_SCC_Ontology_v0.8_Humanities_Universe_Direct_Structure.md
