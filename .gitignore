@@ -40,6 +40,12 @@ runtime-backups/
 infrastructure/runtime-data/
 infrastructure/runtime-backups/
 
+# Unstructured-ingestion inbox and generated corpus outputs
+/ingestion/inbox/
+/ingestion/output/
+/datasets/ingestion/
+/tmp/
+
 # Editors and operating systems
 .idea/
 .vscode/

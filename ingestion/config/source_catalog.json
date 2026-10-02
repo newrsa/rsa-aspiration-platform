@@ -1,0 +1,141 @@
+{
+  "version": "0.1.0",
+  "categories": [
+    "policy_and_regulation",
+    "education_pathways",
+    "credits_and_qualifications",
+    "skills_and_vocational",
+    "certifications_and_licensing",
+    "exams_and_admissions",
+    "institutions_and_accreditation",
+    "careers_and_employability",
+    "scholarships_and_finance",
+    "labour_market"
+  ],
+  "sources": [
+    {
+      "source_id": "SRC-MOE-NEP-2020",
+      "kind": "pdf",
+      "title": "National Education Policy 2020",
+      "file_name": "NEP_Final_English_0.pdf",
+      "authority_id": "AUTH-MOE-INDIA",
+      "publisher": "Ministry of Human Resource Development, Government of India",
+      "publication_date": "2020-07-29",
+      "canonical_url": "https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf",
+      "default_categories": ["policy_and_regulation", "education_pathways"],
+      "expected_entity_types": ["EducationStage", "Degree", "Subject", "Skill", "Institution", "RegulatoryBody", "AdmissionPathway", "EntranceExam"]
+    },
+    {
+      "source_id": "SRC-MOE-NEP-INITIATIVES-2Y",
+      "kind": "pdf",
+      "title": "2 Years of NEP 2020 - Achievements of NEP Implementation",
+      "file_name": "NEP Initiatives.pdf",
+      "authority_id": "AUTH-MOE-INDIA",
+      "publisher": "Ministry of Education, Government of India",
+      "publication_date": "2022",
+      "canonical_url": "",
+      "default_categories": ["policy_and_regulation", "skills_and_vocational", "education_pathways"],
+      "expected_entity_types": ["EducationStage", "Skill", "Subject", "CareerOutcome", "Institution", "RegulatoryBody", "EntranceExam", "Degree"]
+    },
+    {
+      "source_id": "SRC-UGC-NCRF-2023",
+      "kind": "pdf",
+      "title": "National Credit Framework",
+      "file_name": "National-Credit-Framework.pdf",
+      "authority_id": "AUTH-UGC-INDIA",
+      "publisher": "University Grants Commission",
+      "publication_date": "2023-04",
+      "canonical_url": "",
+      "default_categories": ["credits_and_qualifications", "skills_and_vocational", "education_pathways", "policy_and_regulation"],
+      "expected_entity_types": ["EducationStage", "Degree", "Certification", "Skill", "Subject", "Institution", "RegulatoryBody", "AdmissionPathway"]
+    },
+    {
+      "source_id": "WEB-AICTE",
+      "kind": "website",
+      "title": "All India Council for Technical Education",
+      "authority_id": "AUTH-AICTE-INDIA",
+      "canonical_url": "https://www.aicte-india.org/",
+      "crawl_status": "candidate_manual_review",
+      "crawl_note": "Root page reachable; robots.txt not published at the conventional path. Approve a bounded URL list before crawling.",
+      "default_categories": ["institutions_and_accreditation", "policy_and_regulation", "education_pathways"],
+      "expected_entity_types": ["Institution", "RegulatoryBody", "Degree", "Stream"]
+    },
+    {
+      "source_id": "WEB-NSDC",
+      "kind": "website",
+      "title": "National Skill Development Corporation",
+      "authority_id": "AUTH-NSDC-INDIA",
+      "canonical_url": "https://www.nsdcindia.org/",
+      "crawl_status": "candidate_sitemap",
+      "crawl_note": "robots.txt allows crawling and publishes https://www.nsdcindia.org/sitemap.xml; apply rate limits and a reviewed path allowlist.",
+      "default_categories": ["skills_and_vocational", "careers_and_employability"],
+      "expected_entity_types": ["Skill", "Certification", "Apprenticeship", "CareerOutcome", "RegulatoryBody"]
+    },
+    {
+      "source_id": "WEB-NISM",
+      "kind": "website",
+      "title": "National Institute of Securities Markets",
+      "authority_id": "AUTH-NISM-INDIA",
+      "canonical_url": "https://www.nism.ac.in/",
+      "crawl_status": "candidate_sitemap_with_exclusions",
+      "crawl_note": "Use the published sitemap but enforce every robots.txt exclusion, including restricted certification paths.",
+      "default_categories": ["certifications_and_licensing", "exams_and_admissions", "careers_and_employability"],
+      "expected_entity_types": ["Certification", "EntranceExam", "Skill", "CareerOutcome", "Institution"]
+    },
+    {
+      "source_id": "WEB-TISS",
+      "kind": "website",
+      "title": "Tata Institute of Social Sciences",
+      "authority_id": "AUTH-TISS-INDIA",
+      "canonical_url": "https://www.tiss.edu/",
+      "crawl_status": "paused_connectivity_review",
+      "crawl_note": "The initial availability and robots checks timed out. Do not automate until connectivity and publisher policy are reviewed.",
+      "default_categories": ["institutions_and_accreditation", "education_pathways", "exams_and_admissions"],
+      "expected_entity_types": ["Institution", "Degree", "Stream", "EntranceExam"]
+    },
+    {
+      "source_id": "WEB-UGC",
+      "kind": "website",
+      "title": "University Grants Commission",
+      "authority_id": "AUTH-UGC-INDIA",
+      "canonical_url": "https://www.ugc.gov.in/",
+      "crawl_status": "candidate_manual_review",
+      "crawl_note": "Root and robots.txt are reachable, but no machine-readable crawl directives were observed. Prefer official notices, lists, and downloadable publications selected by reviewers.",
+      "default_categories": ["institutions_and_accreditation", "policy_and_regulation", "credits_and_qualifications"],
+      "expected_entity_types": ["Institution", "RegulatoryBody", "Degree", "Scholarship"]
+    },
+    {
+      "source_id": "WEB-NTA-NCHM",
+      "kind": "website",
+      "title": "NTA NCHM Examination",
+      "authority_id": "AUTH-NTA-INDIA",
+      "canonical_url": "https://exams.nta.ac.in/NCHM/",
+      "crawl_status": "disabled_stale_url",
+      "crawl_note": "The supplied URL returned HTTP 404 during the initial assessment. Discover and approve the current official examination URL before ingestion.",
+      "default_categories": ["exams_and_admissions", "education_pathways"],
+      "expected_entity_types": ["EntranceExam", "Institution", "Degree", "AdmissionPathway"]
+    },
+    {
+      "source_id": "WEB-NITI",
+      "kind": "website",
+      "title": "NITI Aayog",
+      "authority_id": "AUTH-NITI-INDIA",
+      "canonical_url": "https://www.niti.gov.in/",
+      "crawl_status": "manual_or_official_export_only",
+      "crawl_note": "Automated requests returned HTTP 403. Do not bypass access controls; ingest reviewed official reports or an approved feed/export.",
+      "default_categories": ["policy_and_regulation", "labour_market", "skills_and_vocational"],
+      "expected_entity_types": ["Skill", "CareerOutcome", "RegulatoryBody", "Domain"]
+    },
+    {
+      "source_id": "WEB-IICA",
+      "kind": "website",
+      "title": "Indian Institute of Corporate Affairs",
+      "authority_id": "AUTH-IICA-INDIA",
+      "canonical_url": "https://iica.nic.in/",
+      "crawl_status": "candidate_manual_review",
+      "crawl_note": "Root page reachable; robots.txt not published at the conventional path. Approve courses/publications paths before crawling.",
+      "default_categories": ["skills_and_vocational", "certifications_and_licensing", "careers_and_employability"],
+      "expected_entity_types": ["Certification", "Skill", "CareerOutcome", "Institution"]
+    }
+  ]
+}

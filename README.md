@@ -23,6 +23,7 @@ The RSA Aspiration Platform combines an aspirant-facing conversational applicati
 - `neo4j/` — generated schema, loaders, validation, notebooks, and query examples.
 - `datasets/` — generated seed data used by the Neo4j smoke workflow.
 - `infrastructure/` and `docker-compose.yml` — local data stack, cloud environment contract, Tailscale guidance, and operations runbooks.
+- `ingestion/` — governed PDF, website, and transcript evidence architecture, source catalog, schemas, and database loaders.
 - `docs/` — application, architecture, governance, security, and ADR documentation.
 - `scripts/` and `tests/` — generators, operational helpers, and validation suites.
 

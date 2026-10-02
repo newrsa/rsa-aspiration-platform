@@ -35,3 +35,8 @@ Run order:
 8. `python scripts/validate_registry.py --strict`
 
 Operational helpers under `scripts/infrastructure/` validate the Linux host, verify the three-store Compose stack, and create database-native backups. They are intentionally separate from semantic artifact generation.
+
+Unstructured-ingestion helpers under `scripts/ingestion/` extract approved PDFs
+and transcripts into citation-preserving chunks and load reviewed evidence into
+the local POC. See `ingestion/README.md`; automated matches remain proposals
+until a reviewer approves them.
