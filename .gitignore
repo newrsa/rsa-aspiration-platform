@@ -29,6 +29,7 @@ work-dev*.log
 !.env.example
 !infrastructure/.env.example
 !infrastructure/.env.cloud.example
+!infrastructure/.env.poc.example
 .tunnel.env
 *.pem
 infrastructure/secrets/

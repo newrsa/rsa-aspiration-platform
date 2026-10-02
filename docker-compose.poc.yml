@@ -1,0 +1,50 @@
+# Low-memory override for a 16 GB Windows machine using Docker Desktop + WSL 2.
+# Run together with docker-compose.yml; do not use this profile for production.
+services:
+  neo4j:
+    mem_limit: 5g
+    environment:
+      NEO4J_server_bolt_advertised__address: ${RSA_ADVERTISED_HOST:-localhost}:${NEO4J_BOLT_PORT:-17687}
+    volumes:
+      - rsa-poc-neo4j-data:/data
+      - rsa-poc-neo4j-logs:/logs
+      - rsa-poc-neo4j-backups:/backups
+      - ${RSA_NEO4J_IMPORT_ROOT:-./datasets}:/import:ro
+
+  qdrant:
+    mem_limit: 2g
+    volumes:
+      - rsa-poc-qdrant-data:/qdrant/storage
+      - rsa-poc-qdrant-snapshots:/qdrant/snapshots
+
+  postgres:
+    mem_limit: 1g
+    command:
+      - postgres
+      - -c
+      - shared_buffers=256MB
+      - -c
+      - effective_cache_size=768MB
+      - -c
+      - maintenance_work_mem=64MB
+      - -c
+      - max_connections=50
+    volumes:
+      - rsa-poc-postgres-data:/var/lib/postgresql/data
+      - rsa-poc-postgres-backups:/backups
+
+volumes:
+  rsa-poc-neo4j-data:
+    name: rsa-poc-neo4j-data
+  rsa-poc-neo4j-logs:
+    name: rsa-poc-neo4j-logs
+  rsa-poc-neo4j-backups:
+    name: rsa-poc-neo4j-backups
+  rsa-poc-qdrant-data:
+    name: rsa-poc-qdrant-data
+  rsa-poc-qdrant-snapshots:
+    name: rsa-poc-qdrant-snapshots
+  rsa-poc-postgres-data:
+    name: rsa-poc-postgres-data
+  rsa-poc-postgres-backups:
+    name: rsa-poc-postgres-backups

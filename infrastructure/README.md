@@ -52,3 +52,9 @@ bash scripts/infrastructure/backup.sh infrastructure/.env
 Never run `docker compose down -v` for this stack. The deployment uses bind mounts, but treating volume deletion as forbidden is a useful operational guardrail.
 
 See [deployment-runbook.md](deployment-runbook.md), [cloud-slice.md](cloud-slice.md), and [tailscale.md](tailscale.md).
+
+## Windows/WSL proof of concept
+
+For the current 16 GB Windows computer, use the low-memory override in `docker-compose.poc.yml`; do not run the 64 GB server profile unchanged. Follow [poc-wsl.md](poc-wsl.md) from installation through seed loading and application testing.
+
+For independent developer stacks, offline image transfer, shared Tailscale access, data exports, and future custom-image publishing, see [team-sharing.md](team-sharing.md).

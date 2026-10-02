@@ -1,0 +1,10 @@
+# Copy the content below to C:\Users\<your-user>\.wslconfig only if WSL is
+# consuming too much host memory. Run `wsl --shutdown` after changing it.
+
+[wsl2]
+memory=10GB
+processors=6
+swap=4GB
+
+[experimental]
+autoMemoryReclaim=gradual
