@@ -22,6 +22,7 @@ $requiredFragments = @(
     "NEO4J_server_memory_heap_max__size",
     "NEO4J_server_memory_pagecache_size",
     "internal: true",
+    "rsa-access",
     "RSA_DATA_ROOT",
     "RSA_BACKUP_ROOT"
 )
