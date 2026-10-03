@@ -2,6 +2,13 @@
 
 This package runs the Phase 1 data plane: Neo4j, Qdrant, and Postgres. The same application-level connection variables are used for the local stack and the free-tier team slice.
 
+The core stack intentionally excludes Airflow and Airbyte. Pipeline code runs as
+versioned commands and initially uses a host scheduler plus Postgres run state.
+Airflow and Airbyte have separate adoption thresholds and, if adopted, separate
+deployments; see
+[`ADR-006`](../docs/architecture/adr/ADR-006-staged-orchestration-and-connectors.md)
+and the [pipeline operating model](../docs/architecture/pipeline-operating-model.md).
+
 ## Pinned runtime
 
 | Store | Image | Host ports | Memory ceiling |
@@ -11,6 +18,12 @@ This package runs the Phase 1 data plane: Neo4j, Qdrant, and Postgres. The same 
 | Postgres | `postgres:17.10-alpine3.24` | 5432 | 4 GB |
 
 Neo4j receives an 8 GB fixed heap and 28 GB page cache. The combined container ceilings are 56 GB, leaving about 8 GB of a 64 GB host for Ubuntu, Docker, filesystem cache, and ingestion processes.
+
+That remaining capacity is not a reservation for two additional always-on
+platforms. Airflow's official local Compose guidance calls for at least 4 GB and
+ideally 8 GB of Docker memory; Airbyte's self-managed quickstart recommends 8 GB
+and operates a local Kubernetes cluster. Run measured ingestion workloads before
+allocating resources to either platform.
 
 ## First deployment
 
@@ -58,3 +71,8 @@ See [deployment-runbook.md](deployment-runbook.md), [cloud-slice.md](cloud-slice
 For the current 16 GB Windows computer, use the low-memory override in `docker-compose.poc.yml`; do not run the 64 GB server profile unchanged. Follow [poc-wsl.md](poc-wsl.md) from installation through seed loading and application testing.
 
 For independent developer stacks, offline image transfer, shared Tailscale access, data exports, and future custom-image publishing, see [team-sharing.md](team-sharing.md).
+
+Do not attempt to add Airflow or Airbyte to the 16 GB POC stack. Their control
+planes would compete with Docker Desktop, Neo4j, Qdrant, Postgres, and the
+extraction process. Evaluate them on the 64 GB Ubuntu build host only after the
+adoption triggers in ADR-006 are met.

@@ -56,6 +56,12 @@ The governing principles are:
 
 See [`docs/architecture/enterprise-architecture.md`](docs/architecture/enterprise-architecture.md) and [`semantic-registry/specification/semantic-registry-specification.yaml`](semantic-registry/specification/semantic-registry-specification.yaml).
 
+Pipeline scheduling and connector adoption are governed by
+[`ADR-006`](docs/architecture/adr/ADR-006-staged-orchestration-and-connectors.md)
+and the [`pipeline operating model`](docs/architecture/pipeline-operating-model.md).
+Airflow and Airbyte are deliberately not part of the core always-on Compose
+stack in the current phase.
+
 ## Security
 
 - Never commit local environment or tunnel credential files.

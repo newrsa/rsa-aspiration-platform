@@ -16,6 +16,8 @@ The knowledge graph stores governed, universal facts. The Decision Engine owns c
 4. Explainability by explicit traversal.
 5. Generation over duplicated definitions.
 6. Governance, provenance, and versioning by design.
+7. Pipeline logic remains independent of orchestration and connector products.
+8. The serving plane consumes promoted releases and never depends on a live ingestion workflow.
 
 ## Initial acceptance criteria
 

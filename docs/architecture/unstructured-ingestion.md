@@ -31,6 +31,15 @@ Citation-preserving chunks (page or timestamp)
                 reviewed SUPPORTS links
 ```
 
+Pipeline commands are orchestrator-independent. In the current phase they run
+manually or through a host scheduler and record durable state in Postgres. A
+future Airflow deployment may coordinate the same commands without becoming the
+owner of source manifests, review decisions, or publishing state. Airbyte may
+later acquire data from supported structured systems, but it does not replace
+the PDF, website, transcript, ontology-alignment, or evidence-review stages.
+
+See `pipeline-operating-model.md` and ADR-006 for the adoption thresholds.
+
 ## Evidence graph
 
 ```text
@@ -95,3 +104,11 @@ For an official transcript, preserve the supplied timestamps. For speech-to-text
 store the media URL, transcription model/version, language, confidence when
 available, and timestamp bounds. Generated transcripts require review before
 they can support an aspirant answer.
+
+## Orchestration quality gate
+
+A pipeline is not scheduled until it is idempotent, restartable, bounded, and
+observable when run directly. Adding a scheduler must not change record IDs,
+provenance, review rules, or publication behavior. Neo4j and Qdrant publishing
+use durable Postgres state so a partial cross-store failure can be retried and
+reconciled without duplicating data.
